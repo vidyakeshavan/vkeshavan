@@ -3,6 +3,8 @@ import Router from 'vue-router';
 import Work from '@/components/Work';
 import minARal from '@/components/minARal';
 import About from '@/components/About';
+import Break from '@/components/Break';
+import Slatemag from '@/components/Slatemag';
 
 
 Vue.use(Router);
@@ -23,6 +25,16 @@ export default new Router({
       path: '/about',
       name: 'About',
       component: About,
+    },
+    {
+      path: '/break',
+      name: 'Break',
+      component: Break,
+    },
+    {
+      path: '/slatemag',
+      name: 'Slatemag',
+      component: Slatemag,
     },
   ],
 });
