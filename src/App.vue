@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <link href="https://fonts.googleapis.com/css?family=Acme|Lato" rel="stylesheet">
     <div class="p4">
       <div class="navbar">
             <h1>Vidya<br /> Keshavan</h1>
@@ -28,7 +29,7 @@ export default {
 }
 
 body {
-  font-family: 'Lato-Light';
+  font-family: 'Lato', sans-serif;
 }
 
 .p4 {
@@ -115,7 +116,7 @@ img {
 }
 
 .footersubhead {
-  font-family: 'Lato-Regular';
+  font-family: 'Lato';
   font-weight: bolder;
   color: #000000;
   margin-left: 90px;
@@ -149,7 +150,7 @@ img {
 }
 
 figcaption {
-  font-family: 'Lato-light';
+  font-family: 'Lato';
   font-style: italic;
   font-size: 1.2vw;
 }
@@ -199,7 +200,7 @@ a {
 
 .font2 {
   font-size: 2.5vw;
-  font-family: 'lato', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 .container {
@@ -287,7 +288,7 @@ body {
   font-size: 16px;
   line-height: 1.6;
   font-weight: 400;
-  font-family: "lato-light", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; }
 
 h1, h2, h3, h4, h5, h6 {
@@ -314,7 +315,7 @@ p {
   margin-top: 0; }
 
 .overhead {
-  font-family: 'lato-light',sans-serif;
+  font-family: 'Lato',sans-serif;
   font-size: 12px;
   margin-bottom: 2%;
 }
@@ -327,7 +328,7 @@ p {
 }
 
 .subhead {
-  font-family: 'lato-light',sans-serif;
+  font-family: 'Lato',sans-serif;
   font-size: 3.5vw;
 }
 
@@ -347,7 +348,7 @@ p {
 }
 
 .minititle2 {
-  font-family: 'lato-light', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 16px;
 }
 
@@ -371,7 +372,7 @@ p {
 }
 
 .sidetext {
-  font-family: 'lato-light', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 16px;
 }
 

@@ -34,7 +34,7 @@
       <!-- just use a number and class 'column' or 'columns' -->
       <div class="row p4">
         <div class="four columns">
-          <h2> minARal </h2>
+          <h1> minARal </h1>
           <p>
             <b> Role: </b>
             Content Lead, User Experience
@@ -82,6 +82,7 @@
 .mb2 {
   margin-bottom: 2em;
 }
+
 </style>
 
 <script>
