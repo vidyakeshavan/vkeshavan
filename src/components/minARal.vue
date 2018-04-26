@@ -10,16 +10,16 @@
             <img src="../assets/img/minaralhome.png">
           </div>
         </div>
-    
+
       <!-- just use a number and class 'column' or 'columns' -->
       <div class="row csinfo">
         <div class="four columns minititle"> </div>
         <div class="eight columns minititle2">MinARal is a single-player, augmented reality based scavenger hunt game for mobile devices that educates young users on the real-world use and purpose of gems and minerals. Proposed to <b> The Smithsonian National Museum of Natural History</b>, our student team wanted to use adventure via augmented reality and whimsy with our story to ultimately get children excited about the science of mineralogy and a potential future in STEM during their museum visit.</div>
       </div>
-    
+
       <!-- there are a few shorthand columns widths as well -->
       <div class="row csgoalhead">
-        <div class="four columns lighthead"> THE <br> GOAL </div> 
+        <div class="four columns lighthead"> A <br> GOAL </div> 
       <div class="row csgoaltitle">
         <div class="twelve column darkhead">Introducing Augmented <br> Reality to the Museum</div>
       </div>
