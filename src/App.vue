@@ -1,11 +1,13 @@
 <template>
   <div id="app">
-    <div class="navbar">
-          <h1>Vidya<br /> Keshavan</h1>
-          <div class="navlinks">
-            <router-link to="/" class="workhover" exact>Work</router-link> &nbsp;&nbsp;&nbsp;
-            <router-link to="/about" class="abouthover" exact>About</router-link>
-          </div>
+    <div class="p4">
+      <div class="navbar">
+            <h1>Vidya<br /> Keshavan</h1>
+            <div class="navlinks">
+              <router-link to="/" class="workhover" exact>Work</router-link> &nbsp;&nbsp;&nbsp;
+              <router-link to="/about" class="abouthover" exact>About</router-link>
+            </div>
+      </div>
     </div>
 
     <router-view/>
@@ -13,6 +15,7 @@
 </template>
 
 <script>
+
 export default {
   name: 'App',
 };
@@ -25,8 +28,11 @@ export default {
 }
 
 body {
-  padding: 4%;
   font-family: 'Lato-Light';
+}
+
+.p4 {
+  padding: 4%;
 }
 
 h1 {
@@ -112,19 +118,19 @@ img {
   font-family: 'Lato-Regular';
   font-weight: bolder;
   color: #000000;
-  margin-left: 90px; 
+  margin-left: 90px;
   margin-bottom:0px;
   margin-top: -10px;
   font-size: 1.5vw;
   text-decoration: none;
 }
 
-.footerheadline { 
+.footerheadline {
   font-family: 'acme', sans-serif;
   color: #000000;
-  margin-left: 90px; 
+  margin-left: 90px;
   font-size: 4vw;
-  margin-left: 85px; 
+  margin-left: 85px;
   margin-top: 0;
   text-decoration: none;
 }
@@ -176,7 +182,7 @@ figcaption {
 }
 
 .proj-anchor:hover .proj-info  {
-  display: block; 
+  display: block;
 }
 
 a {
@@ -199,7 +205,7 @@ a {
 .container {
   width: 100%;
   margin: 0 auto;
-  padding: 0 20px;  
+  padding: 0 20px;
 }
 .column,
 .columns {
@@ -278,7 +284,7 @@ a {
 html {
   font-size: 45.5%; }
 body {
-  font-size: 16px; 
+  font-size: 16px;
   line-height: 1.6;
   font-weight: 400;
   font-family: "lato-light", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -346,7 +352,7 @@ p {
 }
 
 .lighthead {
-  margin-top: 10%; 
+  margin-top: 10%;
   font-family: 'acme', sans-serif;
   font-size: 8vw;
   position: relative;
@@ -366,7 +372,7 @@ p {
 
 .sidetext {
   font-family: 'lato-light', sans-serif;
-  font-size: 16px;  
+  font-size: 16px;
 }
 
 .image-bleed {
