@@ -4,14 +4,14 @@
    <div id="app" :class="'item_'+(active+1)">
      <!--transition-group.items(name='slider', mode='out-in', tag='ul')-->
      <ul class="items">
-       <li v-for="item, index in items" :class="{ active: index === active }" :key="index" @click="jump(index)"> <router-link :to="items[active].rlink">  {{item.title}} </router-link> </li>
+       <li v-for="item, index in items" :class="{ active: index === active }" :key="index" @click="jump(index)">{{item.title}}</li>
      </ul>
      <div class="item_text">
        <h2> {{ items[active].subTitle }}</h2>
        <p>
          <!--sup {{ active+1 }} -->{{ items[active].text }}
        </p>
-        <!-- <router-link :to="items[active].rlink">See more </router-link> -->
+        <router-link :to="items[active].rlink">See more </router-link>
      </div>
    </div>
   </div>
