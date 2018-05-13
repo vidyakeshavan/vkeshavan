@@ -4,7 +4,7 @@ import Work from '@/components/Work';
 import minARal from '@/components/minARal';
 import About from '@/components/About';
 import Break from '@/components/Break';
-import Slatemag from '@/components/Slatemag';
+import Numeracy from '@/components/Numeracy';
 
 
 Vue.use(Router);
@@ -32,9 +32,9 @@ export default new Router({
       component: Break,
     },
     {
-      path: '/slatemag',
-      name: 'Slatemag',
-      component: Slatemag,
+      path: '/numeracy',
+      name: 'Numeracy',
+      component: Numeracy,
     },
   ],
 });

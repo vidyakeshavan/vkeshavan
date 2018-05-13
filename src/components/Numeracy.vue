@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="title"> Slatemag </h1>
+    <h1 class="title"> Numeracy </h1>
   </div>
 </template>
 

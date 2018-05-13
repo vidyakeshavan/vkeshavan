@@ -1,17 +1,22 @@
 <template>
-  <div id="app">
+  <div id="hi">
     <link href="https://fonts.googleapis.com/css?family=Acme|Lato" rel="stylesheet">
     <div class="p4">
       <div class="navbar">
-            <h1>Vidya<br /> Keshavan</h1>
+            <h1>Vidya<br /> Keshavan</h1 >
             <div class="navlinks">
               <router-link to="/" class="workhover" exact>Work</router-link> &nbsp;&nbsp;&nbsp;
               <router-link to="/about" class="abouthover" exact>About</router-link>
             </div>
-      </div>
+      </div> 
     </div>
 
     <router-view/>
+      <!-- <div class="footer">
+      <br>  <a href="mailto:vidyakeshavan91@gmail.com" class="footersubhead">Hey, you! </a> <br>
+      <a href="mailto:vidyakeshavan91@gmail.com" class="footerheadline"> Don't be a stranger.</a>
+      <button class="btn"> <i class="fa-fa-medium">hello</i> </button>
+    </div> -->
   </div>
 </template>
 
@@ -25,20 +30,26 @@ export default {
 <style>
 
 .router-link-active {
-  color: blue !important;
+  text-decoration: underline;
 }
 
 body {
-  font-family: 'Lato', sans-serif;
-}
+  font-family: 'Lato-light', sans-serif;
+  }
 
 .p4 {
   padding: 4%;
 }
 
+
 h1 {
-  font-family: 'acme', sans-serif;
+  font-family: "acme", sans-serif;
 }
+
+h2{
+  font-family: 'lato', sans-serif;
+}
+
 
 .navbar {
   width: 100%;
@@ -52,19 +63,39 @@ h1 {
   font-size: 30px;
   letter-spacing: 0.02px;
   position: absolute;
-  bottom: 5px;
+  bottom: 0px;
   right: 0;
 }
 
+.embed-container { 
+  position: relative; 
+  padding-bottom: 56.25%; 
+  height: 0; 
+  overflow: hidden; 
+  max-width: 100%; 
+  height: auto; 
+} 
+
+.embed-container iframe, 
+.embed-container object, 
+.embed-container embed { 
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 100%; 
+  height: 100%; 
+}
+
+
 .workhover {
   text-decoration: none;
-  font-size: 25px;
+  font-size: 20px;
   color: #000;
 }
 
 .abouthover {
   text-decoration: none;
-  font-size: 25px;
+  font-size: 20px;
   color: #000;
 }
 
@@ -81,7 +112,7 @@ h1 {
 }
 
 .project {
-  background: #ff0;
+  background: #fff;
   margin: 0 0 0 0;
   font-size: 36px;
   line-height: 40px;
@@ -211,7 +242,7 @@ a {
 .column,
 .columns {
   width: 100%;
-  float: left;
+  display: inline-block;
   box-sizing: border-box; }
 
 @media (min-width: 400px) {
@@ -225,7 +256,7 @@ a {
     width: 100%; }
   .column,
   .columns {
-    margin-left: 4%; }
+    margin-left: 1%; }
   .column:first-child,
   .columns:first-child {
     margin-left: 0; }
@@ -285,102 +316,120 @@ a {
 html {
   font-size: 45.5%; }
 body {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.6;
   font-weight: 400;
   font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #222; }
+  color: #000; 
+  background: #fff}
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
   margin-top: 0;
   margin-bottom: 2rem;
   font-weight: 300; }
-h1 { font-size: 4.0rem; line-height: 1.2;  letter-spacing: -.1rem;}
-h2 { font-size: 3.6rem; line-height: 1.25; letter-spacing: -.1rem; }
-h3 { font-size: 3.0rem; line-height: 1.3;  letter-spacing: -.1rem; }
-h4 { font-size: 2.4rem; line-height: 1.35; letter-spacing: -.08rem; }
-h5 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
-h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
+h1 { font-size: 2.9rem; line-height: 1.2;  letter-spacing: -.1rem;}
+h2 { font-size: 2.2rem; line-height: 1.25; letter-spacing: -.1rem; }
+
 
 @media (min-width: 550px) {
-  h1 { font-size: 5.0rem; }
-  h2 { font-size: 4.2rem; }
-  h3 { font-size: 3.6rem; }
-  h4 { font-size: 3.0rem; }
-  h5 { font-size: 2.4rem; }
-  h6 { font-size: 1.5rem; }
+  h1 { font-size: 3.8.0rem; }
+  h2 { font-size: 3.0rem; }
+
 }
 
 p {
   margin-top: 0; }
 
-.overhead {
-  font-family: 'Lato',sans-serif;
-  font-size: 12px;
-  margin-bottom: 2%;
-}
-
 .headline {
-  font-family: 'acme', sans-serif;
-  font-size: 9vw;
-  line-height: 80%;
+  font-family: 'lato', sans-serif;
+  font-size: 10vw;
+  line-height: 0%;
   margin-bottom: 0;
 }
 
 .subhead {
-  font-family: 'Lato',sans-serif;
-  font-size: 3.5vw;
+  font-family: 'Lato-light',sans-serif;
+  font-size: 3.75vw;
+  line-height: 0%;
 }
 
 .hero {
   width: 120%;
   position: relative;
   left: -10.25%;
+  z-index: -2;
   top: 2vw;
-  z-index: -1;
   margin-bottom: 6%;
   margin-top: -6%;
 }
 
-.minititle {
-  font-family: 'acme', sans-serif;
-  font-size: 5vw;
-}
-
-.minititle2 {
-  font-family: 'Lato', sans-serif;
-  font-size: 16px;
-}
-
-.lighthead {
-  margin-top: 10%;
-  font-family: 'acme', sans-serif;
-  font-size: 8vw;
-  position: relative;
-  left: -5.25%;
-  line-height: 80%;
-  opacity: .09;
+.left {
+  transform: rotate(180);
 }
 
 .darkhead {
-  top: 2vw;
-  z-index: -2;
-  margin-top: -2.5%;
+  top: 3vw;
   font-family: 'acme', sans-serif;
-  font-size: 4vw;
-  line-height: 98%;
+  font-size: 30px;
+  line-height: 100%;
+  color: #000;
+  background: #F9F2F2;
 }
 
-.sidetext {
-  font-family: 'Lato', sans-serif;
-  font-size: 16px;
+.darkheadtext {
+  margin: 20px;
 }
 
-.image-bleed {
+.csintro {
+  margin-top: 10%;
+}
+
+.csintrotitles {
+  font-family: "lato-light", sans-serif;
+  line-height: 20px;
+}
+
+.csintrobody {
+  font-size: 18px;
+  font-family: "lato-light", sans-serif;
+  line-height: 30px;
+}
+
+.csgoalimg {
+  left: -6px;
   position: relative;
-  left: -10.25%;
-  top: 3%;
-  width: 50%;
 }
+
+.csgoaltext {
+  font-family: "lato-light", sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.pullquote {
+  padding-left: 20px;
+  position: relative;
+  border-left: 15px solid #F9F2F2;
+  border-top-left-radius: 2%;
+  border-bottom-left-radius: 2%;
+  margin: 0 0 50px 0;
+}
+
+.quote {
+  font-family: "acme", sans-serif;
+  font-size: 25px;
+}
+
+.sig {
+  font-style: italic;
+  font-family: "lato-light", sans-serif;
+}
+
+.csprocess {
+  font-family: 'lato-light',sans-serif;
+  font-size: 18px;
+}
+
+
 
 </style>
