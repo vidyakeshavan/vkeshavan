@@ -5,6 +5,7 @@ import minARal from '@/components/minARal';
 import About from '@/components/About';
 import Break from '@/components/Break';
 import Numeracy from '@/components/Numeracy';
+import Unknown from '@/components/Unknown';
 
 
 Vue.use(Router);
@@ -36,5 +37,11 @@ export default new Router({
       name: 'Numeracy',
       component: Numeracy,
     },
+    {
+      path: '/unknown',
+      name: 'Unknown',
+      component: Unknown,
+    },
+
   ],
 });

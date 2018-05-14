@@ -4,14 +4,14 @@
    <div id="app" :class="'item_'+(active+1)">
      <!--transition-group.items(name='slider', mode='out-in', tag='ul')-->
      <ul class="items">
-       <li v-for="item, index in items" :class="{ active: index === active }" :key="index" @click="jump(index)">{{item.title}}</li>
+       <li v-for="item, index in items" :class="{ active: index === active }" :key="index" @click="jump(index)" @mouseover="jump(index)">{{item.title}}</li>
      </ul>
      <div class="item_text">
        <h2> {{ items[active].subTitle }}</h2>
        <p>
          <!--sup {{ active+1 }} -->{{ items[active].text }}
        </p>
-        <router-link :to="items[active].rlink">See more </router-link>
+        <router-link :to="items[active].rlink"> </router-link>
      </div>
    </div>
   </div>
@@ -25,7 +25,7 @@ let items = [
     subTitle: "Product Design",
     text: "break is an application that empowers users to break their phone-related wellness and time management issues.",
     img: "",
-    rlink: "",
+    rlink: "Break",
   },{
     title: "minARal",
     subTitle: "Rapidly Prototyped AR for The Smithsonian",
@@ -38,12 +38,13 @@ let items = [
     subTitle: "Brand Identity",
     text: "UNKNOWN is a conference that explores the unknown implications technology will have on our future.",
     img: "",
-    rlink: "",   
+    rlink: "Unknown",   
   },{
     title: "Numeracy",
     subTitle: "Interactive Data Visualization",
     text: "Numeracy is a data visualization that examines the American education system from a bird eye's view.",
     img: "",
+    rlink: "Numeracy",
   },
 ];
 
@@ -87,12 +88,13 @@ body {
 }
 #app >* {
   padding: 1.8em;
-  max-width: 350px;
+  max-width: 450px;
 }
 
 #app .item_text {
   font-family: "lato-light", sans-serif;
-  font-size: 18px;
+  font-size: 20px;
+  letter-spacing: .05em;
   /* align-items: ; */
 }
 
@@ -146,9 +148,9 @@ body {
   font-family: "lato-light", sans-serif;  
 }
 .items li:hover {
-  -webkit-transform: scale(1.4);
-          transform: scale(1.4);
-  margin: 0.1em 0;  
+  -webkit-transform: scale(1.8);
+          transform: scale(1.8);
+  margin: 0.3em 0;  
   /* text-shadow: 0 0 1.5em pink; */
 }
 .items li.active:after {
@@ -166,7 +168,7 @@ body {
   display: block;
   border-bottom: 1px solid transparent;
   width: 0;
-  transition: width 0.3s;
+  transition: width 0.6s;
 }
 .items li:hover:after {
   width: 100%;
