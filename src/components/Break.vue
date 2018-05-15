@@ -61,8 +61,8 @@
         </div>
 
        <div class="row p4one">
-          <div class="two thirds column">
-              <img src="../assets/img/userpersona.png" align="top">
+          <div class="two thirds column persona">
+              <img src="../assets/img/Userpersona.png" align="top">
          </div>
          </div>   
 
