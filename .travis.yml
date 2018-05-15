@@ -1,0 +1,23 @@
+sudo: false
+language: node_js
+node_js:
+- '6.0'
+cache:
+  directories:
+  - node_modules
+branches:
+  only:
+  - master
+notifications:
+  email: false
+before_script:
+- cd brainspell; npm install
+script:
+- npm run --silent build
+after_success:
+- bash ../deploy.sh
+env:
+  global:
+  - GH_USER: vidyakeshavan
+  - GH_REPO: vkeshavan
+  - secure: G/ydYKWhjO56k2OLK8PqJDpPJ2oTwRGA+Q2jVt+k7K7iqw3sTtF2mvtPqwA6Bfwk+ahyVVBXWCJt4dPxbvOKhEKOVSYqGj37k4iZGbtfjtrkIfZy18JPKErQ7tp0HE9uTx1ruFsse+GLahwmQ9xzTQo+C3q5E0F0qG1eDB4ur7CXyULSRrO1rCZIGol5yOqyaFRkJvvUcu1BQrywFEuBxHzN21CGi2/tqk+d0Dp5VyJ4bDn2b2wVm/d7NyFbqhRm/NepFqd3fEO/6I9F/jxyoT6jThGZGjikj+dHxzhYE7nsqmqPweqVA4XWuIUwmo+LcoeBvmbiIURg2IPOKVo1BH7mxIo9d7sdilW2IgQsJ7i5N40+3GyocShpVP3My/HSCOcbW2/VaNYLUkx9w4jc/BpMD5lR8hAev9Te3pStqj+us7CulAlOOMZ5cvrIhDshVLDEm2DGDO3fPXVAqeUdRMii6nYA49qOUQysE/5PCY1RgFnhm0GHMZXtY89AE1Qry75sCOUYoNOqoQ7KtRn/dof6t/tmjYNcR09cyIHrTMQWmAhhPT0ArRtTYsr9oEvMRHyAKQ5Y6GbOgIdkoFsuo+qtWu/kzQRLwv1wdLWv8w5XTU+msYxahZgdf05tqCNzR1GgbqRWjuhFPztF/nDBkcLdv7Pm7BK1rCu7ANAGEcc=
