@@ -11,7 +11,7 @@ branches:
 notifications:
   email: false
 before_script:
-- cd brainspell; npm install
+- npm install
 script:
 - npm run --silent build
 after_success:
