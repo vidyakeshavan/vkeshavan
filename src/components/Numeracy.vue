@@ -16,7 +16,7 @@
         <div class="row">
           <div class="twelve columns">
             <div class="hero">
-              <img src="../assets/img/Numeracyhero.png" align="top"> 
+              <img src="../assets/img/numeracyhero.png" align="top"> 
             </div>
           </div>
         </div>
@@ -44,7 +44,7 @@
 
         <div class="row p4one mb2">
           <div class="two thirds column mb2 csgoalimg">
-           <img src="../assets/img/numeracyresearch.png" align="top">
+           <img src="../assets/img/Numeracyresearch.png" align="top">
           </div>
         </div>       
 
