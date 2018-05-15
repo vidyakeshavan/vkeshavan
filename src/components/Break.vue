@@ -50,14 +50,22 @@
         </div>       
 
        <div class="row p4one mb2">
-          <div class="four columns">
+          <div class="six columns">
              <b> The Original Goal </b> <br> 
             break. is a mobile application I have been
             conceptualizing throughout my final semester at
             Parsons. This was conceived to help users monitor 
             their device use and encourage them break their 
             phone-related time management issues.
-          <div>
+          </div>
+        </div>
+
+       <div class="row p4one">
+          <div class="two thirds column">
+              <img src="../assets/img/userpersona.png" align="top">
+         </div>
+         </div>   
+
 
       </div>
         

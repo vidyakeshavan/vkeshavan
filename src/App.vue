@@ -127,6 +127,10 @@ iframe {
   font-size: 0;
 }
 
+.persona {
+  margin-top: 5%;
+}
+
 .project {
   background: #fff;
   margin: 0 0 0 0;
