@@ -41,6 +41,17 @@ body {
   padding: 4%;
 }
 
+.p4one {
+  padding-left: 4%; 
+  padding-right: 4%;
+  padding-top: 1%;
+}
+
+/* .p4two {
+  padding-left: 4%; 
+  padding-right: 4%;
+  padding-top: 1.5%;
+} */
 
 h1 {
   font-family: "acme", sans-serif;
@@ -50,6 +61,11 @@ h2{
   font-family: 'lato', sans-serif;
 }
 
+
+iframe {
+  margin-top: 2%;
+  margin-bottom:5%;
+}
 
 .navbar {
   width: 100%;
@@ -315,11 +331,11 @@ a {
 
 html {
   font-size: 45.5%; }
+
 body {
   font-size: 18px;
-  line-height: 1.6;
+  /* line-height: 1.6; */
   font-weight: 400;
-  font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #000; 
   background: #fff}
 
@@ -345,6 +361,7 @@ p {
   font-size: 10vw;
   line-height: 0%;
   margin-bottom: 0;
+  line-height: 1em;
 }
 
 .subhead {
@@ -380,24 +397,39 @@ p {
   margin: 20px;
 }
 
+.role {
+  vertical-align: top;
+}
+
 .csintro {
-  margin-top: 10%;
+  /* margin-top: 10%; */
 }
 
 .csintrotitles {
   font-family: "lato-light", sans-serif;
-  line-height: 20px;
+  line-height: 30px;
 }
 
 .csintrobody {
   font-size: 18px;
   font-family: "lato-light", sans-serif;
   line-height: 30px;
+  text-align: left;
+}
+
+.csgoal {
+  font-size: 5rem;
+    margin-top: 8%;
+    font-family: 'lato-light', sans-serif;
+}
+
+.cshypothesis {
+  vertical-align: top;
+  font-size: 50px;
 }
 
 .csgoalimg {
-  left: -6px;
-  position: relative;
+  /* margin-top: 20%; */
 }
 
 .csgoaltext {

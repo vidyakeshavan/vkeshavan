@@ -15,7 +15,7 @@
            But, I'm proud to say that I designed and developed this thing with my own blood, 
            sweat, and tears. Although coffee, supermarket sushi (I'm not 
            proud of it either), and long dramatic sighs had a 
-           significant hand in its conception. <br> <br> I can tell you 
+           significant hand in its creation. <br> <br> I can tell you 
            all about it and my other work over some coffee (and perhaps sushi). </p3>
       </div>
     </div>
@@ -44,7 +44,7 @@
 
 .aboutpic {
   position: relative;
-  width: 600px;
+  width: 500px;
 }
 
 .about {
