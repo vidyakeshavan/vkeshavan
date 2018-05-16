@@ -4,14 +4,14 @@
    <div id="app" :class="'item_'+(active+1)">
      <!--transition-group.items(name='slider', mode='out-in', tag='ul')-->
      <ul class="items">
-       <li v-for="item, index in items" :class="{ active: index === active }" :key="index" @click="jump(index)" @mouseover="jump(index)">{{item.title}}</li>
+       <li v-for="item, index in items" :class="{ active: index === active }" :key="index" @click="jump(index)" @mouseover="jump(index)"><router-link :to="items[active].rlink"> {{item.title}} </router-link> </li>
      </ul>
      <div class="item_text">
        <h2> {{ items[active].subTitle }}</h2>
        <p>
-         <!--sup {{ active+1 }} -->{{ items[active].text }}
+          {{ items[active].text }}
        </p>
-        <router-link :to="items[active].rlink"> </router-link>
+        <!-- <router-link :to="items[active].rlink"> </router-link> -->
      </div>
    </div>
   </div>
@@ -78,6 +78,14 @@ body {
     /* background-color: #F1E4E3; */
 }
 
+
+const StyledLink = styled(RouterLink) {
+  color: palevioletred;
+  font-size: 1em;
+  text-decoration: none;
+}
+
+
 #app {
   min-height: 90vh;
   display: flex;
@@ -88,13 +96,12 @@ body {
 }
 #app >* {
   padding: 1.8em;
-  max-width: 450px;
+  max-width: 400px;
 }
 
 #app .item_text {
   font-family: "lato-light", sans-serif;
-  font-size: 20px;
-  letter-spacing: .05em;
+  font-size: 18px;  
   /* align-items: ; */
 }
 
@@ -141,16 +148,16 @@ body {
   position: relative;
   padding-left: 0.8em;
   font-size: 1.2em;
-  transition: -webkit-transform 0.3s 0.2s;
-  transition: transform 0.3s 0.2s;
-  transition: transform 0.3s 0.2s, -webkit-transform 0.3s 0.2s;
+  transition: -webkit-transform 0.8s 0.8s;
+  transition: transform .8s 0.8s;
+  transition: transform .8s 0.8s, -webkit-transform .8s 0.8s;
   margin-bottom: 10px;
   font-family: "lato-light", sans-serif;  
 }
 .items li:hover {
-  -webkit-transform: scale(1.8);
-          transform: scale(1.8);
-  margin: 0.3em 0;  
+  /* -webkit-transform: scale(1.3);
+          transform: scale(1.3); */
+  /* margin: 0.3em 0;   */
   /* text-shadow: 0 0 1.5em pink; */
 }
 .items li.active:after {
@@ -168,7 +175,7 @@ body {
   display: block;
   border-bottom: 1px solid transparent;
   width: 0;
-  transition: width 0.6s;
+  transition: width 17s;
 }
 .items li:hover:after {
   width: 100%;
