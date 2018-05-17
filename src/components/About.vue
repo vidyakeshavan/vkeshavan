@@ -6,7 +6,7 @@
           <img src="../assets/img/vacationvid.jpg">
         </div>
       </div>
-      <div class="six columns p4">
+      <div class="six columns p4one">
         <p3 class="about hi"> Hey, I'm Vidya. </p3>
         <p3 class="about text"> 
           <br> Understandably the fedora-on-vacation look 
@@ -29,7 +29,7 @@
 } */
 
 .about.hi {
-  font-family: 'lato-light',sans-serif;
+  font-family: 'acme',sans-serif;
   font-size: 2em;
 
 }
@@ -38,7 +38,7 @@
   color: #000;
   letter-spacing: .02em;
   font-size: 2.1vh;
-  align-content: center;
+  vertical-align: text-top;
   font-family: "lato-light", sans-serif;
 }
 

@@ -78,13 +78,11 @@ body {
     /* background-color: #F1E4E3; */
 }
 
-
 const StyledLink = styled(RouterLink) {
   color: palevioletred;
   font-size: 1em;
   text-decoration: none;
 }
-
 
 #app {
   min-height: 90vh;
@@ -130,6 +128,9 @@ const StyledLink = styled(RouterLink) {
 }
 
 
+ul {
+  font-family: 'acme', sans-serif;
+}
 
 .items {
   list-style: none;

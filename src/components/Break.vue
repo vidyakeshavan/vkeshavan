@@ -21,13 +21,13 @@
           </div>
         </div>
 
-        <div class="row p4one mb2">
+        <div class="row p10 mb2 mr2">
           <div class="four columns mb2 role">
            <b> Role: </b> User Research, Product Design <br> 
            <b> Status: </b> Ongoing, Student Project Spring '18
           </div>
 
-          <div class="six columns role">
+          <div class="eight columns role">
             break. is a mobile application I have been
             conceptualizing throughout my final semester at
             Parsons. This was conceived to help users monitor 
@@ -36,13 +36,13 @@
           </div>
        </div>
 
-       <div class="row p4one">
+       <div class="row p10">
           <div class="six columns csgoal">
-          <b> The Research Phase </b>
+          <b> Full Case Study Coming Soon! </b>
           </div>
       </div>
 
-
+<!-- 
         <div class="row p4one mb2">
           <div class="two thirds column mb2 csgoalimg">
            <img src="../assets/img/breakgoal.png" align="top">
@@ -67,7 +67,7 @@
          </div>   
 
 
-      </div>
+      </div> -->
         
 
           <!-- <div class="six columns cshypothesis">
@@ -98,6 +98,17 @@
 .mr2 {
   margin-right: 1.5em;
 }
+
+.p10 {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.p3 {
+  padding-top: 4%;
+  padding-bottom: 4%
+}
+
 
 </style>
 

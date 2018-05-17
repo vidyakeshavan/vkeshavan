@@ -21,24 +21,30 @@
           </div>
         </div>
 
-        <div class="row p4one mb2">
-          <div class="four columns mb2 role">
+        <div class="row p10 mb2">
+          <div class="four columns mb2 mr2 role">
            <b> Role: </b> Visual Identity, Marketing, App Design <br> 
            <b> Status: </b> Completed, Student Project Fall '17
           </div>
 
           <div class="six columns role">
-            The client challenged us to create a conference
-             which addresses the ethical issues that arise when 
+            Our student group was challenged us to create a hypothetical conference
+             that addresses the ethical issues that arise when 
              digital technology plays an increasingly large role 
-             in our everyday. Our team of four developed and designed 
+             in our everyday. We developed and designed 
              UNKNOWN, an NYC based conference for tech and design
               leadership that, rather than frighten, seeks to reveal
               exciting truths about emerging technology and our future. 
           </div>
        </div>
 
-       <div class="row p4one">
+       <div class="row p10">
+        <div class="six columns csgoal">
+        <b> Full Case Study Coming Soon! </b>
+        </div>
+    </div>
+
+       <!-- <div class="row p10">
           <div class="six columns csgoal">
           <b> The Process </b>
           </div>
@@ -78,7 +84,7 @@
       </video>
           
       </div>
-        
+         -->
 
           <!-- <div class="six columns cshypothesis">
          <!-- <i> Stress levels in teens are 

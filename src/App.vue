@@ -360,8 +360,18 @@ h2 { font-size: 2.2rem; line-height: 1.25; letter-spacing: -.1rem; }
 p {
   margin-top: 0; }
 
+.p10 {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.p3 {
+  padding-top: 4%;
+  padding-bottom: 4%
+}
+
 .headline {
-  font-family: 'lato', sans-serif;
+  font-family: 'acme', sans-serif;
   font-size: 10vw;
   line-height: 0%;
   margin-bottom: 0;

@@ -13,20 +13,20 @@
             <div class="twelve columns subhead"> Experience Design </div>
           </div>
 
-        <div class="row">
+        <div class="row mrb2">
           <div class="twelve columns">
               <div class='embed-container'><iframe src='https://player.vimeo.com/video/260576993' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
           </div>
         </div>
 
       <!-- just use a number and class 'column' or 'columns' -->
-      <div class="row p4one mb2">
-          <div class="four columns mb2 role">
+      <div class="row p10 mb2">
+          <div class="four columns mb2 mr2 role">
            <b> Role: </b> Content Lead, User Experience <br> 
            <b> Status: </b> Ongoing, Student Project Spring '18
           </div>
 
-          <div class="six columns role">
+          <div class="eight columns">
               MinARal is a single-player, augmented reality based scavenger hunt
               game for mobile devices that educates young users on the real-world
               use and purpose of gems and minerals. Proposed to The Smithsonian
@@ -36,7 +36,12 @@
                 a potential future in STEM during their museum visit.
           </div>
        </div>   
-
+       
+       <div class="row p10">
+        <div class="six columns csgoal">
+        <b> Full Case Study Coming Soon! </b>
+        </div>
+    </div>
 
 
 
@@ -56,6 +61,10 @@
 
 .mr2 {
   margin-right: 1.5em;
+}
+
+.mrb2 {
+  margin-bottom: 1.2em;
 }
 
 </style>
