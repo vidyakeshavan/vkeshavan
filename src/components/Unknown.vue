@@ -3,7 +3,7 @@
 
 
   <div class="container">
-        <!-- columns should be the immediate child of a .row -->
+
 
         <div class="row p4one">
           <div class="twelve columns headline"> <b>UNKNOWN</b></div>
@@ -23,8 +23,9 @@
 
         <div class="row p10 mb2">
           <div class="four columns mb2 mr2 role">
-           <b> Role: </b> Visual Identity, Marketing, App Design <br> 
+           <b> Role: </b> Marketing Strategy, App Design, Content Development <br> 
            <b> Status: </b> Completed, Student Project Fall '17
+           <b> Team: </b> Vidya Keshavan, Carolyn Berry, Patrick Serr, Poppy Chen
           </div>
 
           <div class="six columns role">
@@ -39,18 +40,63 @@
        </div>
 
        <div class="row p10">
-        <div class="six columns csgoal">
-        <b> Full Case Study Coming Soon! </b>
-        </div>
-    </div>
-
-       <!-- <div class="row p10">
           <div class="six columns csgoal">
           <b> The Process </b>
           </div>
       </div>
 
+      <div class="row p10 mb2">
+          <div class="twelve columns">
+              Our student group was challenged us to create a hypothetical conference
+              that addresses the ethical issues that arise when 
+              digital technology plays an increasingly large role 
+              in our everyday. We developed and designed 
+              UNKNOWN, an NYC based conference for tech and design
+               leadership that, rather than frighten, seeks to reveal
+               exciting truths about emerging technology and our future. 
+          </div>
+       </div>
 
+      <div class="row p10">
+          <div class="six columns csgoal">
+          <b> Brand Identity Evolution </b>
+          </div>
+      </div>
+
+      <div class="row p10">
+          <div class="three columns">
+              <img src="../assets/img/gemhall.jpg" align="top"> 
+          </div>
+          <div class="three columns">
+            <img src="../assets/img/gemhall.jpg" align="top"> 
+         </div>
+        <div class="three columns">
+          <img src="../assets/img/gemhall.jpg" align="top"> 
+        </div>
+        <div class="three columns">
+        <img src="../assets/img/gemhall.jpg" align="top"> 
+        </div>
+    </div>
+
+      <div class="row p10">
+          <div class="six columns csgoal">
+          <b> Marketing and Promotion </b>
+          </div>
+      </div>
+
+      <div class="row p10">
+          <div class="six columns csgoal">
+          <b> Web and Mobile Presence  </b>
+          </div>
+      </div>
+
+      <div class="row p10">
+          <div class="six columns csgoal">
+          <b> Archiving the Conference  </b>
+          </div>
+      </div>
+
+<!-- 
         <div class="row p4one mb2">
           <div class="two thirds column mb2 csgoalimg">
            <img src="../assets/img/unknownprocess.png" align="top">
@@ -85,15 +131,6 @@
           
       </div>
          -->
-
-          <!-- <div class="six columns cshypothesis">
-         <!-- <i> Stress levels in teens are 
-          higher than ever because of the quantity and quality of 
-          time spent on their smartphones. </i> 
-          </div> --> 
-        </div> 
-          
-      </div>
 
 
       

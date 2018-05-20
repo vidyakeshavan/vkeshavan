@@ -41,10 +41,22 @@ body {
   padding: 4%;
 }
 
+.imgpadtop {
+  padding-top: 2%;
+}
+
+.imgpadbot {
+  padding-bottom: 2%;
+}
+
 .p4one {
   padding-left: 4%; 
   padding-right: 4%;
   padding-top: 1%;
+}
+
+.background1 {
+  background:#F8F4F4;
 }
 
 /* .p4two {
@@ -65,6 +77,10 @@ h2{
 iframe {
   margin-top: 2%;
   margin-bottom:5%;
+}
+
+img.ipad {
+  width:40%;
 }
 
 .navbar {
@@ -432,7 +448,7 @@ p {
 }
 
 .csgoal {
-  font-size: 5rem;
+  font-size: 4rem;
     margin-top: 8%;
     font-family: 'lato-light', sans-serif;
 }

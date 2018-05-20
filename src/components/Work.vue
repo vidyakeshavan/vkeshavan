@@ -4,7 +4,9 @@
    <div id="app" :class="'item_'+(active+1)">
      <!--transition-group.items(name='slider', mode='out-in', tag='ul')-->
      <ul class="items">
-       <li v-for="item, index in items" :class="{ active: index === active }" :key="index" @click="jump(index)" @mouseover="jump(index)"><router-link :to="items[active].rlink"> {{item.title}} </router-link> </li>
+       <li v-for="item, index in items" :class="{ active: index === active }"
+        :key="index" @click="jump(index)" @mouseover="jump(index)"><router-link :to="items[active].rlink"> {{ item.title }} </router-link> </li>
+          
      </ul>
      <div class="item_text">
        <h2> {{ items[active].subTitle }}</h2>
@@ -84,6 +86,21 @@ const StyledLink = styled(RouterLink) {
   text-decoration: none;
 }
 
+.items a {
+color: white;
+font-family: 'acme', sans-serif;
+text-decoration: none;
+font-size: 2em;
+}
+
+#app.item_4 a  {
+color: black;
+font-family: 'acme', sans-serif;
+text-decoration: none;
+font-size: 2em;
+}
+
+
 #app {
   min-height: 90vh;
   display: flex;
@@ -103,16 +120,9 @@ const StyledLink = styled(RouterLink) {
   /* align-items: ; */
 }
 
-#app .item_rlink {
-  color: pink;
-}
-
-#app.item_1 {
-  color: #fff;
-}
-#app.item_4 {
+item_4 {
   color:#000;
-}
+} 
 #app.item_1 {
   border-left: 4px solid #000;
   background: #000 url("  ../assets/img/breakmock.png") center/cover no-repeat;  
@@ -125,6 +135,7 @@ const StyledLink = styled(RouterLink) {
 }
 #app.item_4 {
   background: #000 url("../assets/img/numeracymock.png") center/cover no-repeat;
+  color:#000;
 }
 
 
