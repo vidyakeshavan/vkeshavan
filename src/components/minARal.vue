@@ -19,9 +19,9 @@
           </div>
         </div>
 
-      <div class="row p10 mb2">
-          <div class="four columns mb2 role">
-           <b> Role: </b> Content Lead, User Experience <br> 
+      <div class="row p10">
+          <div class="four columns role">
+           <b> Role: </b> Content Lead, User Experience, Video Direction, Contract Writing <br> 
            <b> Status: </b> Ongoing, Student Project Spring '18 <br>
            <b> Team: </b> Vidya Keshavan, Stella Zhong, Carla Mollins
           </div>
@@ -48,8 +48,8 @@
           </div>
         </div>
 
-      <div class="row p10 mb2 imgpadtop imgpadbot ">
-          <div class="six columns mb2 role ">
+      <div class="row p10 imgpadtop ">
+          <div class="six columns  role ">
               NMNH’s Business Development team expressed that an
                important goal for them is to promote STEM as an exciting 
                and viable career path for children. However, while the
@@ -62,7 +62,7 @@
      <div class="six columns">
               With only five weeks to iterate and present, our team knew that it would 
               be difficult to fully prototype an augmented reality experience for children through code. <i> We opted 
-              instead to represent our ideas with a demo-reel, packaging our work as a ready-to-fund concept.</i>
+              instead to represent our ideas with a demo reel, packaging our work as a ready-to-fund concept.</i>
           </div>
        </div> 
 
@@ -88,14 +88,14 @@
 
      </div>   
 
-       <div class="row p10 imgpadbot imgpadtop">
+       <div class="row p10 imgpadbot">
           <div class="twelve columns">
               <img src="../assets/img/storygamedesign.png" align="top"> 
           </div>
         </div>
 
         <div class="row p10 ">
-          <div class="four columns mb2 role">
+          <div class="four columns role">
             Throughout gameplay, children embark on quests with the story's hero, <b> Dr Smith,</b> esteemed 
             (fictional) minerologist extraordinaire,  
             to build objects from gems and minerals that characters around the museum may need. 
@@ -103,13 +103,13 @@
              to the process of mining for and forging of minerals through
              clues, puzzles and mini games. </div>
   
-          <div class="four columns role mb2">
+          <div class="four columns role">
               Using AR in these quests, players
               will gain a real world context and understanding of minerals’
                purpose in our economy, infrastructure, and more. This story 
                structure also allows the game to extend beyond the Gems & Minerals exhibit. </div>
 
-          <div class="four columns mb2 role">
+          <div class="four columns role">
               Depending on skill/age, players can accept quests from characters, building mineral-based objects from:
              An Egyptian Pharoah, found in the Bones exhibit:  helping him build his crown for the afterlife. Or,
             a Cavewoman, found in the Human Origins exhibit:  helping her build a spear for her hunts.
@@ -143,12 +143,12 @@
                 <img src="../assets/img/smithsonian2.gif" align="top">
             </div>
 
-            <div class="four columns mb2 role">
+            <div class="four columns role">
                 We wanted to invoke a <i> youthful feel </i> to our clickable 
                 prototype that represented the game-play and AR experiences.  
                 But in the absence of development time, our efforts were focused in iterating
                 the storyline into something impactful - one that could establish the brand's tone, 
-                sell itself in a demo-reel, and ultimately encourage 
+                sell itself in a demo reel, and ultimately encourage 
                 Smithsonian to make an investment decision.
             </div>
           </div>
@@ -160,7 +160,7 @@
           </div>  
 
           <div class="row p10 mb2">
-              <div class="nine columns role">
+              <div class="eight columns role">
            MinARal is a single-player, augmented reality based scavenger hunt
                   game for mobile devices that educates young users on the real-world
                   use and purpose of gems and minerals. Proposed to The Smithsonian
@@ -191,18 +191,12 @@
               </div>
           </div>  
 
-          <div class="row p10 mb2">
-              <div class="six columns mb2  role">
-           MinARal is a single-player, augmented reality based scavenger hunt
-                  game for mobile devices that educates young users on the real-world
-                  use and purpose of gems and minerals. Proposed to The Smithsonian
-                    National Museum of Natural History, our student team wanted to
-                    use adventure via augmented reality and whimsy with our story to
-                    ultimately get children excited about the science of mineralogy and
-                    a potential future in STEM during their museum visit.
-              </div>
+          <div class="row p10 mb2 imgpadtop">
+              <div class="six columns role">
+                      <img src="../assets/img/sowmovie.gif" align="top">
+                  </div>
     
-         <div class="six columns">
+         <div class="six columns role">
             MinARal is a single-player, augmented reality based scavenger hunt
             game for mobile devices that educates young users on the real-world
             use and purpose of gems and minerals. Proposed to The Smithsonian
