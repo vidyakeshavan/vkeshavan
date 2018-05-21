@@ -38,7 +38,7 @@
           </div>
        </div>
       
-       <div class="row p10">
+       <div class="row p10 imgpadbot">
         <div class="six columns csgoal">
         <b> Full Case Study Coming Soon! </b>
         </div>

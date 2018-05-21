@@ -16,7 +16,7 @@
         <div class="row">
           <div class="twelve columns">
             <div class="hero">
-              <img src="../assets/img/unknownhero.png" align="top"> 
+              <img src="../assets/img/unknowntshirtcolor.png" align="top"> 
             </div>
           </div>
         </div>
@@ -24,7 +24,7 @@
         <div class="row p10 mb2">
           <div class="four columns mb2 mr2 role">
            <b> Role: </b> Marketing Strategy, App Design, Content Development <br> 
-           <b> Status: </b> Completed, Student Project Fall '17
+           <b> Status: </b> Completed, Student Project Fall '17 <br>
            <b> Team: </b> Vidya Keshavan, Carolyn Berry, Patrick Serr, Poppy Chen
           </div>
 

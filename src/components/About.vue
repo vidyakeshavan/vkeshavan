@@ -1,11 +1,11 @@
 <template>
   <div class="aboutpage">
-    <div class="row p4one">
+    <div class="row p10">
       <div class="six columns">
           <img src="../assets/img/vacationvid.jpg">
         </div>
       </div>
-      <div class="six columns p4one imgpadbot">
+      <div class="six columns p10 imgpadbot">
         <p3 class="about hi"> Hey, I'm Vidya. </p3>
         <p3 class="about text"> 
           <br> Understandably the fedora-on-vacation look 
@@ -42,7 +42,7 @@
   color: #000;
   letter-spacing: .02em;
   font-size: 2.1vh;
-  /* vertical-align: text-top; */
+  vertical-align: text-top;
   font-family: "lato-light", sans-serif;
 }
 
