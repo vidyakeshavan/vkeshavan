@@ -20,13 +20,13 @@
         </div>
 
       <div class="row p10 mb2">
-          <div class="four columns mb2 mr2 role">
+          <div class="four columns mb2 role">
            <b> Role: </b> Content Lead, User Experience <br> 
            <b> Status: </b> Ongoing, Student Project Spring '18 <br>
            <b> Team: </b> Vidya Keshavan, Stella Zhong, Carla Mollins
           </div>
 
-          <div class="six columns">
+          <div class="eight columns">
               MinARal is a single-player, augmented reality based scavenger hunt
               game for mobile devices that educates young users on the real-world
               use and purpose of gems and minerals. Proposed to The Smithsonian
@@ -36,19 +36,19 @@
           </div>
        </div>   
 
-       <div class="row p10 ">
+       <div class="row p10 background1">
           <div class="six columns csgoal imgpadbot">
           <b> The Challenge </b>
           </div>
       </div>  
 
-      <div class="row p10 ">
+      <div class="row p10 background1">
           <div class="twelve columns">
               <img src="../assets/img/gemhall.jpg" align="top"> 
           </div>
         </div>
 
-      <div class="row p10 mb2 imgpadtop imgpadbot">
+      <div class="row p10 mb2 imgpadtop imgpadbot background1 ">
           <div class="six columns mb2 role ">
               NMNH’s Business Development team expressed that an
                important goal for them is to promote STEM as an exciting 
@@ -59,7 +59,7 @@
                children in mind. 
           </div>
 
-     <div class="six columns ">
+     <div class="six columns">
               With only five weeks to iterate and present, our team knew that it would 
               be difficult to fully prototype an augmented reality experience for children through code. We opted 
               instead to represent our ideas with a demo-reel, packaging our work as a ready-to-fund concept. 
@@ -68,44 +68,53 @@
 
 
        <div class="row p10">
-          <div class="six columns csgoal imgpadbot">
+          <div class="six columns csgoal">
           <b> Story & Game Design </b>
           </div>
       </div>
+
+      <div class="row p10 mb2">
+        <div class="six columns mb2 role">
+              Our team believed that the best way to engage kids in educational content, 
+              such as the Gems & Minerals, was through a game. We chose to feature augmented reality technology 
+             as the heart of the experience, making it fresh, exciting, and relevant to young visitors. 
+        </div>
+
+        <div class="six columns">
+           Drawing from some of our favorites, we were inspired by the content themes found in 
+           '90s computer game, <i> Where in Time is Carmen Sandiego?</i> and the 
+           game functionality of AR based mobile game, <i> Pokemon Go!</i>.
+        </div>
+
+     </div>   
 
        <div class="row p10">
           <div class="twelve columns">
               <img src="../assets/img/storygamedesign.png" align="top"> 
           </div>
         </div>
-  
 
-        <div class="row p10 mb2 imgpadtop">
-            <div class="six columns mb2 mr2  role">
-         MinARal is a single-player, augmented reality based scavenger hunt
-                game for mobile devices that educates young users on the real-world
-                use and purpose of gems and minerals. Proposed to The Smithsonian
-                  National Museum of Natural History, our student team wanted to
-                  use adventure via augmented reality and whimsy with our story to
-                  ultimately get children excited about the science of mineralogy and
-                  a potential future in STEM during their museum visit.
-            </div>
+        <div class="row p10 mb2">
+          <div class="six columns mb2 role">
+            Through a discovery and collection process throughout the exhibit via an AR game, children will learn: 
+            What kind of minerals exist in everyday objects around them (as well as the minerals found in cool stuff!) 
+            And how those minerals are formed, harvested, and shaped to function in the way we need them to.
+          </div>
   
-       <div class="six columns">
-                <b> Discovery</b> blah blah blah <br>
-                <b> Engagement</b> blah blah blah <br>
-                <b> Action </b> blah blah blah <br>
-                <b> Followup </b> blah blah blah <br>
-            </div>
-         </div>   
+          <div class="six columns">
+            <b> Discovery</b> blah blah blah <br>
+            <b> Engagement</b> blah blah blah <br>
+            <b> Action </b> blah blah blah <br>
+            <b> Followup </b> blah blah blah <br>
+          </div>
 
-         <div class="row p10">
+         <div class="row p10 background1">
             <div class="six columns csgoal imgpadbot">
             <b> Rapid Prototyping </b>
             </div>
         </div>  
 
-          <div class="row p10 mb2">
+          <div class="row p10 mb2 background1">
               <div class="six columns mb2  role">
            MinARal is a single-player, augmented reality based scavenger hunt
                   game for mobile devices that educates young users on the real-world
@@ -127,7 +136,7 @@
               </div>
            </div>   
 
-           <div class="row p10">
+           <div class="row p10 background2">
               <div class="six columns csgoal imgpadbot">
               <b> Creating a Demo Reel </b>
               </div>

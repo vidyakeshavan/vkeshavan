@@ -59,6 +59,10 @@ body {
   background:#F8F4F4;
 }
 
+.background2 {
+  background:blue;
+}
+
 /* .p4two {
   padding-left: 4%; 
   padding-right: 4%;
@@ -377,8 +381,8 @@ p {
   margin-top: 0; }
 
 .p10 {
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 
 .p3 {
@@ -398,7 +402,7 @@ p {
   font-family: 'Lato-light',sans-serif;
   font-size: 3.75vw;
   line-height: 0%;
-}
+} 
 
 .hero {
   width: 120%;
