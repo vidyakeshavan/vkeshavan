@@ -23,7 +23,7 @@
               <a href="mailto:vidyakeshavan91@gmail.com" class="fa fa-envelope"></a>
               <a href="https://medium.com/@vidyakeshavan" class="fa fa-medium"></a>
               <a href="https://www.instagram.com/vidskesh/" class="fa fa-instagram"></a>
-              <a href="/images/myw3schoolsimage.jpg" download class="fa fa-file"></a>
+              <a href="../assets/img/VidyaKeshavanResume.pdf" download class="fa fa-file"></a>
           </div>
         </div>
     </div>

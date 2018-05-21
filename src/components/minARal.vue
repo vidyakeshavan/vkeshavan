@@ -186,13 +186,12 @@
           </div>
           <div class="row p10 mb2">
             <div class="eight columns role">
-              MinARal is a single-player, augmented reality based scavenger hunt
-             game for mobile devices that educates young users on the real-world
-             use and purpose of gems and minerals. Proposed to The Smithsonian
-                National Museum of Natural History, our student team wanted to
-               use adventure via augmented reality and whimsy with our story to
-               ultimately get children excited about the science of mineralogy and
-               a potential future in STEM during their museum visit.
+              After presenting and testing our demo reel to the Smithsonian team, 
+              we were asked to draft a Statement of Work contract that lays out intended plans 
+              for design, development, timing, and budget if given funding. 
+              If given the investment opportunity, our team would contract across a 1-year span, 
+              producing MinARal across its lifecyclce: from the initial research phases, 
+              to long-term exhibit maintenence. 
               </div>
            </div>
 
