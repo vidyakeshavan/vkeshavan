@@ -19,9 +19,9 @@
            all about it and my other work over some coffee (and perhaps sushi). </p3>
       </div>
     </div>
-      <div class="footer">
+      <!-- <div class="footer">
       <br>  <a href="mailto:vidyakeshavan91@gmail.com" class="footersubhead">Hey, you! </a> <br>
-      <a href="mailto:vidyakeshavan91@gmail.com" class="footerheadline"> Don't be a stranger.</a>
+      <a href="mailto:vidyakeshavan91@gmail.com" class="footerheadline"> Don't be a stranger.</a> -->
     </div>
 
   </div>

@@ -155,7 +155,7 @@
 
            <div class="row p10">
               <div class="twelve columns csgoal imgpadbot">
-              <b> Creating a Demo Reel </b>
+              <b> Creating and Testing the Demo Reel </b>
               </div>
           </div>  
 
@@ -173,14 +173,17 @@
     
 
           <div class="row p10">
-              <div class="four columns">
+              <div class="three columns">
                   <img src="../assets/img/demoprocess1.jpeg" align="top"> 
               </div>
-              <div class="four columns">
+              <div class="three columns">
                   <img src="../assets/img/demoprocess3.jpg" align="top"> 
               </div>
-              <div class="four columns">
+              <div class="three columns">
                   <img src="../assets/img/demoprocess2.jpeg" align="top"> 
+              </div>
+              <div class="three columns">
+                  <img src="../assets/img/chaotest.jpeg" align="top"> 
               </div>
             </div>
 
@@ -205,10 +208,7 @@
                ultimately get children excited about the science of mineralogy and
                a potential future in STEM during their museum visit.
               </div>
-           </div> 
-           
-    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
-
+           </div>
 
       </div>
     </div>

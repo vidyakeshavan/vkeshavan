@@ -36,8 +36,8 @@
           </div>
        </div>
 
-       <div class="row p10">
-          <div class="six columns csgoal">
+       <div class="row p10 imgpadbot">
+          <div class="six columns csgoal role">
           <b> Full Case Study Coming Soon! </b>
           </div>
       </div>
