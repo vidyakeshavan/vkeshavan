@@ -196,29 +196,21 @@
                       <img src="../assets/img/sowmovie.gif" align="top">
                   </div>
     
-         <div class="six columns role">
-            MinARal is a single-player, augmented reality based scavenger hunt
-            game for mobile devices that educates young users on the real-world
-            use and purpose of gems and minerals. Proposed to The Smithsonian
-              National Museum of Natural History, our student team wanted to
-              use adventure via augmented reality and whimsy with our story to
-              ultimately get children excited about the science of mineralogy and
-              a potential future in STEM during their museum visit.
+          <div class="six columns role">
+              MinARal is a single-player, augmented reality based scavenger hunt
+             game for mobile devices that educates young users on the real-world
+             use and purpose of gems and minerals. Proposed to The Smithsonian
+                National Museum of Natural History, our student team wanted to
+               use adventure via augmented reality and whimsy with our story to
+               ultimately get children excited about the science of mineralogy and
+               a potential future in STEM during their museum visit.
               </div>
-           </div>   
-
-  
-
-       <!-- <div class="row p10">
-        <div class="six columns csgoal">
-        <b> Full Case Study Coming Soon! </b>
-        </div>
-    </div> -->
-
+           </div> 
+           
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
 
       </div>
-    </div>
     </div>
 </template>
 

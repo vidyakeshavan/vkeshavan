@@ -12,11 +12,19 @@
     </div>
 
     <router-view/>
-      <!-- <div class="footer">
-      <br>  <a href="mailto:vidyakeshavan91@gmail.com" class="footersubhead">Hey, you! </a> <br>
-      <a href="mailto:vidyakeshavan91@gmail.com" class="footerheadline"> Don't be a stranger.</a>
-      <button class="btn"> <i class="fa-fa-medium">hello</i> </button>
-    </div> -->
+    
+      <div class="footer">
+          <div class="buttons"> 
+              <button class="btn"> <i class="fa-fa-medium">Email</i> </button>
+              <button class="btn"> <i class="fa-fa-medium">Instagram</i> </button>
+              <button class="btn"> <i class="fa-fa-medium">Linkedin</i> </button>
+              <button class="btn"> <i class="fa-fa-medium">Medium</i> </button>
+          </div> <br> 
+          <div class="footertext"></div>
+          <div class="footersubhead">Hey, you! </div>
+          <div class="footerheadline"> Don't be a stranger </div>
+          </div>
+    </div>
   </div>
 </template>
 
@@ -171,11 +179,31 @@ img.ipad {
   width: 100%;
 }
 
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: red; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+}
+
 img {
   width: 100%;
 }
-
-.footer {
+.footer
+ {
   left: 0;
   bottom: 0;
   width: 100%;
@@ -185,13 +213,16 @@ img {
   color: white;
 }
 
+.footertext {
+  /* padding-bottom: 5%; */
+}
+
 .footersubhead {
   font-family: 'Lato';
   font-weight: bolder;
   color: #000000;
   padding-left: 4%;
   margin-bottom:0px;
-  margin-top: -10px;
   font-size: 1.1em;
   text-decoration: none;
 }
@@ -201,7 +232,7 @@ img {
   color: #000000;
   padding-left: 4%;
   font-size: 2em;
-  margin-top: 0;
+  /* margin-top: 4%; */
   text-decoration: none;
 }
 
@@ -211,8 +242,13 @@ img {
   display: inline-block;
 }
 
+.buttons {
+  padding-left: 4%;
+  padding-top: 2%;
+}
+
 .btn {
-  float: right;
+  float: left;
 }
 .profilepic {
   filter: grayscale(100%);
