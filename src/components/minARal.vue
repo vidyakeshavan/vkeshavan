@@ -96,8 +96,9 @@
 
         <div class="row p10 ">
           <div class="four columns mb2 role">
-            Throughout gameplay, children embark on quests with the story's hero, <b> Dr Smith,</b> esteemed (fictional) minerologist extraordinaire,  
-            to build objects from gems an minerals that characters around the museum may need. 
+            Throughout gameplay, children embark on quests with the story's hero, <b> Dr Smith,</b> esteemed 
+            (fictional) minerologist extraordinaire,  
+            to build objects from gems and minerals that characters around the museum may need. 
              Players will be introduced 
              to the process of mining for and forging of minerals through
              clues, puzzles and mini games. </div>
@@ -109,37 +110,44 @@
                structure also allows the game to extend beyond the Gems & Minerals exhibit. </div>
 
           <div class="four columns mb2 role">
-              Depending on skill/age, players can accept quests from characters, building objects from minerals from:
+              Depending on skill/age, players can accept quests from characters, building mineral-based objects from:
              An Egyptian Pharoah, found in the Bones exhibit:  helping him build his crown for the afterlife. Or,
             a Cavewoman, found in the Human Origins exhibit:  helping her build a spear for her hunts.
             </div>
         </div>
 
-         <div class="row p10 background1">
+         <div class="row p10 ">
             <div class="six columns csgoal imgpadbot">
             <b> Rapid Prototyping </b>
             </div>
         </div>  
 
-          <div class="row p10 mb2 background1">
-              <div class="six columns mb2  role">
-           MinARal is a single-player, augmented reality based scavenger hunt
-                  game for mobile devices that educates young users on the real-world
-                  use and purpose of gems and minerals. Proposed to The Smithsonian
-                    National Museum of Natural History, our student team wanted to
-                    use adventure via augmented reality and whimsy with our story to
-                    ultimately get children excited about the science of mineralogy and
-                    a potential future in STEM during their museum visit.
+
+        <div class="row p10 mb2 ">
+            <div class="nine columnsrole">
+                The NMNH relied heavily on our expertise to rapidly 
+                ideate & develop concepts in a short amount of time. Our 
+                ambitions were high, and our production timelines short, 
+                so our prototype took the form of a <i> visual </i> one. 
+            </div>
+        </div>
+
+        <div class="row p10 imgpadbot">
+            <div class="twelve columns">
+                <img src="../assets/img/styleprototype.png" align="top"> 
+            </div>
+          </div>
+
+          <div class="row p10 mb2 imgpadtop">
+              <div class="four columns mb2 role">
+                  We wanted to establish a youthful look to our clickable 
+                  prototype that represented the game-play and AR experiences, 
+                  but in the absence of development time, our efforts were focused in iterating
+                  the storyline into something impactful - one that could sell itself in a demo-reel.
               </div>
     
-         <div class="six columns">
-            MinARal is a single-player, augmented reality based scavenger hunt
-            game for mobile devices that educates young users on the real-world
-            use and purpose of gems and minerals. Proposed to The Smithsonian
-              National Museum of Natural History, our student team wanted to
-              use adventure via augmented reality and whimsy with our story to
-              ultimately get children excited about the science of mineralogy and
-              a potential future in STEM during their museum visit.
+         <div class="eight columns">
+            <img src="../assets/img/styleprototype.png" align="top">
               </div>
            </div>   
 
