@@ -16,7 +16,7 @@
         <div class="row">
           <div class="twelve columns">
             <div class="hero">
-              <img src="../assets/img/unknowntshirtcolor.png" align="top"> 
+              <img src="../assets/img/unknownhero.png" align="top"> 
             </div>
           </div>
         </div>
@@ -70,25 +70,59 @@
 
    <div class="row p10">
     <div class="six columns csgoal imgpadbot">
-    <b> Marketing & Promotion </b>
+    <b> Promotion </b>
     </div>
 </div>  
 
 <div class="row p10">
-    <div class="eight columns">
+    <div class="twelve columns imgpadbot">
         <img src="../assets/img/unknownmarketing.png" align="top"> 
     </div>
-    <div class="four columns role">
-      blah blah The tone  of the conference is to demystify and
-      shed light on <i> unknown </i> tech future ahead, so we wanted our brand 
-      to reflect that exciting uncertainty.  We likened the content of the conference 
-      to a light at the end of the tunnel, resassuring attendees that a 
-      brighter future is out there.<br> <br> 
-      For that reason, we wanted to reference metaphors of light and pragmatism
-    with bright, RBG colors and simplistic, repeating forms in our logo type, based on GT America. 
   </div>
 
+  <div class="row p10">
+    <div class="four columns role">
+      To build awareness and excitement, 
+      we expanded UNKNOWN’s reach through 
+      digital advertising and promotional screen based and OOH media. </div>
+    <div class="eight columns role">
+      We tapped into platforms favored by those likeminded to the attendees 
+      UNKNOWN would have such as: WIRED Magazine, TechCrunch, Instagram, 
+      street-style guerilla marketing, and more. We branded every piece of promotion with our
+       punchy tagline, <i> "Design an Ethical Future" </i> - sure to catch a demograhpic of 
+      design and technology leaders' eyes. 
   </div>
+</div>
+
+<div class="row p10">
+  <div class="six columns csgoal imgpadbot">
+  <b> At the Conference </b>
+  </div>
+</div>  
+
+<div class="row p10 imgpadtop">
+  <div class="four columns role mr2">
+    <img src="../assets/img/unknownvid.gif" align="top">
+  </div>
+  <div class="four columns ">
+    Our team 
+    
+    <br> The UNKNOWN mobile app acts as your conference companion, 
+     guiding you through 
+    the schedule, and archiving all video content. In particular, 
+    users will keep returning to learn about their world
+     through the Explore the UNKNOWN AR function. The augmented 
+     reality aims to 
+</div>
+</div>
+
+<div class="row p10">
+  <div class="six columns csgoal imgpadbot">
+  <b> Collateral & Archiving Content </b>
+  </div>
+</div>  
+
+
 
 
 
