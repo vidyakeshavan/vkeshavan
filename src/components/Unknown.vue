@@ -39,7 +39,7 @@
           </div>
        </div>
 
-       <div class="row p10">
+       <!-- <div class="row p10">
           <div class="six columns csgoal">
           <b> The Process </b>
           </div>
@@ -94,7 +94,7 @@
           <div class="six columns csgoal">
           <b> Archiving the Conference  </b>
           </div>
-      </div>
+      </div> -->
 
 <!-- 
         <div class="row p4one mb2">
