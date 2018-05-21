@@ -61,19 +61,19 @@
 
      <div class="six columns">
               With only five weeks to iterate and present, our team knew that it would 
-              be difficult to fully prototype an augmented reality experience for children through code. We opted 
-              instead to represent our ideas with a demo-reel, packaging our work as a ready-to-fund concept. 
+              be difficult to fully prototype an augmented reality experience for children through code. <i> We opted 
+              instead to represent our ideas with a demo-reel, packaging our work as a ready-to-fund concept.</i>
           </div>
        </div> 
 
 
        <div class="row p10">
-          <div class="six columns csgoal">
+          <div class="six columns csgoal imgpadbot">
           <b> Story & Game Design </b>
           </div>
       </div>
 
-      <div class="row p10 mb2">
+      <div class="row p10">
         <div class="six columns mb2 role">
               Our team believed that the best way to engage kids in educational content, 
               such as the Gems & Minerals, was through a game. We chose to feature augmented reality technology 
@@ -88,25 +88,32 @@
 
      </div>   
 
-       <div class="row p10">
+       <div class="row p10 imgpadbot imgpadtop">
           <div class="twelve columns">
               <img src="../assets/img/storygamedesign.png" align="top"> 
           </div>
         </div>
 
-        <div class="row p10 mb2">
-          <div class="six columns mb2 role">
-            Through a discovery and collection process throughout the exhibit via an AR game, children will learn: 
-            What kind of minerals exist in everyday objects around them (as well as the minerals found in cool stuff!) 
-            And how those minerals are formed, harvested, and shaped to function in the way we need them to.
-          </div>
+        <div class="row p10 ">
+          <div class="four columns mb2 role">
+            Throughout gameplay, children embark on quests with the story's hero, <b> Dr Smith,</b> esteemed (fictional) minerologist extraordinaire,  
+            to build objects from gems an minerals that characters around the museum may need. 
+             Players will be introduced 
+             to the process of mining for and forging of minerals through
+             clues, puzzles and mini games. </div>
   
-          <div class="six columns">
-            <b> Discovery</b> blah blah blah <br>
-            <b> Engagement</b> blah blah blah <br>
-            <b> Action </b> blah blah blah <br>
-            <b> Followup </b> blah blah blah <br>
-          </div>
+          <div class="four columns role mb2">
+              Using AR in these quests, players
+              will gain a real world context and understanding of minerals’
+               purpose in our economy, infrastructure, and more. This story 
+               structure also allows the game to extend beyond the Gems & Minerals exhibit. </div>
+
+          <div class="four columns mb2 role">
+              Depending on skill/age, players can accept quests from characters, building objects from minerals from:
+             An Egyptian Pharoah, found in the Bones exhibit:  helping him build his crown for the afterlife. Or,
+            a Cavewoman, found in the Human Origins exhibit:  helping her build a spear for her hunts.
+            </div>
+        </div>
 
          <div class="row p10 background1">
             <div class="six columns csgoal imgpadbot">
