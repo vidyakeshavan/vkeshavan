@@ -176,7 +176,6 @@ img {
 }
 
 .footer {
-  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -190,19 +189,18 @@ img {
   font-family: 'Lato';
   font-weight: bolder;
   color: #000000;
-  margin-left: 90px;
+  padding-left: 4%;
   margin-bottom:0px;
   margin-top: -10px;
-  font-size: 1.5vw;
+  font-size: 1.1em;
   text-decoration: none;
 }
 
 .footerheadline {
   font-family: 'acme', sans-serif;
   color: #000000;
-  margin-left: 90px;
-  font-size: 4vw;
-  margin-left: 85px;
+  padding-left: 4%;
+  font-size: 2em;
   margin-top: 0;
   text-decoration: none;
 }
