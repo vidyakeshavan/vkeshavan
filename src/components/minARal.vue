@@ -36,19 +36,19 @@
           </div>
        </div>   
 
-       <div class="row p10 background1">
+       <div class="row p10">
           <div class="six columns csgoal imgpadbot">
           <b> The Challenge </b>
           </div>
       </div>  
 
-      <div class="row p10 background1">
+      <div class="row p10">
           <div class="twelve columns">
               <img src="../assets/img/gemhall.jpg" align="top"> 
           </div>
         </div>
 
-      <div class="row p10 mb2 imgpadtop imgpadbot background1 ">
+      <div class="row p10 mb2 imgpadtop imgpadbot ">
           <div class="six columns mb2 role ">
               NMNH’s Business Development team expressed that an
                important goal for them is to promote STEM as an exciting 
@@ -124,41 +124,43 @@
 
 
         <div class="row p10 mb2 ">
-            <div class="nine columnsrole">
+            <div class="six columns role">
                 The NMNH relied heavily on our expertise to rapidly 
                 ideate & develop concepts in a short amount of time. Our 
                 ambitions were high, and our production timelines short, 
                 so our prototype took the form of a <i> visual </i> one. 
-            </div>
+                We chose this aesthetic type of prototype to capture
+                the scope and appearance, but not necessarily the 
+                final functionality, of our intended design.</div>
+
+          <div class="six columns">
+                    <img src="../assets/img/styleprototype.png" align="top">
+                      </div>
         </div>
 
         <div class="row p10 imgpadbot">
-            <div class="twelve columns">
-                <img src="../assets/img/styleprototype.png" align="top"> 
+            <div class="eight columns">
+                <img src="../assets/img/smithsonian2.gif" align="top">
+            </div>
+
+            <div class="four columns mb2 role">
+                We wanted to invoke a <i> youthful feel </i> to our clickable 
+                prototype that represented the game-play and AR experiences.  
+                But in the absence of development time, our efforts were focused in iterating
+                the storyline into something impactful - one that could establish the brand's tone, 
+                sell itself in a demo-reel, and ultimately encourage 
+                Smithsonian to make an investment decision.
             </div>
           </div>
 
-          <div class="row p10 mb2 imgpadtop">
-              <div class="four columns mb2 role">
-                  We wanted to establish a youthful look to our clickable 
-                  prototype that represented the game-play and AR experiences, 
-                  but in the absence of development time, our efforts were focused in iterating
-                  the storyline into something impactful - one that could sell itself in a demo-reel.
-              </div>
-    
-         <div class="eight columns">
-            <img src="../assets/img/styleprototype.png" align="top">
-              </div>
-           </div>   
-
-           <div class="row p10 background2">
-              <div class="six columns csgoal imgpadbot">
+           <div class="row p10">
+              <div class="twelve columns csgoal imgpadbot">
               <b> Creating a Demo Reel </b>
               </div>
           </div>  
 
           <div class="row p10 mb2">
-              <div class="six columns role">
+              <div class="nine columns role">
            MinARal is a single-player, augmented reality based scavenger hunt
                   game for mobile devices that educates young users on the real-world
                   use and purpose of gems and minerals. Proposed to The Smithsonian
