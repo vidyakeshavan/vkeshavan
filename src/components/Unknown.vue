@@ -86,8 +86,8 @@
       we expanded UNKNOWN’s reach through 
       digital advertising and promotional screen based and OOH media. </div>
     <div class="eight columns role">
-      We tapped into platforms favored by those likeminded to the attendees 
-      UNKNOWN would have such as: WIRED Magazine, TechCrunch, Instagram, 
+      We tapped into platforms favored by those likeminded to potential UNKNOWN attendees 
+      such as: WIRED Magazine, TechCrunch, Instagram, 
       street-style guerilla marketing, and more. We branded every piece of promotion with our
        punchy tagline, <i> "Design an Ethical Future" </i> - sure to catch a demograhpic of 
       design and technology leaders' eyes. 
@@ -101,27 +101,53 @@
 </div>  
 
 <div class="row p10 imgpadtop">
+  <div class="six columns">
+    <img src="../assets/img/map_venue_stand.png" align="top">
+  </div>
+  <div class="six columns">
+    <img src="../assets/img/animated_digital_signage.png" align="top">
+  </div>
+
+</div>
+
+<div class="row p10 imgpadtop">
+  <div class="six columns">
+    <img src="../assets/img/unknown_tshirt_black_back.png" align="top">
+  </div>
+  <div class="six columns role">
+    <img src="../assets/img/unknown_black_tote.png" align="top">
+  </div>
+</div>
+
+<div class="row p10 imgpadtop imgpadbot">
   <div class="four columns role mr2">
     <img src="../assets/img/unknownvid.gif" align="top">
   </div>
-  <div class="four columns ">
-    Our team 
+  <div class="six columns ">
+    Our team chose the experimental venue, Lowline NYC, to further push the idea that there's a lot 
+    more unknown to us than meets the eye. The Lowline (designed to rival its above-ground cousin The Highline), 
+    is a pop-up underground garden powered by modern technology in NYC's Lower East Side. 
+    The vibrancy of the collateral contrasts against darker spaces, reflecting the positive outlook we should take 
+    when facing the unknown.
     
-    <br> The UNKNOWN mobile app acts as your conference companion, 
+    <br> <br> The UNKNOWN mobile app acts as your conference companion, 
      guiding you through 
     the schedule, and archiving all video content. In particular, 
     users will keep returning to learn about their world
-     through the Explore the UNKNOWN AR function. The augmented 
-     reality aims to 
+     through the Explore the UNKNOWN AR function. As the user walks 
+     around his or her world, the app will prompt them to uncover
+      the (<i> unknown</i>) stories in the world they think they know. These 
+      stories aggregate articles from tech and design focused publications, serving as a unique discoverability 
+      platform for digital news. 
 </div>
 </div>
 
-<div class="row p10">
+<!-- <div class="row p10">
   <div class="six columns csgoal imgpadbot">
-  <b> Collateral & Archiving Content </b>
+  <b> Archival Content </b>
   </div>
 </div>  
-
+ -->
 
 
 

@@ -1,11 +1,12 @@
 <template>
   <div class="aboutpage">
-    <div class="row p10">
-      <div class="six columns">
+    <div class="row p4one">
+      <div class="four columns">
           <img src="../assets/img/vacationvid.jpg">
         </div>
       </div>
-      <div class="six columns p10 imgpadbot">
+      <div class="row p4one">
+      <div class="four columns imgpadbot">
         <p3 class="about hi"> Hey, I'm Vidya. </p3>
         <p3 class="about text"> 
           <br> Understandably the fedora-on-vacation look 
@@ -17,6 +18,7 @@
            significant hand in its creation. <br> <br> I can tell you 
            all about it and my other work over some coffee (and perhaps sushi). </p3>
       </div>
+    </div>
     </div>
       <!-- <div class="footer">
       <br>  <a href="mailto:vidyakeshavan91@gmail.com" class="footersubhead">Hey, you! </a> <br>
