@@ -1,6 +1,7 @@
 <template>
   <div id="hi">
     <link href="https://fonts.googleapis.com/css?family=Acme|Lato" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <div class="p4">
       <div class="navbar">
             <h1>Vidya<br /> Keshavan</h1 >
@@ -14,16 +15,17 @@
     <router-view/>
     
       <div class="footer">
-          <div class="buttons"> 
-              <button class="btn"> <i class="fa-fa-medium">Email</i> </button>
-              <button class="btn"> <i class="fa-fa-medium">Instagram</i> </button>
-              <button class="btn"> <i class="fa-fa-medium">Linkedin</i> </button>
-              <button class="btn"> <i class="fa-fa-medium">Medium</i> </button>
-          </div> <br> 
-          <div class="footertext"></div>
+          <div class="footertext">
           <div class="footersubhead">Hey, you! </div>
-          <div class="footerheadline"> Don't be a stranger </div>
+          <div class="footerheadline"> Don't be a stranger. </div>
+          <div class="buttons"> 
+              <a href="https://www.linkedin.com/in/vidyakeshavan" class="fa fa-linkedin"></a>
+              <a href="mailto:vidyakeshavan91@gmail.com" class="fa fa-envelope"></a>
+              <a href="https://medium.com/@vidyakeshavan" class="fa fa-medium"></a>
+              <a href="https://www.instagram.com/vidskesh/" class="fa fa-instagram"></a>
+              <a href="/images/myw3schoolsimage.jpg" download class="fa fa-file"></a>
           </div>
+        </div>
     </div>
   </div>
 </template>
@@ -179,77 +181,49 @@ img.ipad {
   width: 100%;
 }
 
-#myBtn {
-    display: none; /* Hidden by default */
-    position: fixed; /* Fixed/sticky position */
-    bottom: 20px; /* Place the button at the bottom of the page */
-    right: 30px; /* Place the button 30px from the right */
-    z-index: 99; /* Make sure it does not overlap */
-    border: none; /* Remove borders */
-    outline: none; /* Remove outline */
-    background-color: red; /* Set a background color */
-    color: white; /* Text color */
-    cursor: pointer; /* Add a mouse pointer on hover */
-    padding: 15px; /* Some padding */
-    border-radius: 10px; /* Rounded corners */
-    font-size: 18px; /* Increase font size */
-}
-
-#myBtn:hover {
-    background-color: #555; /* Add a dark-grey background on hover */
-}
-
 img {
   width: 100%;
 }
-.footer
- {
-  left: 0;
-  bottom: 0;
+.footer {
   width: 100%;
-  height: 15%;
   background-color: #F9F2F2;
   filter: opacity(90%);
   color: white;
 }
 
 .footertext {
-  /* padding-bottom: 5%; */
+  padding-bottom: 2%;
+  padding-top: 2%;
+  padding-left: 4%;
 }
 
 .footersubhead {
-  font-family: 'Lato';
-  font-weight: bolder;
+  font-family: 'lato', sans-serif;
   color: #000000;
-  padding-left: 4%;
-  margin-bottom:0px;
   font-size: 1.1em;
   text-decoration: none;
+  margin-top: 1.1%;
 }
 
 .footerheadline {
   font-family: 'acme', sans-serif;
   color: #000000;
-  padding-left: 4%;
   font-size: 2em;
+  left: -.75%;
   /* margin-top: 4%; */
   text-decoration: none;
 }
 
-.fa-fa-medium {
-  color: #000;
-  float: right;
-  display: inline-block;
+.fa {
+    /* font-size: 1.6em; */
+    width: 35px;
+    /* text-align: center; */
+    text-decoration: none;
+    margin-bottom: 1.1%;
+    margin-top: .75%;
+    color: rgb(50, 49, 49);
 }
 
-.buttons {
-  padding-left: 4%;
-  padding-top: 2%;
-}
-
-.btn {
-  float: left;
-}
 .profilepic {
   filter: grayscale(100%);
 }

@@ -1,7 +1,5 @@
 <template>
   <div class="mincontain">
-
-
   <div class="container">
         <!-- columns should be the immediate child of a .row -->
 
@@ -155,35 +153,19 @@
 
            <div class="row p10">
               <div class="twelve columns csgoal imgpadbot">
-              <b> Creating and Testing the Demo Reel </b>
+              <b> Creating the Demo Reel </b>
               </div>
           </div>  
 
-          <div class="row p10 mb2">
-              <div class="eight columns role">
-           MinARal is a single-player, augmented reality based scavenger hunt
-                  game for mobile devices that educates young users on the real-world
-                  use and purpose of gems and minerals. Proposed to The Smithsonian
-                    National Museum of Natural History, our student team wanted to
-                    use adventure via augmented reality and whimsy with our story to
-                    ultimately get children excited about the science of mineralogy and
-                    a potential future in STEM during their museum visit.
-              </div>
-            </div>
-    
-
           <div class="row p10">
-              <div class="three columns">
+              <div class="four columns">
                   <img src="../assets/img/demoprocess1.jpeg" align="top"> 
               </div>
-              <div class="three columns">
+              <div class="four columns">
                   <img src="../assets/img/demoprocess3.jpg" align="top"> 
               </div>
-              <div class="three columns">
+              <div class="four columns">
                   <img src="../assets/img/demoprocess2.jpeg" align="top"> 
-              </div>
-              <div class="three columns">
-                  <img src="../assets/img/chaotest.jpeg" align="top"> 
               </div>
             </div>
 
@@ -198,8 +180,12 @@
               <div class="six columns role">
                       <img src="../assets/img/sowmovie.gif" align="top">
                   </div>
-    
-          <div class="six columns role">
+                  <div class="six columns">
+                      <img src="../assets/img/chaotest.jpeg" align="top"> 
+                  </div>
+          </div>
+          <div class="row p10 mb2">
+            <div class="eight columns role">
               MinARal is a single-player, augmented reality based scavenger hunt
              game for mobile devices that educates young users on the real-world
              use and purpose of gems and minerals. Proposed to The Smithsonian
