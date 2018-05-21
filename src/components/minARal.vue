@@ -18,7 +18,7 @@
         </div>
 
       <div class="row p10">
-          <div class="four columns role">
+          <div class="four columns role mb2">
            <b> Role: </b> Content Lead, User Experience, Video Direction, Contract Writing <br> 
            <b> Status: </b> Ongoing, Student Project Spring '18 <br>
            <b> Team: </b> Vidya Keshavan, Stella Zhong, Carla Mollins
@@ -47,7 +47,7 @@
         </div>
 
       <div class="row p10 imgpadtop ">
-          <div class="six columns  role ">
+          <div class="six columns  role mb2">
               NMNH’s Business Development team expressed that an
                important goal for them is to promote STEM as an exciting 
                and viable career path for children. However, while the
@@ -71,14 +71,14 @@
           </div>
       </div>
 
-      <div class="row p10">
-        <div class="six columns mb2 role">
+      <div class="row p10 imgpadbot">
+        <div class="six columns mb2">
               Our team believed that the best way to engage kids in educational content, 
               such as the Gems & Minerals, was through a game. We chose to feature augmented reality technology 
              as the heart of the experience, making it fresh, exciting, and relevant to young visitors. 
         </div>
 
-        <div class="six columns">
+        <div class="six columns role">
            Drawing from some of our favorites, we were inspired by the content themes found in 
            '90s computer game, <i> Where in Time is Carmen Sandiego?</i> and the 
            game functionality of AR based mobile game, <i> Pokemon Go!</i>.
@@ -86,14 +86,14 @@
 
      </div>   
 
-       <div class="row p10 imgpadbot">
-          <div class="twelve columns">
+       <div class="row p10">
+          <div class="twelve columns mb2">
               <img src="../assets/img/storygamedesign.png" align="top"> 
           </div>
         </div>
 
         <div class="row p10 ">
-          <div class="four columns role">
+          <div class="four columns role mb2">
             Throughout gameplay, children embark on quests with the story's hero, <b> Dr Smith,</b> esteemed 
             (fictional) minerologist extraordinaire,  
             to build objects from gems and minerals that characters around the museum may need. 
@@ -101,7 +101,7 @@
              to the process of mining for and forging of minerals through
              clues, puzzles and mini games. </div>
   
-          <div class="four columns role">
+          <div class="four columns role mb2 ">
               Using AR in these quests, players
               will gain a real world context and understanding of minerals’
                purpose in our economy, infrastructure, and more. This story 
@@ -122,7 +122,7 @@
 
 
         <div class="row p10 mb2 ">
-            <div class="six columns role">
+            <div class="six columns role mb2">
                 The NMNH relied heavily on our expertise to rapidly 
                 ideate & develop concepts in a short amount of time. Our 
                 ambitions were high, and our production timelines short, 
@@ -137,11 +137,11 @@
         </div>
 
         <div class="row p10 imgpadbot">
-            <div class="eight columns">
+            <div class="eight columns mb2">
                 <img src="../assets/img/smithsonian2.gif" align="top">
             </div>
 
-            <div class="four columns role">
+            <div class="four columns role imgpagtop">
                 We wanted to invoke a <i> youthful feel </i> to our clickable 
                 prototype that represented the game-play and AR experiences.  
                 But in the absence of development time, our efforts were focused in iterating
@@ -190,7 +190,7 @@
               we were asked to draft a Statement of Work contract that lays out intended plans 
               for design, development, timing, and budget if given funding. 
               If given the investment opportunity, our team would contract across a 1-year span, 
-              producing MinARal across its lifecyclce: from the initial research phases, 
+              producing MinARal across its lifecycle: from the initial research phases, 
               to long-term exhibit maintenence. 
               </div>
            </div>
