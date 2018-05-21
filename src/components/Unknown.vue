@@ -39,6 +39,63 @@
           </div>
        </div>
 
+       <div class="row p10">
+        <div class="six columns csgoal imgpadbot">
+        <b> Brand Identity </b>
+        </div>
+    </div>  
+
+    <div class="row p10">
+        <div class="twelve columns">
+            <img src="../assets/img/BrandID.png" align="top"> 
+        </div>
+      </div>
+
+
+    <div class="row p10 imgpadtop ">
+      <div class="six columns role mb2">
+        The tone  of the conference is to demystify and
+        shed light on <i> unknown </i> tech future ahead, so we wanted our brand 
+        to reflect that exciting uncertainty.  We likened the content of the conference 
+        to a light at the end of the tunnel, resassuring attendees that a 
+        brighter future is out there.
+         </div>
+
+      <div class="six columns role">
+        For that reason, we wanted to reference metaphors of light and pragmatism
+        with bright, RBG colors and simplistic, repeating forms in our logo type, based on GT America. 
+      </div>
+   </div> 
+
+
+   <div class="row p10">
+    <div class="six columns csgoal imgpadbot">
+    <b> Marketing & Promotion </b>
+    </div>
+</div>  
+
+<div class="row p10">
+    <div class="eight columns">
+        <img src="../assets/img/unknownmarketing.png" align="top"> 
+    </div>
+    <div class="four columns role">
+      blah blah The tone  of the conference is to demystify and
+      shed light on <i> unknown </i> tech future ahead, so we wanted our brand 
+      to reflect that exciting uncertainty.  We likened the content of the conference 
+      to a light at the end of the tunnel, resassuring attendees that a 
+      brighter future is out there.<br> <br> 
+      For that reason, we wanted to reference metaphors of light and pragmatism
+    with bright, RBG colors and simplistic, repeating forms in our logo type, based on GT America. 
+  </div>
+
+  </div>
+
+
+
+
+
+
+
        <!-- <div class="row p10">
           <div class="six columns csgoal">
           <b> The Process </b>
