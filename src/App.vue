@@ -14,7 +14,7 @@
 
     <router-view/>
     
-      <div class="footer">
+      <!-- <div class="footer">
           <div class="footertext">
           <div class="footersubhead">Hey, you! </div>
           <div class="footerheadline"> Don't be a stranger. </div>
@@ -26,7 +26,7 @@
               <a href="../assets/img/VidyaKeshavanResume.pdf" download class="fa fa-file"></a>
           </div>
         </div>
-    </div>
+    </div> -->
   </div>
 </template>
 
@@ -63,6 +63,8 @@ body {
   padding-left: 4%; 
   padding-right: 4%;
   padding-top: 1%;
+  vertical-align: text-top;
+
 }
 
 .background1 {
@@ -93,12 +95,17 @@ iframe {
   margin-bottom:5%;
 }
 
+.buttons {
+  font-size: 20px;
+  letter-spacing: .5em;
+}
+
 img.ipad {
   width:40%;
 }
 
 .navbar {
-  width: 100%;
+  width: 98;
   padding-left: 20px;
   position: relative;
   border-left: 0.025px solid #000;
@@ -216,17 +223,28 @@ img {
 
 .fa {
     /* font-size: 1.6em; */
-    width: 35px;
+    width: 30px;
     /* text-align: center; */
-    text-decoration: none;
-    margin-bottom: 1.1%;
-    margin-top: .75%;
-    color: rgb(50, 49, 49);
+    text-decoration:none ;
+    margin-bottom: 1.1%; 
+    color: #7D7F87;
+}
+
+.fa:hover {
+  transform: scale(1.8);
 }
 
 .profilepic {
   filter: grayscale(100%);
 }
+
+.mr2 {
+  margin-right: 1%;
+}
+
+.mb2 {
+  margin-bottom: 5%;
+} 
 
 figcaption {
   font-family: 'Lato';
@@ -420,6 +438,14 @@ p {
   top: 2vw;
   margin-bottom: 6%;
   margin-top: -6%;
+}
+
+.heroabout {
+  width: 120%;
+  position: relative;
+  z-index: -2;
+  padding-left: 2%;
+  /* margin-top: -2%; */
 }
 
 .left {
