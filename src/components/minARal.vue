@@ -3,7 +3,7 @@
   <div class="container">
         <!-- columns should be the immediate child of a .row -->
 
-        <div class="row ">
+        <div class="row p4one">
             <div class="twelve columns headline"> <b>minARal</b></div>
           </div>
   

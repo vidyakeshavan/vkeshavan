@@ -11,7 +11,7 @@
       <div class="row p4one">
           <div class="four columns role mr2 mb2">
                Understandably the fedora-on-vacation look 
-               doesn't quite encapsulate, "Designer with Roots in 
+               doesn't quite read, "Designer with Roots in 
                Marketing & Analytics, with a Promise to Make Compelling
                 and Strategic Digital Products".  
             
@@ -29,7 +29,7 @@
             I can tell you all about it and my other 
             work over some coffee (and perhaps sushi). <br> <br>
             <div class="buttons">     
-                <a href="../assets/img/VidyaKeshavanResume.pdf" download class="fa fa-file"></a>
+                <a href="../assets/img/VidyaKeshavanResume.pdf" download="VidyaKeshavanResume.pdf" class="fa fa-file"></a>
                 <a href="https://www.linkedin.com/in/vidyakeshavan" class="fa fa-linkedin"></a>
                 <a href="mailto:vidyakeshavan91@gmail.com" class="fa fa-envelope"></a>
                 <a href="https://medium.com/@vidyakeshavan" class="fa fa-medium"></a>

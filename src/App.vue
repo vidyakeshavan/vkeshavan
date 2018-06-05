@@ -17,8 +17,7 @@
       <!-- <div class="footer">
           <div class="footertext">
           <div class="footersubhead">Hey, you! </div>
-          <div class="footerheadline"> Don't be a stranger. </div>
-          <div class="buttons"> 
+            <div class="buttons"> 
               <a href="https://www.linkedin.com/in/vidyakeshavan" class="fa fa-linkedin"></a>
               <a href="mailto:vidyakeshavan91@gmail.com" class="fa fa-envelope"></a>
               <a href="https://medium.com/@vidyakeshavan" class="fa fa-medium"></a>
@@ -105,7 +104,7 @@ img.ipad {
 }
 
 .navbar {
-  width: 98;
+  width: 100%;
   padding-left: 20px;
   position: relative;
   border-left: 0.025px solid #000;
@@ -232,6 +231,7 @@ img {
 
 .fa:hover {
   transform: scale(1.8);
+  color: #B4BDE7;
 }
 
 .profilepic {
@@ -445,7 +445,6 @@ p {
   position: relative;
   z-index: -2;
   padding-left: 2%;
-  /* margin-top: -2%; */
 }
 
 .left {
