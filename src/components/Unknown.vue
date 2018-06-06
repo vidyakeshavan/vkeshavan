@@ -6,7 +6,7 @@
 
 
         <div class="row p4one">
-          <div class="twelve columns headline"> <b>UNKNOWN</b></div>
+          <div class="twelve columns headline"> <b>Unknown</b></div>
         </div>
 
         <div class="row p4one">
@@ -28,7 +28,7 @@
            <b> Team: </b> Vidya Keshavan, Carolyn Berry, Patrick Serr, Poppy Chen
           </div>
 
-          <div class="six columns role">
+          <div class="six columns role ">
             Our student group was challenged us to create a hypothetical conference
              that addresses the ethical issues that arise when 
              digital technology plays an increasingly large role 
@@ -52,7 +52,7 @@
       </div>
 
 
-    <div class="row p10 imgpadtop ">
+    <div class="row p10 imgpadtop challenge ">
       <div class="six columns role mb2">
         The tone  of the conference is to demystify and
         shed light on <i> unknown </i> tech future ahead, so we wanted our brand 

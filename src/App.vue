@@ -190,6 +190,8 @@ img.ipad {
 img {
   width: 100%;
 }
+
+
 .footer {
   width: 100%;
   background-color: #F9F2F2;
@@ -245,6 +247,10 @@ img {
 .mb2 {
   margin-bottom: 5%;
 } 
+
+.mt2 {
+  margin-top: 5%;
+}
 
 figcaption {
   font-family: 'Lato';
@@ -385,7 +391,6 @@ html {
 body {
   font-size: 18px;
   /* line-height: 1.6; */
-  font-weight: 400;
   color: #000; 
   background: #fff}
 
@@ -411,6 +416,10 @@ p {
   padding-right: 15%;
 }
 
+.challenge {
+  background:#fafafa;
+}
+
 .p3 {
   padding-top: 4%;
   padding-bottom: 4%
@@ -418,16 +427,16 @@ p {
 
 .headline {
   font-family: 'acme', sans-serif;
-  font-size: 10vw;
-  line-height: 0%;
+  font-size: 13vw;
   margin-bottom: 0;
   line-height: 1em;
+  letter-spacing: -.02em;
 }
 
 .subhead {
   font-family: 'Lato-light',sans-serif;
   font-size: 3.75vw;
-  line-height: 0%;
+  margin-bottom: -3%;
 } 
 
 .hero {
@@ -445,6 +454,15 @@ p {
   position: relative;
   z-index: -2;
   padding-left: 2%;
+}
+
+.heroregular {
+  width:100%;
+  position: relative;
+  z-index: -2;
+  top: 2vw;
+  margin-bottom: 6%;
+  margin-top: -6%;
 }
 
 .left {
@@ -485,10 +503,13 @@ p {
 }
 
 .csgoal {
-  font-size: 4rem;
-    margin-top: 8%;
-    font-family: 'lato-light', sans-serif;
+  font-size: 40px;
+    /* margin-top: 8%; */
+    letter-spacing: -.01em;
+    line-height: .9em;
+    font-family: 'acme', sans-serif;
 }
+
 
 .cshypothesis {
   vertical-align: top;

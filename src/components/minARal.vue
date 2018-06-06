@@ -17,14 +17,14 @@
           </div>
         </div>
 
-      <div class="row p10">
+      <div class="row p10 mb2">
           <div class="four columns role mb2">
            <b> Role: </b> Content Lead, User Experience, Video Direction, Contract Writing <br> 
            <b> Status: </b> Ongoing, Student Project Spring '18 <br>
            <b> Team: </b> Vidya Keshavan, Stella Zhong, Carla Mollins
           </div>
 
-          <div class="eight columns">
+          <div class="eight columns mb2">
               MinARal is a single-player, augmented reality based scavenger hunt
               game for mobile devices that educates young users on the real-world
               use and purpose of gems and minerals. Proposed to The Smithsonian
@@ -34,20 +34,26 @@
           </div>
        </div>   
 
-       <div class="row p10">
-          <div class="six columns csgoal imgpadbot">
-          <b> The Challenge </b>
+       <div class="row p10 challenge imgpadtop">
+            <div class="six columns imgpadbot imgpadtop mt2">
+                <b> The Challenge </b>
+            </div>
+    </div>  
+
+       <div class="row p10 challenge imgpadbot">
+          <div class="eight columns csgoal">
+          The Smithsonian for a  New Generation 
           </div>
       </div>  
 
-      <div class="row p10">
+      <div class="row p10 challenge">
           <div class="twelve columns">
               <img src="../assets/img/gemhall.jpg" align="top"> 
           </div>
         </div>
 
-      <div class="row p10 imgpadtop ">
-          <div class="six columns  role mb2">
+      <div class="row p10 imgpadtop challenge imgpadbot">
+          <div class="six columns role mb2 challenge">
               NMNH’s Business Development team expressed that an
                important goal for them is to promote STEM as an exciting 
                and viable career path for children. However, while the
@@ -57,17 +63,22 @@
                children in mind. 
           </div>
 
-     <div class="six columns">
+     <div class="six columns mb2">
               With only five weeks to iterate and present, our team knew that it would 
-              be difficult to fully prototype an augmented reality experience for children through code. <i> We opted 
-              instead to represent our ideas with a demo reel, packaging our work as a ready-to-fund concept.</i>
+              be difficult to fully prototype an augmented reality experience for children through code. We opted 
+              instead to represent our ideas with a demo reel, packaging our work as a ready-to-fund concept.
           </div>
        </div> 
 
+       <div class="row p10 imgpadtop mt2">
+        <div class="six columns">
+            <b>Story & Game Design </b>
+        </div>
+        </div>  
 
        <div class="row p10">
-          <div class="six columns csgoal imgpadbot">
-          <b> Story & Game Design </b>
+          <div class="six columns csgoal imgpadtop imgpadbot">
+           Inspired by the Classics
           </div>
       </div>
 
@@ -88,7 +99,7 @@
 
        <div class="row p10">
           <div class="twelve columns mb2">
-              <img src="../assets/img/storygamedesign.png" align="top"> 
+              <img src="../assets/img/storygamedesborder.png" align="top"> 
           </div>
         </div>
 
@@ -114,14 +125,23 @@
             </div>
         </div>
 
-         <div class="row p10 ">
-            <div class="six columns csgoal imgpadbot">
-            <b> Rapid Prototyping </b>
+        <div class="challenge">
+
+        <div class="row p10 imgpadtop challenge mt2">
+            <div class="six columns mt2">
+                <b>Rapid Prototyping </b>
             </div>
-        </div>  
+            </div> 
 
 
-        <div class="row p10 mb2 ">
+        <div class="row p10 challenge">
+            <div class="six columns csgoal imgpadtop imgpadbot">
+             blah blah
+            </div>
+        </div>
+  
+
+        <div class="row p10 mb2 challenge ">
             <div class="six columns role mb2">
                 The NMNH relied heavily on our expertise to rapidly 
                 ideate & develop concepts in a short amount of time. Our 
@@ -132,11 +152,11 @@
                 final functionality, of our intended design.</div>
 
           <div class="six columns">
-                    <img src="../assets/img/styleprototype.png" align="top">
+                    <img src="../assets/img/styleprototype2.png" align="top">
                       </div>
         </div>
 
-        <div class="row p10 imgpadbot">
+        <div class="row p10 imgpadbot challenge">
             <div class="eight columns mb2">
                 <img src="../assets/img/smithsonian2.gif" align="top">
             </div>
@@ -144,31 +164,25 @@
             <div class="four columns role imgpagtop">
                 We wanted to invoke a <i> youthful feel </i> to our clickable 
                 prototype that represented the game-play and AR experiences.  
-                But in the absence of development time, our efforts were focused in iterating
+                <br> <br> But in the absence of development time, our efforts were focused in iterating
                 the storyline into something impactful - one that could establish the brand's tone, 
                 sell itself in a demo reel, and ultimately encourage 
                 Smithsonian to make an investment decision.
             </div>
-          </div>
+        </div>
 
-           <div class="row p10">
-              <div class="twelve columns csgoal imgpadbot">
-              <b> Creating the Demo Reel </b>
-              </div>
-          </div>  
-
-          <div class="row p10">
-              <div class="four columns">
-                  <img src="../assets/img/demoprocess1.jpeg" align="top"> 
-              </div>
-              <div class="four columns">
-                  <img src="../assets/img/demoprocess3.jpg" align="top"> 
-              </div>
-              <div class="four columns">
-                  <img src="../assets/img/demoprocess2.jpeg" align="top"> 
+        </div>
+            
+          <div class="row">
+              <div class="twelve columns">
+                  <div class="heroregular">
+                        <img src="../assets/img/fulldemoprocess.png" align="top"> 
+                  </div>
               </div>
             </div>
 
+            </div>
+            
 
           <div class="row p10">
               <div class="six columns csgoal imgpadbot">
