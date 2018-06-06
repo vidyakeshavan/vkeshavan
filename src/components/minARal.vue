@@ -141,7 +141,7 @@
         </div>
   
 
-        <div class="row p10 mb2 challenge ">
+        <div class="row p10 challenge ">
             <div class="six columns role mb2">
                 The NMNH relied heavily on our expertise to rapidly 
                 ideate & develop concepts in a short amount of time. Our 
@@ -157,14 +157,18 @@
         </div>
 
         <div class="row p10 imgpadbot challenge">
-            <div class="eight columns mb2">
+            <div class="twelve columns mb2">
                 <img src="../assets/img/smithsonian2.gif" align="top">
             </div>
+        </div>
 
-            <div class="four columns role imgpagtop">
+        <div class="row p10 imgpadbot challenge">
+            <div class="four columns imgpagtop mb2">
                 We wanted to invoke a <i> youthful feel </i> to our clickable 
-                prototype that represented the game-play and AR experiences.  
-                <br> <br> But in the absence of development time, our efforts were focused in iterating
+                prototype that represented the game-play and AR experiences.  </div>
+                 
+                <div class="eight columns role imgpagtop">    
+                But in the absence of development time, our efforts were focused in iterating
                 the storyline into something impactful - one that could establish the brand's tone, 
                 sell itself in a demo reel, and ultimately encourage 
                 Smithsonian to make an investment decision.
