@@ -194,15 +194,15 @@ img {
 
 .footer {
   width: 100%;
-  background-color: #F9F2F2;
+  /* background-color: #F9F2F2; */
   filter: opacity(90%);
   color: white;
 }
 
 .footertext {
-  padding-bottom: 2%;
-  padding-top: 2%;
-  padding-left: 4%;
+  /* padding-bottom: 2%; */
+  padding-top: 8%;
+  padding-left: 1%;
 }
 
 .footersubhead {
@@ -429,7 +429,7 @@ p {
   font-family: 'acme', sans-serif;
   font-size: 13vw;
   margin-bottom: 0;
-  line-height: 1em;
+  line-height: .3em;
   letter-spacing: -.02em;
 }
 
@@ -437,6 +437,7 @@ p {
   font-family: 'Lato-light',sans-serif;
   font-size: 3.75vw;
   margin-bottom: -3%;
+  line-height: .5em;
 } 
 
 .hero {

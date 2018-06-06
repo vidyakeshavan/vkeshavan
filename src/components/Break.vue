@@ -42,6 +42,16 @@
           </div>
       </div>
 
+
+    <div class="footer mt2">
+        <div class="footertext">
+      <router-link to="minARal" exact>  
+        <img src="../assets/img/minfooter.png"align="top"> </router-link>  
+        <!-- <div class="footersubhead">Want more? </div>
+        <div class="footerheadline">Want more? </div> -->
+      </div>
+    </div>
+
 <!-- 
         <div class="row p4one mb2">
           <div class="two thirds column mb2 csgoalimg">

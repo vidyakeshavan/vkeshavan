@@ -20,7 +20,7 @@
       <div class="row p10 mb2">
           <div class="four columns role mb2">
            <b> Role: </b> Content Lead, User Experience, Video Direction, Contract Writing <br> 
-           <b> Status: </b> Ongoing, Student Project Spring '18 <br>
+           <b> Status: </b> Completed, Student Project Spring '18 <br>
            <b> Team: </b> Vidya Keshavan, Stella Zhong, Carla Mollins
           </div>
 
@@ -36,7 +36,7 @@
 
        <div class="row p10 challenge imgpadtop">
             <div class="six columns imgpadbot imgpadtop mt2">
-                <b> The Challenge </b>
+                <b> THE CHALLENGE </b>
             </div>
     </div>  
 
@@ -72,7 +72,7 @@
 
        <div class="row p10 imgpadtop mt2">
         <div class="six columns">
-            <b>Story & Game Design </b>
+            <b>STORY AND GAME DESIGN </b>
         </div>
         </div>  
 
@@ -104,39 +104,39 @@
         </div>
 
         <div class="row p10 ">
-          <div class="four columns role mb2">
+          <div class="six columns role mb2">
             Throughout gameplay, children embark on quests with the story's hero, <b> Dr Smith,</b> esteemed 
             (fictional) minerologist extraordinaire,  
             to build objects from gems and minerals that characters around the museum may need. 
              Players will be introduced 
              to the process of mining for and forging of minerals through
-             clues, puzzles and mini games. </div>
+             clues, puzzles and mini games. Using AR in these quests, players
+             will gain a real world context and understanding of minerals’
+              purpose in our economy, infrastructure, and more.</div>
   
-          <div class="four columns role mb2 ">
-              Using AR in these quests, players
-              will gain a real world context and understanding of minerals’
-               purpose in our economy, infrastructure, and more. This story 
-               structure also allows the game to extend beyond the Gems & Minerals exhibit. </div>
-
-          <div class="four columns role">
-              Depending on skill/age, players can accept quests from characters, building mineral-based objects from:
-             An Egyptian Pharoah, found in the Bones exhibit:  helping him build his crown for the afterlife. Or,
-            a Cavewoman, found in the Human Origins exhibit:  helping her build a spear for her hunts.
-            </div>
+          <div class="six columns role mb2 ">
+               This story 
+               structure also allows 
+               the game to extend beyond the Gems & Minerals exhibit.
+               Depending on skill/age, players can accept quests from characters, building mineral-based objects from:
+               An Egyptian Pharoah, found in the <a href="https://naturalhistory.si.edu/exhibits/bone-hall/index.cfm"> Skin & Bones </a>
+              exhibit:  helping him build his crown for the afterlife. Or,
+              a Cavewoman, found in the <a href="http://humanorigins.si.edu/"> Human Origins  </a>
+               exhibit:  helping her build a spear for her hunts. </div>
         </div>
 
         <div class="challenge">
 
         <div class="row p10 imgpadtop challenge mt2">
             <div class="six columns mt2">
-                <b>Rapid Prototyping </b>
+                <b>THE PROCESS </b>
             </div>
             </div> 
 
 
         <div class="row p10 challenge">
             <div class="six columns csgoal imgpadtop imgpadbot">
-             blah blah
+             Rapid Prototyping
             </div>
         </div>
   
@@ -147,9 +147,9 @@
                 ideate & develop concepts in a short amount of time. Our 
                 ambitions were high, and our production timelines short, 
                 so our prototype took the form of a <i> visual </i> one. 
-                We chose this aesthetic type of prototype to capture
-                the scope and appearance, but not necessarily the 
-                final functionality, of our intended design.</div>
+                We chose this  type of prototype to capture
+                the scope and general appearance, but not necessarily the 
+                final functionality and aesthetic, of our intended design.</div>
 
           <div class="six columns">
                     <img src="../assets/img/styleprototype2.png" align="top">
@@ -184,26 +184,28 @@
                   </div>
               </div>
             </div>
-
             </div>
             
 
-          <div class="row p10">
-              <div class="six columns csgoal imgpadbot">
-              <b> Next Steps </b>
-              </div>
-          </div>  
+            <div class="row p10 imgpadtop  mt2">
+                    <div class="six columns">
+                        <b> FINAL STEPS </b>
+                    </div>
+                    </div> 
+
+            <div class="row p10">
+                <div class="six columns csgoal imgpadtop imgpadbot">
+                    Testing & Contracting
+                </div>
+            </div>
 
           <div class="row p10 mb2 imgpadtop">
-              <div class="six columns role">
-                      <img src="../assets/img/sowmovie.gif" align="top">
-                  </div>
-                  <div class="six columns">
-                      <img src="../assets/img/chaotest.jpeg" align="top"> 
+              <div class="twelve columns role">
+                      <img src="../assets/img/testingcontracting.png" align="top">
                   </div>
           </div>
           <div class="row p10 mb2">
-            <div class="eight columns role">
+            <div class="twelve columns role mb2">
               After presenting and testing our demo reel to the Smithsonian team, 
               we were asked to draft a Statement of Work contract that lays out intended plans 
               for design, development, timing, and budget if given funding. 
@@ -212,6 +214,16 @@
               to long-term exhibit maintenence. 
               </div>
            </div>
+
+               
+      <div class="footer mt2">
+          <div class="footertext">
+        <router-link to="Unknown" exact>  
+          <img src="../assets/img/unknownfooter.png"align="top"> </router-link>  
+          <!-- <div class="footersubhead">Want more? </div>
+          <div class="footerheadline">Want more? </div> -->
+        </div>
+    </div>
 
       </div>
     </div>

@@ -44,6 +44,14 @@
         </div>
     </div>
 
+    <div class="footer mt2">
+        <div class="footertext">
+      <router-link to="Break" exact>  
+        <img src="../assets/img/breakfooter.png"align="top"> </router-link>  
+        <!-- <div class="footersubhead">Want more? </div>
+        <div class="footerheadline">Want more? </div> -->
+      </div>
+    </div>
 
        <!-- <div class="row p10">
           <div class="six columns csgoal">
