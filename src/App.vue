@@ -412,8 +412,8 @@ p {
   margin-top: 0; }
 
 .p10 {
-  padding-left: 15%;
-  padding-right: 15%;
+  padding-left: 20%;
+  padding-right: 20%;
 }
 
 .challenge {
