@@ -249,7 +249,7 @@ img {
 } 
 
 .mt2 {
-  margin-top: 5%;
+  margin-top: 10%;
 }
 
 figcaption {
@@ -417,7 +417,7 @@ p {
 }
 
 .challenge {
-  background:#fafafa;
+  background: #fafafa;
 }
 
 .p3 {

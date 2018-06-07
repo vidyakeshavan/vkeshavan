@@ -26,7 +26,7 @@
          </div>
 
          <div class="four columns role">
-            I can tell you all about it and my other 
+            I can tell you all about it, my former professional work in the news media business , 
             work over some coffee (and perhaps sushi). <br> <br>
             <div class="buttons">     
                 <a href="../assets/img/VidyaKeshavanResume.pdf" download="VidyaKeshavanResume.pdf" class="fa fa-file"></a>

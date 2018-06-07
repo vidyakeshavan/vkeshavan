@@ -22,30 +22,36 @@
         </div>
 
         <div class="row p10 mb2">
-          <div class="four columns mb2 mr2 role">
+          <div class="four columns mb2 role">
            <b> Role: </b> Marketing Strategy, App Design, Content Development <br> 
            <b> Status: </b> Completed, Student Project Fall '17 <br>
            <b> Team: </b> Vidya Keshavan, Carolyn Berry, Patrick Serr, Poppy Chen
           </div>
 
-          <div class="six columns role ">
-            Our student group was challenged us to create a hypothetical conference
+          <div class="eight columns role ">
+            Our student group was challenged to create a hypothetical conference
              that addresses the ethical issues that arise when 
              digital technology plays an increasingly large role 
-             in our everyday. We developed and designed 
+             in our lives. We developed and designed 
              UNKNOWN, an NYC based conference for tech and design
               leadership that, rather than frighten, seeks to reveal
               exciting truths about emerging technology and our future. 
           </div>
        </div>
 
-       <div class="row p10">
+       <div class="row p10 challenge imgpadtop">
+          <div class="six columns imgpadbot imgpadtop mt2">
+              <b> BRANDING </b>
+          </div>
+  </div>  
+
+       <div class="row p10 challenge">
         <div class="six columns csgoal imgpadbot">
-        <b> Brand Identity </b>
+        Developing a Visual Identity
         </div>
     </div>  
 
-    <div class="row p10">
+    <div class="row p10 challenge">
         <div class="twelve columns">
             <img src="../assets/img/BrandID.png" align="top"> 
         </div>

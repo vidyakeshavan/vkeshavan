@@ -83,7 +83,7 @@
       </div>
 
       <div class="row p10 imgpadbot">
-        <div class="six columns mb2">
+        <div class="six columns">
               Our team believed that the best way to engage kids in educational content, 
               such as the Gems & Minerals, was through a game. We chose to feature augmented reality technology 
              as the heart of the experience, making it fresh, exciting, and relevant to young visitors. 
@@ -96,6 +96,15 @@
         </div>
 
      </div>   
+     
+     <div class="row p10 mb2">
+     <div class="twelve columns role">
+            You can read 
+            more about my exploration into the burgeoning 
+            world of Augmented Reality, 
+            <a href="https://medium.com/parsons-rapid-museum-prototype-vk2018"> here. </a> 
+         </div>
+    </div>
 
        <div class="row p10">
           <div class="twelve columns mb2">
@@ -199,21 +208,22 @@
                 </div>
             </div>
 
+            <div class="row p10 mb2">
+                    <div class="twelve columns role">
+                      After presenting and testing our demo reel to the Smithsonian team and museum visitors, 
+                      we were asked to draft a Statement of Work contract that lays out our intended plans 
+                      for design, development, timing, and budget if given funding. 
+                      If given the investment opportunity, our team would contract across a 1-year span, 
+                      producing MinARal across its lifecycle: from the initial research phases, 
+                      to long-term exhibit maintenence. 
+                      </div>
+                   </div>
+
           <div class="row p10 mb2 imgpadtop">
               <div class="twelve columns role">
                       <img src="../assets/img/testingcontracting.png" align="top">
                   </div>
           </div>
-          <div class="row p10 mb2">
-            <div class="twelve columns role mb2">
-              After presenting and testing our demo reel to the Smithsonian team, 
-              we were asked to draft a Statement of Work contract that lays out intended plans 
-              for design, development, timing, and budget if given funding. 
-              If given the investment opportunity, our team would contract across a 1-year span, 
-              producing MinARal across its lifecycle: from the initial research phases, 
-              to long-term exhibit maintenence. 
-              </div>
-           </div>
 
                
       <div class="footer mt2">
