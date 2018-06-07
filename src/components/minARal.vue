@@ -53,7 +53,7 @@
         </div>
 
       <div class="row p10 imgpadtop challenge imgpadbot">
-          <div class="six columns role mb2 challenge">
+          <div class="six columns role mb4 challenge">
               NMNH’s Business Development team expressed that an
                important goal for them is to promote STEM as an exciting 
                and viable career path for children. However, while the
@@ -160,14 +160,14 @@
                 the scope and general appearance, but not necessarily the 
                 final functionality and aesthetic, of our intended design.</div>
 
-          <div class="six columns">
+          <div class="six columns mb2">
                     <img src="../assets/img/styleprototype2.png" align="top">
                       </div>
-        </div>
+            </div>
 
         <div class="row p10 imgpadbot challenge">
             <div class="twelve columns mb2">
-                <img src="../assets/img/smithsonian2.gif" align="top">
+                <img src="../assets/img/minaralvid.mov" align="top">
             </div>
         </div>
 
@@ -176,7 +176,7 @@
                 We wanted to invoke a <i> youthful feel </i> to our clickable 
                 prototype that represented the game-play and AR experiences.  </div>
                  
-                <div class="eight columns role imgpagtop">    
+                <div class="eight columns role imgpagtop mb4">    
                 But in the absence of development time, our efforts were focused in iterating
                 the storyline into something impactful - one that could establish the brand's tone, 
                 sell itself in a demo reel, and ultimately encourage 
@@ -186,14 +186,14 @@
 
         </div>
             
-          <div class="row">
+          <!-- <div class="row">
               <div class="twelve columns">
                   <div class="heroregular">
                         <img src="../assets/img/fulldemoprocess.png" align="top"> 
                   </div>
               </div>
             </div>
-            </div>
+            </div> -->
             
 
             <div class="row p10 imgpadtop  mt2">

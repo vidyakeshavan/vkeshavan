@@ -53,51 +53,52 @@
 
     <div class="row p10 challenge">
         <div class="twelve columns">
-            <img src="../assets/img/BrandID.png" align="top"> 
+            <img src="../assets/img/visid.png" align="top"> 
         </div>
       </div>
 
 
-    <div class="row p10 imgpadtop challenge ">
-      <div class="six columns role mb2">
+    <div class="row p10 imgpadtop challenge mb2 ">
+      <div class="twelve columns role mb2">
         The tone  of the conference is to demystify and
         shed light on <i> unknown </i> tech future ahead, so we wanted our brand 
         to reflect that exciting uncertainty.  We likened the content of the conference 
         to a light at the end of the tunnel, resassuring attendees that a 
-        brighter future is out there.
-         </div>
-
-      <div class="six columns role">
-        For that reason, we wanted to reference metaphors of light and pragmatism
+        brighter future is out there.  For that reason, we wanted to reference metaphors of light and pragmatism
         with bright, RBG colors and simplistic, repeating forms in our logo type, based on GT America. 
-      </div>
+         </div>
    </div> 
 
 
+   <div class="row p10 imgpadtop mt2">
+      <div class="six columns">
+          <b>STORY AND GAME DESIGN </b>
+      </div>
+      </div>  
+
    <div class="row p10">
-    <div class="six columns csgoal imgpadbot">
+    <div class="six columns csgoal imgpadtop imgpadbot">
     <b> Promotion </b>
     </div>
 </div>  
 
 <div class="row p10">
     <div class="twelve columns imgpadbot">
-        <img src="../assets/img/unknownmarketing.png" align="top"> 
+        <img src="../assets/img/marketingpromo.png" align="top"> 
     </div>
   </div>
 
   <div class="row p10">
-    <div class="four columns role">
+    <div class="twelve columns role">
       To build awareness and excitement, 
       we expanded UNKNOWN’s reach through 
-      digital advertising and promotional screen based and OOH media. </div>
-    <div class="eight columns role">
+      digital advertising and promotional screen based and OOH media.
       We tapped into platforms favored by those likeminded to potential UNKNOWN attendees 
       such as: WIRED Magazine, TechCrunch, Instagram, 
       street-style guerilla marketing, and more. We branded every piece of promotion with our
        punchy tagline, <i> "Design an Ethical Future" </i> - sure to catch a demograhpic of 
-      design and technology leaders' eyes. 
-  </div>
+      design and technology leaders' eyes.  </div>
+
 </div>
 
 <div class="row p10">

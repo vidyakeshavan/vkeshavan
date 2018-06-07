@@ -252,6 +252,10 @@ img {
   margin-top: 10%;
 }
 
+.mb4 {
+  margin-bottom: 10%;
+}
+
 figcaption {
   font-family: 'Lato';
   font-style: italic;
@@ -417,7 +421,7 @@ p {
 }
 
 .challenge {
-  background: #fafafa;
+  background: #f4f5f9;
 }
 
 .p3 {
