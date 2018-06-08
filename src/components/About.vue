@@ -2,11 +2,11 @@
   <div class="aboutpage">
 
 
-    <div class="row">
+    <!-- <div class="row">
       <div class="twelve columns heroabout">
           <img src="../assets/img/vidpic.png">
         </div>
-      </div>
+      </div> -->
 
       <div class="row p4one">
           <div class="four columns role mr2 mb2">

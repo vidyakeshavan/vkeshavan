@@ -58,8 +58,8 @@
       </div>
 
 
-    <div class="row p10 imgpadtop challenge mb2 ">
-      <div class="twelve columns role mb2">
+    <div class="row p10 imgpadtop challenge">
+      <div class="twelve columns role mb4 ">
         The tone  of the conference is to demystify and
         shed light on <i> unknown </i> tech future ahead, so we wanted our brand 
         to reflect that exciting uncertainty.  We likened the content of the conference 
@@ -72,58 +72,83 @@
 
    <div class="row p10 imgpadtop mt2">
       <div class="six columns">
-          <b>STORY AND GAME DESIGN </b>
+          <b> PROMOTION </b>
       </div>
       </div>  
 
    <div class="row p10">
     <div class="six columns csgoal imgpadtop imgpadbot">
-    <b> Promotion </b>
+    Creating Buzz 
     </div>
 </div>  
 
 <div class="row p10">
-    <div class="twelve columns imgpadbot">
+    <div class="twelve columns imgpadbot mb2">
         <img src="../assets/img/marketingpromo.png" align="top"> 
     </div>
   </div>
 
+  
+
   <div class="row p10">
-    <div class="twelve columns role">
+    <div class="twelve columns role mb4">
       To build awareness and excitement, 
       we expanded UNKNOWN’s reach through 
       digital advertising and promotional screen based and OOH media.
-      We tapped into platforms favored by those likeminded to potential UNKNOWN attendees 
+      We tapped into platforms that would most likely be favored by UNKNOWN attendees 
       such as: WIRED Magazine, TechCrunch, Instagram, 
-      street-style guerilla marketing, and more. We branded every piece of promotion with our
-       punchy tagline, <i> "Design an Ethical Future" </i> - sure to catch a demograhpic of 
-      design and technology leaders' eyes.  </div>
+      street-style guerilla marketing, and more. Every piece of promotion included our
+       punchy tagline, <i> "Design an Ethical Future" </i> - sure to catch the eyes 
+       of technology and design leadership. </div>
 
 </div>
 
-<div class="row p10">
-  <div class="six columns csgoal imgpadbot">
-  <b> At the Conference </b>
-  </div>
-</div>  
+<div class="row p10 imgpadtop challenge">
+    <div class="six columns mt2">
+        <b>COLLATERAL </b>
+    </div>
+    </div>  
 
-<div class="row p10 imgpadtop">
-  <div class="six columns">
+    <div class="row p10 challenge">
+        <div class="six columns csgoal imgpadtop imgpadbot">
+         At the Conference
+        </div>
+    </div>
+
+    <div class="row p10 challenge">
+      <div class="twelve columns">
+          Our team chose the experimental venue, <a href="http://thelowline.org/"> Lowline NYC</a>, to further push the idea that there's a lot 
+          more unknown to us than meets the eye. The Lowline (designed to rival its above-ground cousin The Highline), 
+          is a pop-up underground garden powered by modern technology in NYC's Lower East Side. 
+          The vibrancy of the collateral contrasts against darker spaces, reflecting the positive outlook we should take 
+          when facing the unknown.
+      </div>
+    </div>
+
+<div class="row p10 imgpadtop challenge">
+  <div class="twelve columns">
     <img src="../assets/img/map_venue_stand.png" align="top">
   </div>
-  <div class="six columns">
+</div>
+
+<div class="row p10 imgpadtop challenge">
+  <div class="twelve columns">
     <img src="../assets/img/animated_digital_signage.png" align="top">
   </div>
+</div>
 
 </div>
 
-<div class="row p10 imgpadtop">
-  <div class="six columns">
+<div class="row p10 imgpadtop challenge">
+  <div class="four columns">
     <img src="../assets/img/unknown_tshirt_black_back.png" align="top">
   </div>
-  <div class="six columns role">
+  <div class="four columns role">
     <img src="../assets/img/unknown_black_tote.png" align="top">
   </div>
+  <div class="four columns role">
+      <img src="../assets/img/unknown_black_tote.png" align="top">
+    </div>
 </div>
 
 <div class="row p10 imgpadtop imgpadbot">

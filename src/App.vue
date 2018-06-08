@@ -191,6 +191,9 @@ img {
   width: 100%;
 }
 
+.device {
+  box-shadow: 5px 5px 2.5px lightgray;
+}
 
 .footer {
   width: 100%;

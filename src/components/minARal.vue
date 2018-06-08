@@ -167,7 +167,7 @@
 
         <div class="row p10 imgpadbot challenge">
             <div class="twelve columns mb2">
-                <img src="../assets/img/minaralvid.mov" align="top">
+                <img class="device" src="../assets/img/minaralvid.gif" align="top">
             </div>
         </div>
 
