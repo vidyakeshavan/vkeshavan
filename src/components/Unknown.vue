@@ -23,7 +23,7 @@
 
         <div class="row p10 mb2">
           <div class="four columns mb2 role">
-           <b> Role: </b> Marketing Strategy, App Design, Content Development <br> 
+           <b> Role: </b> Marketing Strategy, Mobile & Web Design, Content Development <br> 
            <b> Status: </b> Completed, Student Project Fall '17 <br>
            <b> Team: </b> Vidya Keshavan, Carolyn Berry, Patrick Serr, Poppy Chen
           </div>
@@ -63,8 +63,9 @@
         The tone  of the conference is to demystify and
         shed light on <i> unknown </i> tech future ahead, so we wanted our brand 
         to reflect that exciting uncertainty.  We likened the content of the conference 
-        to a light at the end of the tunnel, resassuring attendees that a 
-        brighter future is out there.  For that reason, we wanted to reference metaphors of light and pragmatism
+        to a light at the end of the tunnel, resassuring attendees that budding technologies are 
+        something to look forward to, and that with them, a brighter future is out there.  For that reason, we 
+        wanted to reference metaphors of light and pragmatism
         with bright, RBG colors and simplistic, repeating forms in our logo type, based on GT America. 
          </div>
    </div> 
@@ -126,9 +127,12 @@
     </div>
 
 <div class="row p10 imgpadtop challenge">
-  <div class="twelve columns">
-    <img src="../assets/img/map_venue_stand.png" align="top">
+  <div class="six columns">
+    <img src="../assets/img/wayfinding1.png" align="top">
   </div>
+  <div class="six columns">
+      <img src="../assets/img/wayfinding2.png" align="top">
+    </div>
 </div>
 
 <div class="row p10 imgpadtop challenge">
@@ -140,27 +144,25 @@
 </div>
 
 <div class="row p10 imgpadtop challenge">
-  <div class="four columns">
-    <img src="../assets/img/unknown_tshirt_black_back.png" align="top">
+  <div class="six columns">
+    <img src="../assets/img/tshirtman1.png" align="top">
   </div>
-  <div class="four columns role">
-    <img src="../assets/img/unknown_black_tote.png" align="top">
+  <div class="six columns">
+    <img src="../assets/img/tshirtman2.png" align="top">
   </div>
-  <div class="four columns role">
-      <img src="../assets/img/unknown_black_tote.png" align="top">
-    </div>
 </div>
+
+<div class="row p10 imgpadtop challenge">
+    <div class="twelve columns">
+        <img src="../assets/img/unknownhero.png" align="top"> 
+    </div>
+  </div>
 
 <div class="row p10 imgpadtop imgpadbot">
   <div class="four columns role mr2">
     <img src="../assets/img/unknownvid.gif" align="top">
   </div>
   <div class="six columns ">
-    Our team chose the experimental venue, Lowline NYC, to further push the idea that there's a lot 
-    more unknown to us than meets the eye. The Lowline (designed to rival its above-ground cousin The Highline), 
-    is a pop-up underground garden powered by modern technology in NYC's Lower East Side. 
-    The vibrancy of the collateral contrasts against darker spaces, reflecting the positive outlook we should take 
-    when facing the unknown.
     
     <br> <br> The UNKNOWN mobile app acts as your conference companion, 
      guiding you through 
