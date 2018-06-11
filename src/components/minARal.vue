@@ -48,7 +48,7 @@
 
       <div class="row p10 challenge">
           <div class="twelve columns">
-              <img src="../assets/img/gemhall.jpg" align="top"> 
+              <img src="../assets/img/timedwellmock.png" align="top"> 
           </div>
         </div>
 
