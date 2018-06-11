@@ -143,37 +143,51 @@
 
 </div>
 
-<div class="row p10 imgpadtop challenge">
+<div class="row p10 imgpadtop challenge mb4">
   <div class="six columns">
     <img src="../assets/img/tshirtman1.png" align="top">
   </div>
-  <div class="six columns">
+  <div class="six columns mb4">
     <img src="../assets/img/tshirtman2.png" align="top">
   </div>
 </div>
 
-<div class="row p10 imgpadtop challenge">
+<div class="row p10 imgpadtop">
+    <div class="six columns mt2">
+        <b>DIGITAL PRESENCE </b>
+    </div>
+    </div>  
+
+    <div class="row p10">
+        <div class="six columns csgoal imgpadtop imgpadbot">
+        Mobile & Web
+        </div>
+    </div>
+
+<!-- <div class="row p10 imgpadtop">
     <div class="twelve columns">
         <img src="../assets/img/unknownhero.png" align="top"> 
     </div>
-  </div>
+  </div> -->
+
+  <div class="row p10 imgpadtop ">
+      <div class="twelve columns">
+           The UNKNOWN mobile app acts as your conference companion, 
+           guiding you through 
+            the schedule, and archiving all video content. In particular, 
+          users will keep returning to learn about their world
+          through the Explore the UNKNOWN AR function. As the user walks 
+           around his or her world, the app will prompt them to uncover
+          the (<i>unknown</i>) stories in the world they think they know. These 
+         stories aggregate articles from tech and design focused publications, serving as a unique discoverability 
+         platform for digital news.
+        </div>
+      </div>
 
 <div class="row p10 imgpadtop imgpadbot">
-  <div class="four columns role mr2">
+  <div class="five columns role mr2">
     <img src="../assets/img/unknownvid.gif" align="top">
   </div>
-  <div class="six columns ">
-    
-    <br> <br> The UNKNOWN mobile app acts as your conference companion, 
-     guiding you through 
-    the schedule, and archiving all video content. In particular, 
-    users will keep returning to learn about their world
-     through the Explore the UNKNOWN AR function. As the user walks 
-     around his or her world, the app will prompt them to uncover
-      the (<i> unknown</i>) stories in the world they think they know. These 
-      stories aggregate articles from tech and design focused publications, serving as a unique discoverability 
-      platform for digital news. 
-</div>
 </div>
 
 <div class="footer mt2">
@@ -198,99 +212,6 @@
 
 
 
-
-       <!-- <div class="row p10">
-          <div class="six columns csgoal">
-          <b> The Process </b>
-          </div>
-      </div>
-
-      <div class="row p10 mb2">
-          <div class="twelve columns">
-              Our student group was challenged us to create a hypothetical conference
-              that addresses the ethical issues that arise when 
-              digital technology plays an increasingly large role 
-              in our everyday. We developed and designed 
-              UNKNOWN, an NYC based conference for tech and design
-               leadership that, rather than frighten, seeks to reveal
-               exciting truths about emerging technology and our future. 
-          </div>
-       </div>
-
-      <div class="row p10">
-          <div class="six columns csgoal">
-          <b> Brand Identity Evolution </b>
-          </div>
-      </div>
-
-      <div class="row p10">
-          <div class="three columns">
-              <img src="../assets/img/gemhall.jpg" align="top"> 
-          </div>
-          <div class="three columns">
-            <img src="../assets/img/gemhall.jpg" align="top"> 
-         </div>
-        <div class="three columns">
-          <img src="../assets/img/gemhall.jpg" align="top"> 
-        </div>
-        <div class="three columns">
-        <img src="../assets/img/gemhall.jpg" align="top"> 
-        </div>
-    </div>
-
-      <div class="row p10">
-          <div class="six columns csgoal">
-          <b> Marketing and Promotion </b>
-          </div>
-      </div>
-
-      <div class="row p10">
-          <div class="six columns csgoal">
-          <b> Web and Mobile Presence  </b>
-          </div>
-      </div>
-
-      <div class="row p10">
-          <div class="six columns csgoal">
-          <b> Archiving the Conference  </b>
-          </div>
-      </div> -->
-
-<!-- 
-        <div class="row p4one mb2">
-          <div class="two thirds column mb2 csgoalimg">
-           <img src="../assets/img/unknownprocess.png" align="top">
-          </div>
-        </div>       
-
-        <div class="row p4one">
-          <div class="six columns csgoal">
-          <b> Ideation </b>
-          </div>
-      </div>
-
-      <div class="row p4one mb2">
-        <div class="two thirds column mb2 csgoalimg">
-         <img src="../assets/img/unknownresearch.png" align="top">
-        </div>
-      </div>          
-
-       <div class="row p4one mb2">
-          <div class="six columns">
-             We thought extensively about what the future 
-             really means to us. Why are we afraid? Is it because 
-             technology has the capability to create unethical 
-             circumstance? Or are we just unsure of the UNKNOWN?
-              By bringing positivity on on what we don’t know, we 
-              hope to strip the stigma away from the uncertain future ahead. 
-          <div>
-
-       <video autoplay>
-             <source src="unknownapp.mov" type="video/mov">
-      </video>
-          
-      </div>
-         -->
 
 
       

@@ -208,6 +208,12 @@
                 </div>
             </div>
 
+            <div class="row p10 mb2 imgpadtop">
+                    <div class="twelve columns role">
+                            <img src="../assets/img/testingcontracting.png" align="top">
+                        </div>
+                </div>
+
             <div class="row p10 mb2">
                     <div class="twelve columns role">
                       After presenting and testing our demo reel to the Smithsonian team and museum visitors, 
@@ -218,12 +224,6 @@
                       to long-term exhibit maintenence. 
                       </div>
                    </div>
-
-          <div class="row p10 mb2 imgpadtop">
-              <div class="twelve columns role">
-                      <img src="../assets/img/testingcontracting.png" align="top">
-                  </div>
-          </div>
 
                
       <div class="footer mt2">

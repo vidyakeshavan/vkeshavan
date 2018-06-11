@@ -6,6 +6,7 @@ import About from '@/components/About';
 import Break from '@/components/Break';
 import Numeracy from '@/components/Numeracy';
 import Unknown from '@/components/Unknown';
+import Palliativecare from '@/components/Palliativecare';
 
 
 Vue.use(Router);
@@ -42,6 +43,10 @@ export default new Router({
       name: 'Unknown',
       component: Unknown,
     },
-
+    {
+      path: '/palliativecare',
+      name: 'Palliativecare',
+      component: Palliativecare,
+    },
   ],
 });

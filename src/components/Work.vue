@@ -48,6 +48,12 @@ let items = [
     img: "",
     rlink: "Numeracy",
   },
+  //   title: "Palliative Care Pilot",
+  //   subTitle: "Rapidly Prototyped AR for The Smithsonian",
+  //   text: "MinARal is an augmented reality children's game conceptualized in partnership with the NMNH.",
+  //   img: "",
+  //   rlink: "Palliativecare",
+  // },
 ];
 
  
@@ -90,14 +96,21 @@ const StyledLink = styled(RouterLink) {
 color: white;
 font-family: 'acme', sans-serif;
 text-decoration: none;
-font-size: 2em;
+font-size: 1.2em;
 }
 
 #app.item_4 a  {
 color: black;
 font-family: 'acme', sans-serif;
 text-decoration: none;
-font-size: 2em;
+font-size: 1.2em;
+}
+
+#app.item_5 a  {
+color: black;
+font-family: 'acme', sans-serif;
+text-decoration: none;
+font-size: 1.2em;
 }
 
 
@@ -137,6 +150,10 @@ item_4 {
   background: #000 url("../assets/img/numeracymock.png") center/cover no-repeat;
   color:#000;
 }
+/* #app.item_5 {
+  background: #000 url("../assets/img/timedwellmock.png") center/cover no-repeat;
+  color:#000;
+} */
 
 
 ul {
