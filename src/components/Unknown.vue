@@ -60,6 +60,16 @@
 
     <div class="row p10 imgpadtop challenge">
       <div class="twelve columns role mb4 ">
+       We were challenged to conceptualize and design a 
+       conference brand would shed light on the 
+       ethical and moral uncertainties we face in the 
+       information era. However, conferences by nature, are dry 
+       and usually have difficulty harnessing and retaining its attendees attention. 
+       
+       While it may be scary that effects new technology can have on our society
+       aren't known and while scary, we sought to embrace 
+       change with positivity. 
+
         Our client has asked us to develop and design a
         conference that sheds light on the ethical 
         responsibility we hold when building technology products in the
@@ -230,12 +240,12 @@
 </div>
 
 <div class="footer mt2">
-    <div class="footertext">
-  <router-link to="Numeracy" exact>  
-    <img src="../assets/img/numeracyfooter.png"align="top"> </router-link>  
-    <!-- <div class="footersubhead">Want more? </div>
-    <div class="footerheadline">Want more? </div> -->
-  </div>
+  <div class="footertext">
+<router-link to="Break" exact>  
+  <img src="../assets/img/breakfooter.png"align="top"> </router-link>  
+  <!-- <div class="footersubhead">Want more? </div>
+  <div class="footerheadline">Want more? </div> -->
+</div>
 </div>
 
 <!-- <div class="row p10">
