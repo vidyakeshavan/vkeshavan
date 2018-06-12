@@ -38,6 +38,8 @@ export default {
 
 <style>
 
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 .router-link-active {
   text-decoration: underline;
 }
