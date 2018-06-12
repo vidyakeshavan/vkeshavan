@@ -24,29 +24,29 @@
 let items = [
   {
     title: "break",
-    subTitle: "Product Design",
+    subTitle: "Mobile Product Design",
     text: "break is an application that empowers users to break their phone-related wellness and time management issues.",
     img: "",
     rlink: "Break",
   },{
     title: "minARal",
-    subTitle: "Rapidly Prototyped AR for The Smithsonian",
-    text: "MinARal is an augmented reality children's game conceptualized in partnership with the NMNH.",
+    subTitle: "Experience Design for The Smithsonian",
+    text: "MinARal is an augmented reality children's game rapidly prototyped for the National Museum of Natural History.",
     img: "",
     rlink: "minARal",
   },
   {
-    title: "UNKNOWN",
-    subTitle: "Brand Identity",
+    title: "Unknown",
+    subTitle: "360° Branding for a Conference",
     text: "UNKNOWN is a conference that explores the unknown implications technology will have on our future.",
     img: "",
     rlink: "Unknown",   
   },{
-    title: "Numeracy",
-    subTitle: "Interactive Data Visualization",
-    text: "Numeracy is a data visualization that examines the American education system from a bird eye's view.",
+    title: "Palliative Care Website",
+    subTitle: "Title TBD, Website for Montefiore Medical Center",
+    text: "Coming Soon: Web design for ESL patients in need of Advanced Directives & end-of-life care. ",
     img: "",
-    rlink: "Numeracy",
+    rlink: "",
   },
   //   title: "Palliative Care Pilot",
   //   subTitle: "Rapidly Prototyped AR for The Smithsonian",
@@ -144,10 +144,10 @@ item_4 {
   background: #000 url("../assets/img/smithsonianexp.png") center/cover no-repeat;
 }
 #app.item_3 {
-  background: #000 url(" ../assets/img/totetransparent.png") center/cover no-repeat;
+  background: #000 url(" ../assets/img/tshirtbw.png") center/cover no-repeat;
 }
 #app.item_4 {
-  background: #000 url("../assets/img/numeracymock.png") center/cover no-repeat;
+  background: #fff url("../assets/img/palcare.jpg") center/cover no-repeat;
   color:#000;
 }
 /* #app.item_5 {

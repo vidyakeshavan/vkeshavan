@@ -21,7 +21,7 @@
 
       <div class="row p10 mb2">
           <div class="four columns role mb2">
-           <b> Role: </b> Content Lead, User Experience, Video Direction, Contract Writing <br> 
+           <b> Role: </b> Content Lead, User Experience, Rapid Prototyping <br> 
            <b> Status: </b> Completed, Student Project Spring '18 <br>
            <b> Team: </b> Vidya Keshavan, Stella Zhong, Carla Mollins
           </div>
@@ -44,13 +44,13 @@
 
        <div class="row p10 challenge imgpadbot">
           <div class="eight columns csgoal">
-          The Smithsonian for a  New Generation 
+          The Smithsonian For a  New Generation 
           </div>
       </div>  
 
       <div class="row p10 challenge">
           <div class="twelve columns">
-              <img src="../assets/img/timedwellmock.png" align="top"> 
+              <img src="../assets/img/gemhall.jpg" align="top"> 
           </div>
         </div>
 

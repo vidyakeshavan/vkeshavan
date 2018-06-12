@@ -10,7 +10,7 @@
         </div>
 
         <div class="row p4one">
-          <div class="twelve columns subhead"> Brand Identity </div>
+          <div class="twelve columns subhead"> 360° Branding </div>
         </div>
 
         <div class="row">
@@ -23,52 +23,91 @@
 
         <div class="row p10 mb2">
           <div class="four columns mb2 role">
-           <b> Role: </b> Marketing Strategy, Mobile & Web Design, Content Development <br> 
+           <b> Role: </b> Content & Promotional Strategy, Interaction Design <br> 
            <b> Status: </b> Completed, Student Project Fall '17 <br>
            <b> Team: </b> Vidya Keshavan, Carolyn Berry, Patrick Serr, Poppy Chen
           </div>
 
           <div class="eight columns role ">
-            Our student group was challenged to create a hypothetical conference
-             that addresses the ethical issues that arise when 
-             digital technology plays an increasingly large role 
-             in our lives. We developed and designed 
-             UNKNOWN, an NYC based conference for tech and design
-              leadership that, rather than frighten, seeks to reveal
-              exciting truths about emerging technology and our future. 
+           Unknown is a hypothetical conference
+           that explores the ethics of future technology and design. 
+           Our student group collaborated on a holistic branding 
+           approach for the conference: from content strategy and promotion, to visual identity
+          and interaction design. 
+          
           </div>
        </div>
 
+       <!-- Our student group was challenged to create a hypothetical conference
+       that addresses the ethical issues that arise when 
+       digital technology plays an increasingly large role 
+       in our lives. We developed and designed 
+       UNKNOWN, an NYC based conference for tech and design
+        leadership that, rather than frighten, seeks to reveal
+        exciting truths about emerging technology and our future.  -->
+
+
        <div class="row p10 challenge imgpadtop">
           <div class="six columns imgpadbot imgpadtop mt2">
-              <b> BRANDING </b>
+              <b> THE CHALLENGE </b>
           </div>
   </div>  
-
        <div class="row p10 challenge">
-        <div class="six columns csgoal imgpadbot">
-        Developing a Visual Identity
+        <div class="eight columns csgoal imgpadbot">
+       Create a conference you would actually go to
         </div>
-    </div>  
-
-    <div class="row p10 challenge">
-        <div class="twelve columns">
-            <img src="../assets/img/visid.png" align="top"> 
-        </div>
-      </div>
-
+    </div> 
 
     <div class="row p10 imgpadtop challenge">
       <div class="twelve columns role mb4 ">
-        The tone  of the conference is to demystify and
-        shed light on <i> unknown </i> tech future ahead, so we wanted our brand 
-        to reflect that exciting uncertainty.  We likened the content of the conference 
-        to a light at the end of the tunnel, resassuring attendees that budding technologies are 
-        something to look forward to, and that with them, a brighter future is out there.  For that reason, we 
-        wanted to reference metaphors of light and pragmatism
-        with bright, RBG colors and simplistic, repeating forms in our logo type, based on GT America. 
+        Our client has asked us to develop and design a
+        conference that sheds light on the ethical 
+        responsibility we hold when building technology products in the
+        information era.
+        Through an alluring design system built 
+        across 15 weeks, we will help the client hone 
+        in on and attract a
+        demographic that is both technologically savvy 
+        and seeks to design a more ethical future.
+        Our student group was challenged to create a hypothetical conference
+       that addresses the ethical issues that arise when 
+       digital technology plays an increasingly large role 
+       in our lives. We developed and designed 
+       UNKNOWN, an NYC based conference for tech and design
+        leadership that, rather than frighten, seeks to reveal
+        exciting truths about emerging technology and our future.
          </div>
    </div> 
+
+   <div class="row p10 imgpadtop">
+    <div class="six columns imgpadbot imgpadtop mt2">
+        <b> BRANDING </b>
+    </div>
+</div>  
+ <div class="row p10">
+  <div class="six columns csgoal imgpadbot">
+  Developing a Visual Identity
+  </div>
+</div>  
+
+<div class="row p10">
+  <div class="twelve columns">
+      <img src="../assets/img/visid.png" align="top"> 
+  </div>
+</div>
+
+
+<div class="row p10 imgpadtop">
+<div class="twelve columns role mb4 ">
+  The tone  of the conference is to demystify and
+  shed light on <i> unknown </i> tech future ahead, so we wanted our brand 
+  to reflect that exciting uncertainty.  We likened the content of the conference 
+  to a light at the end of the tunnel, resassuring attendees that budding technologies are 
+  something to look forward to, and that with them, a brighter future is out there.  For that reason, we 
+  wanted to reference metaphors of light and pragmatism
+  with bright, RBG colors and simplistic, repeating forms in our logo type, based on GT America. 
+   </div>
+</div> 
 
 
    <div class="row p10 imgpadtop mt2">

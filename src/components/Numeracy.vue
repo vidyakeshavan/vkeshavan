@@ -6,11 +6,11 @@
         <!-- columns should be the immediate child of a .row -->
 
         <div class="row p4one">
-          <div class="twelve columns headline"> <b>Numeracy</b></div>
+          <div class="twelve columns headline"> <b>Healthcare Software</b></div>
         </div>
 
         <div class="row p4one">
-          <div class="twelve columns subhead"> Interactive Data Visualization </div>
+          <div class="twelve columns subhead"> Title TBD </div>
         </div>
 
         <div class="row">
