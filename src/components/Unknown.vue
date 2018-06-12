@@ -16,7 +16,7 @@
         <div class="row">
           <div class="twelve columns">
             <div class="hero">
-              <img src="../assets/img/unknownhero.png" align="top"> 
+              <img src="../assets/img/outdoortry3.gif" align="top"> 
             </div>
           </div>
         </div>

@@ -144,7 +144,7 @@ item_4 {
   background: #000 url("../assets/img/smithsonianexp.png") center/cover no-repeat;
 }
 #app.item_3 {
-  background: #000 url(" ../assets/img/unknown_tshirt_black_back.png") center/cover no-repeat;
+  background: #000 url(" ../assets/img/totetransparent.png") center/cover no-repeat;
 }
 #app.item_4 {
   background: #000 url("../assets/img/numeracymock.png") center/cover no-repeat;

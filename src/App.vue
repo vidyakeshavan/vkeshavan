@@ -1,7 +1,7 @@
 <template>
   <div id="hi">
     <link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <div class="p4">
       <div class="navbar">

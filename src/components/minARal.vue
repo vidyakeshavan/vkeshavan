@@ -11,11 +11,13 @@
             <div class="twelve columns subhead"> Experience Design </div>
           </div>
 
-        <div class="row mrb2">
-          <div class="twelve columns">
-              <div class='embed-container'><iframe src='https://player.vimeo.com/video/260576993' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+          <div class="row">
+            <div class="twelve columns">
+              <div class="hero">
+                <img src="../assets/img/smithexp.png" align="top"> 
+              </div>
+            </div>
           </div>
-        </div>
 
       <div class="row p10 mb2">
           <div class="four columns role mb2">
@@ -52,6 +54,7 @@
           </div>
         </div>
 
+
       <div class="row p10 imgpadtop challenge imgpadbot">
           <div class="six columns role mb4 challenge">
               NMNH’s Business Development team expressed that an
@@ -69,6 +72,12 @@
               instead to represent our ideas with a demo reel, packaging our work as a ready-to-fund concept.
           </div>
        </div> 
+
+       <div class="row mrb2">
+        <div class="twelve columns">
+            <div class='embed-container'><iframe src='https://player.vimeo.com/video/260576993' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+        </div>
+      </div>
 
        <div class="row p10 imgpadtop mt2">
         <div class="six columns">
