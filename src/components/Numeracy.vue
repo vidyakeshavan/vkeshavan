@@ -6,52 +6,45 @@
         <!-- columns should be the immediate child of a .row -->
 
         <div class="row p4one">
-          <div class="twelve columns headline"> <b>Healthcare Software</b></div>
+          <div class="twelve columns headlinepal"> <b>Palliative Care Website</b></div>
         </div>
 
         <div class="row p4one">
-          <div class="twelve columns subhead"> Title TBD </div>
+          <div class="twelve columns subheadpal"> Title TBD Website for Montefiore Medical Center </div>
         </div>
 
         <div class="row">
           <div class="twelve columns">
             <div class="hero">
-              <img src="../assets/img/numeracycolor.png" align="top"> 
+              <img src="../assets/img/palcare2.jpg" align="top"> 
             </div>
           </div>
         </div>
 
         <div class="row p10">
           <div class="four columns mb2 mr2 role">
-           <b> Role: </b> Data Research, Data Visualization <br> 
-           <b> Status: </b> Completed, Student Project Spring '18
+           <b> Role: </b> Product Design, Product Management <br> 
+           <b> Status: </b> Ongoing, Summer '18 <br>
+           <b> Team: </b> Vidya Keshavan, Patricia Robinson
           </div>
 
           <div class="seven columns">
-              Numeracy is an interactive visualization that
-              examines the American education system from a bird’s eye view in relation to other OECD
-              countries worldwide. 
-              By showcasing comparative data across several
-              industry factors, we can clearly see the areas 
-              of improvement that our own education system 
-              could probably make.
+            Our team is building a website pilot prototype in 
+            partnership with the 
+            <a href="http://www.montefiore.org/family-social-medicine-professional-training-programs-palliative-care"> 
+              Palliative Care Team</a> at Montefiore Medical Center. 
+            The website aims to deepen comprehension of end-of-life care and decision making
+            for English as a Second Language patients, and improve their quality of life by promoting 
+            earlier intervention.  
           </div>
        </div>
       
        <div class="row p10 imgpadbot mt2">
-        <div class="six columns csgoal">
-        <b> Full Case Study Coming Soon! </b>
+        <div class="twelve columns csgoal">
+         Full case study coming soon.
         </div>
     </div>
 
-    <div class="footer mt2">
-        <div class="footertext">
-      <router-link to="Break" exact>  
-        <img src="../assets/img/breakfooter.png"align="top"> </router-link>  
-        <!-- <div class="footersubhead">Want more? </div>
-        <div class="footerheadline">Want more? </div> -->
-      </div>
-    </div>
 
        <!-- <div class="row p10">
           <div class="six columns csgoal">

@@ -29,7 +29,7 @@
           </div>
 
           <div class="eight columns role ">
-           Unknown is a hypothetical conference
+           Unknown is a hypothetical conference based in New York City
            that explores the ethics of future technology and design. 
            Our student group collaborated on a holistic branding 
            approach for the conference: from content strategy and promotion, to visual identity
@@ -47,30 +47,53 @@
         exciting truths about emerging technology and our future.  -->
 
 
-       <div class="row p10 challenge imgpadtop">
-          <div class="six columns imgpadbot imgpadtop mt2">
+       <div class="row p10 challenge">
+          <div class="six columns imgpadbot mt2">
               <b> THE CHALLENGE </b>
           </div>
   </div>  
        <div class="row p10 challenge">
         <div class="eight columns csgoal imgpadbot">
-       Create a conference you would actually go to
+       A Conference You Would Actually Go To
         </div>
     </div> 
 
     <div class="row p10 imgpadtop challenge">
-      <div class="twelve columns role mb4 ">
+      <div class="six columns role mb4 ">
        We were challenged to conceptualize and design a 
        conference brand would shed light on the 
        ethical and moral uncertainties we face in the 
-       information era. However, conferences by nature, are dry 
-       and usually have difficulty harnessing and retaining its attendees attention. 
-       
-       While it may be scary that effects new technology can have on our society
-       aren't known and while scary, we sought to embrace 
-       change with positivity. 
+       information era. However, conferences are dry by nature
+       and often lack the ability to harness and retain its attendees' attention. 
 
-        Our client has asked us to develop and design a
+         </div>
+         <div class="six columns role mb4 ">
+            In order to attract design & tech leadership in New York City, we
+            chose to paint the conference in an edgy, yet 
+            relatable light. The idea that no one really knows the effect 
+            future tech will have on our society should be embraced with intrigue, 
+            positivity, and adventure  - rather than fear of uncertainty. </div>
+   </div> 
+
+   <div class="row p10 imgpadtop">
+    <div class="six columns imgpadbot imgpadtop mt2">
+        <b> BRANDING </b>
+    </div>
+</div>  
+ <div class="row p10">
+  <div class="six columns csgoal imgpadbot">
+  Developing an Identity
+  </div>
+</div>  
+
+<div class="row p10">
+  <div class="twelve columns">
+      <img src="../assets/img/visid.png" align="top"> 
+  </div>
+</div>
+
+<!-- 
+Our client has asked us to develop and design a
         conference that sheds light on the ethical 
         responsibility we hold when building technology products in the
         information era.
@@ -85,27 +108,7 @@
        in our lives. We developed and designed 
        UNKNOWN, an NYC based conference for tech and design
         leadership that, rather than frighten, seeks to reveal
-        exciting truths about emerging technology and our future.
-         </div>
-   </div> 
-
-   <div class="row p10 imgpadtop">
-    <div class="six columns imgpadbot imgpadtop mt2">
-        <b> BRANDING </b>
-    </div>
-</div>  
- <div class="row p10">
-  <div class="six columns csgoal imgpadbot">
-  Developing a Visual Identity
-  </div>
-</div>  
-
-<div class="row p10">
-  <div class="twelve columns">
-      <img src="../assets/img/visid.png" align="top"> 
-  </div>
-</div>
-
+        exciting truths about emerging technology and our future. -->
 
 <div class="row p10 imgpadtop">
 <div class="twelve columns role mb4 ">

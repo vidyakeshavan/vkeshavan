@@ -437,10 +437,19 @@ p {
 
 .headline {
   font-family: 'acme', sans-serif;
-  font-size: 13vw;
+  font-size: 12vw;
   margin-bottom: 0;
   line-height: .3em;
-  letter-spacing: -.02em;
+  letter-spacing: -.01em;
+}
+
+
+.headlinepal {
+  font-family: 'acme', sans-serif;
+  font-size: 7vw;
+  margin-bottom: 0;
+  line-height: .3em;
+  letter-spacing: -.01em;
 }
 
 .subhead {
@@ -448,6 +457,13 @@ p {
   font-size: 3.75vw;
   margin-bottom: -3%;
   line-height: .5em;
+} 
+
+.subheadpal {
+  font-family: 'Lato-light',sans-serif;
+  font-size: 2.75vw;
+  margin-bottom: -3%;
+  line-height: .85em;
 } 
 
 .hero {
