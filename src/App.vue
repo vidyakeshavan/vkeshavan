@@ -41,13 +41,25 @@ export default {
 
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
+
+
 .router-link-active {
   text-decoration: underline;
 }
 
 body {
   font-family: 'Lato-light', sans-serif;
+  -webkit-animation-delay: 0.1s;
+  -webkit-animation-name: fontfix;
+  -webkit-animation-duration: 0.1s;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-timing-function: linear;
   }
+
+  @-webkit-keyframes fontfix {
+    from { opacity: 1; }
+    to   { opacity: 1; }
+}
 
 .p4 {
   padding: 4%;
