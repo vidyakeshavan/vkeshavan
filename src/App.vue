@@ -1,8 +1,8 @@
 <template>
   <div id="hi">
-    <link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="//fonts.googleapis.com/css?family=Acme" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <div class="p4">
       <div class="navbar">
             <h1>Vidya<br /> Keshavan</h1 >
@@ -39,7 +39,7 @@ export default {
 
 <style>
 
-@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('//fonts.googleapis.com/css?family=Lato');
 
 
 
@@ -49,17 +49,7 @@ export default {
 
 body {
   font-family: 'Lato-light', sans-serif;
-  -webkit-animation-delay: 0.1s;
-  -webkit-animation-name: fontfix;
-  -webkit-animation-duration: 0.1s;
-  -webkit-animation-iteration-count: 1;
-  -webkit-animation-timing-function: linear;
   }
-
-  @-webkit-keyframes fontfix {
-    from { opacity: 1; }
-    to   { opacity: 1; }
-}
 
 .p4 {
   padding: 4%;
