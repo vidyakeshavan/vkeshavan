@@ -15,8 +15,8 @@
 
         <div class="row">
           <div class="twelve columns">
-            <div class="hero">
-              <img src="../assets/img/outdoortry3.gif" align="top"> 
+            <div class="herounknown">
+              <img src="../assets/img/totecrop.png" align="top"> 
             </div>
           </div>
         </div>
