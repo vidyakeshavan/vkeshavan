@@ -1,8 +1,8 @@
 <template>
   <div id="hi">
-    <link href="//fonts.googleapis.com/css?family=Acme" rel="stylesheet">
-    <link href="//fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="http://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <div class="p4">
       <div class="navbar">
             <h1>Vidya<br /> Keshavan</h1 >
@@ -38,8 +38,14 @@ export default {
 </script>
 
 <style>
+/* 
+@import url('http://fonts.googleapis.com/css?family=Lato'); */
 
-@import url('//fonts.googleapis.com/css?family=Lato');
+@font-face
+{
+    font-family:"Lato-Light" !important;
+    src:url("http://fonts.googleapis.com/css?family=Lato") format("eot") !important;
+}
 
 
 
