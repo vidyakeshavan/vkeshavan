@@ -420,8 +420,8 @@ p {
   margin-top: 0; }
 
 .p10 {
-  padding-left: 30%;
-  padding-right: 30%;
+  padding-left: 25%;
+  padding-right: 25%;
 }
 
 .challenge {
