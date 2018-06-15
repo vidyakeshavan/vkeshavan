@@ -38,16 +38,6 @@ export default {
 </script>
 
 <style>
-/* 
-@import url('http://fonts.googleapis.com/css?family=Lato'); */
-
-@font-face
-{
-    font-family:"Lato-Light" !important;
-    src:url("http://fonts.googleapis.com/css?family=Lato") format("eot") !important;
-}
-
-
 
 .router-link-active {
   text-decoration: underline;
@@ -312,11 +302,9 @@ a {
 }
 
 .font1 {
-  font-size: 5.5vw;
+  font-size: 40px;
   font-family: 'acme', sans-serif;
-  margin-top: 35%;
   margin-bottom:0%;
-  margin-left: 8%;
 }
 
 .font2 {
@@ -483,6 +471,17 @@ p {
   margin-bottom: 6%;
   margin-top: -6%;
 }
+
+.herounknown {
+  width: 120%;
+  position: relative;
+  /* left: -10.25%; */
+  top: 2vw;
+  z-index: -2;
+  margin-bottom: 6%;
+  margin-top: -6%;
+}
+
 
 .heroabout {
   width: 120%;

@@ -15,8 +15,8 @@
 
         <div class="row">
           <div class="twelve columns">
-            <div class="hero">
-              <img src="../assets/img/outdoortry3.gif" align="top"> 
+            <div class="herounknown">
+              <img src="../assets/img/totecropbw.png" align="top"> 
             </div>
           </div>
         </div>
@@ -242,14 +242,14 @@ Our client has asked us to develop and design a
   </div>
 </div>
 
-<div class="footer mt2">
+<!-- <div class="footer mt2">
   <div class="footertext">
 <router-link to="Break" exact>  
   <img src="../assets/img/breakfooter.png"align="top"> </router-link>  
-  <!-- <div class="footersubhead">Want more? </div>
-  <div class="footerheadline">Want more? </div> -->
+  <div class="footersubhead">Want more? </div>
+  <div class="footerheadline">Want more? </div>
 </div>
-</div>
+</div> -->
 
 <!-- <div class="row p10">
   <div class="six columns csgoal imgpadbot">
