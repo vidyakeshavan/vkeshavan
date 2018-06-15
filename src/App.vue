@@ -2,6 +2,8 @@
   <div id="hi">
     <link href="http://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
     <link href="http://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <div class="p4">
       <div class="navbar">
@@ -44,7 +46,7 @@ export default {
 }
 
 body {
-  font-family: 'Lato-light', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   }
 
 .p4 {
@@ -86,7 +88,7 @@ h1 {
 }
 
 h2{
-  font-family: 'lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 

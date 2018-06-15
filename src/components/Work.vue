@@ -82,7 +82,7 @@ let items = [
   box-sizing: border-box;
 }
 body {
-  font-family: 'lato-light', sans-serif;
+  font-family: 'open sansx', sans-serif;
     /* background-color: #F1E4E3; */
 }
 
@@ -128,7 +128,7 @@ font-size: 1.2em;
 }
 
 #app .item_text {
-  font-family: "lato-light", sans-serif;
+  font-family: "open sans", sans-serif;
   font-size: 18px;  
   /* align-items: ; */
 }
@@ -165,7 +165,7 @@ ul {
   counter-reset: num;
 }
 .items:before {
-  font-family: "lato-light", sans-serif;
+  font-family: "open sans", sans-serif;
   color: ;
   content: "check it out, don't be shy";
   display: block;
@@ -181,7 +181,7 @@ ul {
   transition: transform .8s 0.8s;
   transition: transform .8s 0.8s, -webkit-transform .8s 0.8s;
   margin-bottom: 10px;
-  font-family: "lato-light", sans-serif;  
+  font-family: "open sans", sans-serif;  
 }
 .items li:hover {
   /* -webkit-transform: scale(1.3);
