@@ -420,8 +420,8 @@ p {
   margin-top: 0; }
 
 .p10 {
-  padding-left: 20%;
-  padding-right: 20%;
+  padding-left: 30%;
+  padding-right: 30%;
 }
 
 .challenge {
@@ -451,14 +451,14 @@ p {
 }
 
 .subhead {
-  font-family: 'Lato-light',sans-serif;
+  font-family: 'Open Sans',sans-serif;
   font-size: 3.75vw;
   margin-bottom: -3%;
   line-height: .5em;
 } 
 
 .subheadpal {
-  font-family: 'Lato-light',sans-serif;
+  font-family: 'Open Sans',sans-serif;
   font-size: 2.75vw;
   margin-bottom: -3%;
   line-height: .85em;
@@ -527,13 +527,13 @@ p {
 }
 
 .csintrotitles {
-  font-family: "lato-light", sans-serif;
+  font-family: "Open Sans", sans-serif;
   line-height: 30px;
 }
 
 .csintrobody {
   font-size: 18px;
-  font-family: "lato-light", sans-serif;
+  font-family: "Open Sans", sans-serif;
   line-height: 30px;
   text-align: left;
 }
@@ -557,7 +557,7 @@ p {
 }
 
 .csgoaltext {
-  font-family: "lato-light", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 18px;
   line-height: 30px;
 }
@@ -578,11 +578,11 @@ p {
 
 .sig {
   font-style: italic;
-  font-family: "lato-light", sans-serif;
+  font-family: "open sans", sans-serif;
 }
 
 .csprocess {
-  font-family: 'lato-light',sans-serif;
+  font-family: 'open sans',sans-serif;
   font-size: 18px;
 }
 
