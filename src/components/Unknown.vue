@@ -16,7 +16,11 @@
         <div class="row">
           <div class="twelve columns">
             <div class="herounknown">
+<<<<<<< HEAD
               <img src="../assets/img/totecropbw.png" align="top"> 
+=======
+              <img src="../assets/img/totecrop.png" align="top"> 
+>>>>>>> e3e40a67b239c6903adf61d00485d1a5e2731b08
             </div>
           </div>
         </div>
