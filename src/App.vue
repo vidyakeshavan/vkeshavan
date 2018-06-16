@@ -424,6 +424,11 @@ p {
   padding-right: 25%;
 }
 
+.p10about {
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
 .challenge {
   background: #f4f5f9;
 }

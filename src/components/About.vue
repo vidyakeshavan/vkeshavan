@@ -1,11 +1,7 @@
 <template>
   <div class="aboutpage">
 
-
-
-
-
-      <div class="row p10">
+      <div class="row p10about">
           <div class="twelve columns font1"> 
             Hi, I'm Vidya.  
           </div>
@@ -13,7 +9,7 @@
 
         <br> 
 
-      <div class="row p10">
+      <div class="row p10about">
           <div class="twelve columns role">
               If the fedora-on-vacation look immediately
               gave you <i> "Designer with Roots in Marketing & Analytics
@@ -52,7 +48,7 @@
           </div>
         </div>
         <br>
-        <div class="row p10">
+        <div class="row p10about">
             <div class="twelve columns role">
                 <div class="buttons">     
                     <a href="mailto:vidyakeshavan91@gmail.com" class="fa fa-envelope"></a>  

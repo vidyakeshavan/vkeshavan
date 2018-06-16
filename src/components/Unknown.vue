@@ -38,22 +38,14 @@
           </div>
        </div>
 
-       <!-- Our student group was challenged to create a hypothetical conference
-       that addresses the ethical issues that arise when 
-       digital technology plays an increasingly large role 
-       in our lives. We developed and designed 
-       UNKNOWN, an NYC based conference for tech and design
-        leadership that, rather than frighten, seeks to reveal
-        exciting truths about emerging technology and our future.  -->
-
 
        <div class="row p10 challenge">
-          <div class="six columns imgpadbot mt2">
+          <div class="twelve columns imgpadbot mt2">
               <b> THE CHALLENGE </b>
           </div>
   </div>  
        <div class="row p10 challenge">
-        <div class="eight columns csgoal imgpadbot">
+        <div class="twelve columns csgoal imgpadbot">
        A Conference You Would Actually Go To
         </div>
     </div> 
@@ -76,12 +68,12 @@
    </div> 
 
    <div class="row p10 imgpadtop">
-    <div class="six columns imgpadbot imgpadtop mt2">
+    <div class="twelve columns imgpadbot imgpadtop mt2">
         <b> BRANDING </b>
     </div>
 </div>  
  <div class="row p10">
-  <div class="six columns csgoal imgpadbot">
+  <div class="twelve columns csgoal imgpadbot">
   Developing an Identity
   </div>
 </div>  
@@ -91,24 +83,6 @@
       <img src="../assets/img/visid.png" align="top"> 
   </div>
 </div>
-
-<!-- 
-Our client has asked us to develop and design a
-        conference that sheds light on the ethical 
-        responsibility we hold when building technology products in the
-        information era.
-        Through an alluring design system built 
-        across 15 weeks, we will help the client hone 
-        in on and attract a
-        demographic that is both technologically savvy 
-        and seeks to design a more ethical future.
-        Our student group was challenged to create a hypothetical conference
-       that addresses the ethical issues that arise when 
-       digital technology plays an increasingly large role 
-       in our lives. We developed and designed 
-       UNKNOWN, an NYC based conference for tech and design
-        leadership that, rather than frighten, seeks to reveal
-        exciting truths about emerging technology and our future. -->
 
 <div class="row p10 imgpadtop">
 <div class="twelve columns role mb4 ">
@@ -126,20 +100,20 @@ attendees that budding technologies are
 
 
    <div class="row p10 imgpadtop challenge">
-      <div class="six columns mt2">
+      <div class="twelve columns mt2">
           <b> COLLATERAL </b>
       </div>
       </div>  
 
    <div class="row p10 challenge">
-    <div class="six columns csgoal imgpadtop imgpadbot">
+    <div class="twelve columns csgoal imgpadtop imgpadbot">
     Conference Promotion
     </div>
 </div>  
 
-<div class="row p10 challenge">
+<div class="row p10 challenge imgpadtop">
     <div class="twelve columns imgpadbot mb2">
-        <img src="../assets/img/horzposter.jpg" align="top"> 
+        <img src="../assets/img/horzpostersq.jpg" align="top"> 
     </div>
   </div>
 
@@ -173,70 +147,60 @@ attendees that budding technologies are
 
       <div class="row p10 challenge">
           <div class="twelve columns">
-              The vibrancy of the collateral contrasts against darker spaces, reflecting the positive outlook we should take 
+            Our team chose the experimental venue, Lowline NYC, to further
+             push the idea that there's a lot more unknown to us 
+             than meets the eye. The Lowline (designed to 
+             rival its above-ground cousin The Highline), 
+             is a pop-up underground garden powered by modern
+              technology in NYC's Lower East Side.   
+            The vibrancy of the collateral contrasts 
+            against darker spaces, reflecting the positive outlook we should take 
               when facing the unknown.
           </div>
         </div>
 
-
-<div class="row p10 imgpadtop">
-    <div class="six columns mt2">
-        <b>COLLATERAL </b>
-    </div>
-    </div>  
-
-    <div class="row p10">
-        <div class="six columns csgoal imgpadtop imgpadbot">
-         At the Conference
+        <div class="row p10 imgpadtop challenge">
+          <div class="six columns">
+            <img src="../assets/img/wayfinding1.png" align="top">
+          </div>
+          <div class="six columns">
+              <img src="../assets/img/wayfinding2.png" align="top">
+            </div>
         </div>
-    </div>
 
-<div class="row p10 imgpadtop">
-  <div class="six columns">
-    <img src="../assets/img/wayfinding1.png" align="top">
-  </div>
-  <div class="six columns">
-      <img src="../assets/img/wayfinding2.png" align="top">
-    </div>
-</div>
-
-<div class="row p10 imgpadtop">
-  <div class="twelve columns">
-    <img src="../assets/img/animated_digital_signage.png" align="top">
-  </div>
-</div>
-
-</div>
-
-<div class="row p10 imgpadtop mb4">
-  <div class="six columns">
-    <img src="../assets/img/tshirtman1.png" align="top">
-  </div>
-  <div class="six columns mb4">
-    <img src="../assets/img/tshirtman2.png" align="top">
-  </div>
-</div>
-
-<div class="row p10 imgpadtop">
-    <div class="six columns mt2">
-        <b>DIGITAL PRESENCE </b>
-    </div>
-    </div>  
-
-    <div class="row p10">
-        <div class="six columns csgoal imgpadtop imgpadbot">
-        Mobile & Web
+        <div class="row p10 imgpadtop challenge">
+          <div class="twelve columns">
+            <img src="../assets/img/animated_digital_signage.png" align="top">
+          </div>
         </div>
-    </div>
+        
+        </div>
+        
+        <div class="row p10 imgpadtop mb4 challenge">
+          <div class="six columns">
+            <img src="../assets/img/tshirtman1.png" align="top">
+          </div>
+          <div class="six columns mb4">
+            <img src="../assets/img/tshirtman2.png" align="top">
+          </div>
+        </div>
 
-<!-- <div class="row p10 imgpadtop">
+
+
+<div class="row p10">
     <div class="twelve columns">
-        <img src="../assets/img/unknownhero.png" align="top"> 
+        <b>INTERACTION DESIGN </b>
     </div>
-  </div> -->
+    </div>  
+
+    <div class="row p10">
+        <div class="twelve columns csgoal imgpadtop imgpadbot">
+          Mobile & Web Presence
+        </div>
+    </div>
 
   <div class="row p10 imgpadtop ">
-      <div class="twelve columns">
+      <div class="twelve columns imgpadbot">
            The UNKNOWN mobile app acts as your conference companion, 
            guiding you through 
             the schedule, and archiving all video content. In particular, 
@@ -250,17 +214,31 @@ attendees that budding technologies are
       </div>
 
 <div class="row p10 imgpadtop imgpadbot">
-  <div class="five columns role mr2">
-    <img src="../assets/img/unknownvid.gif" align="top">
+  <div class="twelve columns role mr2">
+    <img src="../assets/img/unknownanimationapp.gif" align="top">
   </div>
 </div>
+
+<div class="row p10 imgpadtop ">
+    <div class="twelve columns imgpadbot">
+        Capturing 2017’s most exciting moments, 
+        our archived website will automatically 
+        appear the moment the conference ends. 
+        Most notably, users can download the AR 
+        app & check out what’s to come in 2018.
+      </div>
+    </div> 
+
+    <div class="row p10 imgpadtop imgpadbot">
+        <div class="twelve columns role mr2">
+          <img src="../assets/img/unknownanimationweb.gif" align="top">
+        </div>
+      </div>
 
 <div class="footer mt2">
   <div class="footertext">
 <router-link to="Break" exact>  
-  <img src="../assets/img/breakfooter.png"align="top"> </router-link>  
-  <div class="footersubhead">Want more? </div>
-  <div class="footerheadline">Want more? </div>
+  <img src="../assets/img/breakfooter.png"align="top"> </router-link> 
 </div>
 </div>
 
