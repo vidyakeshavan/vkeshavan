@@ -239,8 +239,6 @@
           <div class="footertext">
         <router-link to="Unknown" exact>  
           <img src="../assets/img/unknownfooter.png"align="top"> </router-link>  
-          <div class="footersubhead">Want more? </div>
-          <div class="footerheadline">Want more? </div>
         </div>
     </div>
 

@@ -202,7 +202,7 @@ img {
   width: 100%;
   /* background-color: #F9F2F2; */
   filter: opacity(90%);
-  color: white;
+  color: #f4f5f9;
 }
 
 .footertext {
@@ -420,13 +420,13 @@ p {
   margin-top: 0; }
 
 .p10 {
-  padding-left: 25%;
-  padding-right: 25%;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 
 .p10about {
-  padding-left: 30%;
-  padding-right: 30%;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 
 .challenge {

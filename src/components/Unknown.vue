@@ -203,11 +203,11 @@ attendees that budding technologies are
       <div class="twelve columns imgpadbot">
            The UNKNOWN mobile app acts as your conference companion, 
            guiding you through 
-            the schedule, and archiving all video content. In particular, 
-          users will keep returning to learn about their world
-          through the Explore the UNKNOWN AR function. As the user walks 
-           around his or her world, the app will prompt them to uncover
-          the (<i>unknown</i>) stories in the world they think they know. These 
+            the schedule, and archiving all video content. 
+          Users will keep returning to the mobile app to learn about their world
+          through the Explore the UNKNOWN AR function. As the user hold their phone's 
+          camera up to the world around them, the app will prompt them to uncover
+          the <i>unknown</i> stories in the world they think they know. These 
          stories aggregate articles from tech and design focused publications, serving as a unique discoverability 
          platform for digital news.
         </div>
@@ -221,15 +221,12 @@ attendees that budding technologies are
 
 <div class="row p10 imgpadtop ">
     <div class="twelve columns imgpadbot">
-        Capturing 2017’s most exciting moments, 
-        our archived website will automatically 
-        appear the moment the conference ends. 
-        Most notably, users can download the AR 
-        app & check out what’s to come in 2018.
+        Finally, we designed an archival website that captured UNKNOWN 2017’s 
+        most exciting moments, and teased out what’s to come in 2018.
       </div>
     </div> 
 
-    <div class="row p10 imgpadtop imgpadbot">
+    <div class="row p10 imgpadtop">
         <div class="twelve columns role mr2">
           <img src="../assets/img/unknownanimationweb.gif" align="top">
         </div>
@@ -237,6 +234,7 @@ attendees that budding technologies are
 
 <div class="footer mt2">
   <div class="footertext">
+    Next Up: Break
 <router-link to="Break" exact>  
   <img src="../assets/img/breakfooter.png"align="top"> </router-link> 
 </div>

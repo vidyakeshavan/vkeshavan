@@ -7,18 +7,17 @@
           </div>
         </div>
 
-        <br> 
 
       <div class="row p10about">
           <div class="twelve columns role">
-              If the fedora-on-vacation look immediately
+              <!-- If the fedora-on-vacation look immediately
               gave you <i> "Designer with Roots in Marketing & Analytics
                   with a Promise to Make Digital Products You'd Actually Use" </i> vibes, 
               then look no further. My work here is done. For all the skeptics, 
               let me bring you up to speed on how I got here. 
 
 
-              <br> <br>
+              <br> <br> -->
               
               After two wonderful stints at 
               <a href="https://www.slate.com/"> Slate Magazine </a> and  
