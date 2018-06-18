@@ -587,11 +587,11 @@ p {
 
 .sig {
   font-style: italic;
-  font-family: "open sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .csprocess {
-  font-family: 'open sans',sans-serif;
+  font-family: 'Open Sans',sans-serif;
   font-size: 18px;
 }
 
