@@ -43,8 +43,8 @@
                <br> <br>
 
               To me, the magic of design lies in its power of accessibility.
-              Nothing is more fulfilling than being able to repackage previously inaccesible
-              information for a new audience and make it understandable, 
+              I treat design as a storytelling vehicle that can repackage 
+              previously inaccessible information to a new audience: making it understandable, 
               relatable, and if I'm lucky, actionable.  For that reason, I take a  
                human-centered approach in everything I do with dedicated user research,
               prototyping, system design, testing and iterating.  
