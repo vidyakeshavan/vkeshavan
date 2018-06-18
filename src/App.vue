@@ -154,6 +154,10 @@ img.ipad {
   color: #000;
 }
 
+.abouttext {
+  font-size: 16px;
+}
+
 .workhover:hover {
   text-decoration: underline;
 }
