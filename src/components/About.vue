@@ -7,7 +7,6 @@
           </div>
         </div>
 
-        <br> 
 
 
       <div class="row p10about">

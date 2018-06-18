@@ -98,8 +98,9 @@ iframe {
 }
 
 .buttons {
-  font-size: 20px;
-  letter-spacing: .5em;
+  font-size: 22px;
+  letter-spacing: .85em;
+  margin-top: 1%;
 }
 
 img.ipad {
@@ -308,9 +309,10 @@ a {
 }
 
 .font1 {
-  font-size: 40px;
+  font-size: 50px;
   font-family: 'acme', sans-serif;
-  margin-bottom:0%;
+  margin-bottom:1%;
+  line-height: 1.1em;
 }
 
 .font2 {
