@@ -24,7 +24,7 @@
         <div class="row p10 mb2 mr2">
           <div class="four columns mb2 role">
            <b> Role: </b> User Research, Product Design <br> 
-           <b> Status: </b> Ongoing, Student Project Spring '18
+           <b> Status: </b> Completed, Student Project Spring '18
           </div>
 
           <div class="eight columns role">
@@ -36,11 +36,21 @@
           </div>
        </div>
 
-       <div class="row p10 imgpadbot mt2">
-          <div class="six columns csgoal role">
-          <b> Full Case Study Coming Soon! </b>
+       <div class="row p10 imgpadtop imgpadbot">
+          <div class="twelve columns role mr2">
+            <img src="../assets/img/breakanimationtype2.gif" align="top">
           </div>
-      </div>
+        </div>
+        
+
+        <div class="row p10 imgpadtop imgpadbot">
+            <div class="twelve columns role mr2">
+              <img src="../assets/img/animationsbreakfeatures.gif" align="top">
+            </div>
+          </div>
+          
+
+
 
 
     <div class="footer mt2">

@@ -52,8 +52,7 @@
               <br> <br>
 
               I'm also proud to say that I've designed and developed
-              this site with my own blood,
-              sweat, and tears. Although coffee, supermarket sushi (I'm not
+              this site myself. Although coffee, supermarket sushi (I'm not
               proud of it either), and long dramatic sighs had a
               significant hand in its creation. I can tell you all about it
               over some coffee. And perhaps sushi. 
