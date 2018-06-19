@@ -211,7 +211,7 @@
                
       <a class="back-top page-scroll" href="#page-top"> back to top </a>           
 
-      <div class="footer mt2">
+      <div class="footer">
           <div class="footertext">
         <router-link to="Unknown" exact>  
           <img src="../assets/img/unknownfooter.png"align="top"> </router-link>  
