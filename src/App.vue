@@ -430,8 +430,8 @@ p {
   margin-top: 0; }
 
 .p10 {
-  padding-left: 15%;
-  padding-right: 15%;
+  padding-left: 30%;
+  padding-right: 30%;
 }
 
 .p10about {

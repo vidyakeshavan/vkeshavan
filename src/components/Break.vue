@@ -37,7 +37,7 @@
        </div>
 
        <div class="row p10 challenge ">
-          <div class="six columns imgpadbot imgpadtop mt2">
+          <div class="six columns imgpadbot mt2">
               <b> THE INSPIRATION </b>
           </div>
   </div>  
@@ -49,27 +49,28 @@
     </div>  
 
     <div class="row p10 challenge">
-        <div class="twelve columns">
+        <div class="six columns role ">
+         When I began this project in early 2018, I became increasingly aware of 
+         the massive, media-fueled concern that our society is totally tech addicted. 
+         Industry experts and parents alike made the case that if adults 
+         feel this way about themselves, what does it mean for the teens and children who've never known 
+         life without a device?
+           </div>
+           <div class="six columns role ">
+            I began to investigate. What does addiction mean, really? What are the implications?
+              How can teenagers
+              strike a better balance with their devices  - do the even <i>want</i> to?
+                </div>
+     </div> 
+
+    <div class="row p10 challenge imgpadtop">
+        <div class="twelve columns mb4">
             <img src="../assets/img/breakinspiration1.png" align="top"> </div>
       </div>
 
-      <div class="row p10 imgpadtop challenge">
-          <div class="six columns role mb4 ">
-           When I began this project in early 2018, I became increasingly aware of 
-           the massive, media-fueled concern that our society is totally tech addicted. 
-           Industry experts and parents alike made the case that if adults 
-           feel this way about themselves, what does it mean for the teens and children who've never known 
-           life without a device?
-             </div>
-             <div class="six columns role mb4 ">
-              I began to investigate. What does addiction mean, really? What are the implications?
-                How can teenagers
-                strike a better balance with their devices  - do the even <i>want</i> to?
-                  </div>
-       </div> 
 
        <div class="row p10 ">
-          <div class="six columns imgpadbot imgpadtop mt2">
+          <div class="six columns imgpadbot mt2">
               <b> RESEARCH </b>
           </div>
         </div>  
@@ -79,6 +80,18 @@
         Examining the Root Problem 
         </div>
       </div>  
+
+      <div class="row p10">
+          <div class="eight columns role ">
+           When I began this project in early 2018, I became increasingly aware of 
+           the massive, media-fueled concern that our society is totally tech addicted. 
+           Industry experts and parents alike made the case that if adults 
+           feel this way about themselves, what does it mean for the teens and children who've never known 
+           life without a device?
+             </div>
+
+       </div> 
+      
 
 
        <div class="row p10 imgpadtop imgpadbot">
@@ -92,7 +105,115 @@
                 <img src="../assets/img/demo4.png" align="top">
               </div>
         </div>
-        
+
+
+          <div class="row p10 ">
+              <div class="six columns imgpadbot mt2">
+                  <b> PROTOTYPING </b>
+              </div>
+            </div>  
+    
+           <div class="row p10">
+            <div class="eight columns imgpadbot csgoal">
+            Bringing the Concept to Life
+            </div>
+          </div>  
+          <div class="row p10">
+              <div class="six columns role ">
+               When I began this project in early 2018, I became increasingly aware of 
+               the massive, media-fueled concern that our society is totally tech addicted. 
+               Industry experts and parents alike made the case that if adults 
+               feel this way about themselves, what does it mean for the teens and children who've never known 
+               life without a device?
+                 </div>
+                 <div class="six columns role ">
+                    When I began this project in early 2018, I became increasingly aware of 
+                    the massive, media-fueled concern that our society is totally tech addicted. 
+                    Industry experts and parents alike made the case that if adults 
+                    feel this way about themselves, what does it mean for the teens and children who've never known 
+                    life without a device?
+                      </div>
+           </div> 
+  
+          <div class="row p10 imgpadtop imgpadbot">
+            <div class="six columns">
+                <img src="../assets/img/paperprototype.png" align="top">
+              </div>
+              <div class="six columns">
+                  <img src="../assets/img/prototypingwfriends.png" align="top">
+                </div>
+            </div>
+
+            <div class="row p10">
+                <div class="six columns role ">
+                 When I began this project in early 2018, I became increasingly aware of 
+                 the massive, media-fueled concern that our society is totally tech addicted. 
+                 Industry experts and parents alike made the case that if adults 
+                 feel this way about themselves, what does it mean for the teens and children who've never known 
+                 life without a device?
+                   </div>
+                   <div class="six columns role ">
+                      When I began this project in early 2018, I became increasingly aware of 
+                      the massive, media-fueled concern that our society is totally tech addicted. 
+                      Industry experts and parents alike made the case that if adults 
+                      feel this way about themselves, what does it mean for the teens and children who've never known 
+                      life without a device?
+                        </div>
+             </div> 
+
+            <div class="row p10 imgpadtop imgpadbot">
+                <div class="twelve columns role mr2">
+                  <img src="../assets/img/paperprototyperesearch1.png" align="top">
+                </div>
+              </div>
+
+        <div class="row p10 imgpadtop imgpadbot">
+            <div class="four columns role">
+                Industry experts and parents alike made the case that if adults 
+                feel this way about themselves, what does it mean for the teens and children who've never known 
+                life without a device?
+              </div>  
+          <div class="eight columns role">
+              <img src="../assets/img/featureset1.png" align="top">
+            </div>
+          </div>
+
+        <div class="row">
+            <div class="twelve columns heroregular">
+              <img src="../assets/img/medfi.png" align="top">
+            </div>
+          </div>
+
+          <div class="row p10 ">
+              <div class="six columns imgpadbot mt2">
+                  <b> BRANDING </b>
+              </div>
+            </div>  
+    
+           <div class="row p10">
+            <div class="eight columns imgpadbot csgoal">
+            How Might This Look in the Real World?
+            </div>
+          </div>  
+
+          <div class="row p10 imgpadtop imgpadbot">
+              <div class="twelve columns">
+                <img src="../assets/img/branding.png" align="top">
+              </div>
+            </div>
+  
+
+          <div class="row p10 ">
+              <div class="six columns imgpadbot mt2">
+                  <b> SYNTHESIS </b>
+              </div>
+            </div>  
+    
+           <div class="row p10">
+            <div class="eight columns imgpadbot csgoal">
+            Applying Feedback to Hi-Fi Design
+            </div>
+          </div>  
 
         <div class="row p10 imgpadtop imgpadbot">
             <div class="twelve columns role mr2">

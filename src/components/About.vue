@@ -46,7 +46,7 @@
               I treat design as a storytelling vehicle that can repackage 
               previously inaccessible information to a new audience: making it understandable, 
               relatable, and if I'm lucky, actionable.  For that reason, I take a  
-               human-centered approach in everything I do with dedicated user research,
+               human-centered and strategic approach in everything I do with dedicated user research,
               prototyping, system design, testing and iterating.  
 
               <br> <br>
