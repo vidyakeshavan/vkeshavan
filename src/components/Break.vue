@@ -65,10 +65,29 @@
              </div>
        </div> 
 
-       <div class="row p10 imgpadtop imgpadbot">
-          <div class="twelve columns role mr2">
-            <img src="../assets/img/breakanimationtype2.gif" align="top">
+       <div class="row p10 ">
+          <div class="six columns imgpadbot imgpadtop mt2">
+              <b> RESEARCH </b>
           </div>
+        </div>  
+
+       <div class="row p10">
+        <div class="eight columns imgpadbot csgoal">
+        Examining the Root Problem 
+        </div>
+      </div>  
+
+
+       <div class="row p10 imgpadtop imgpadbot">
+          <div class="four columns role mr2">
+            <img src="../assets/img/demo1.png" align="top">
+          </div>
+          <div class="four columns role">
+              <img src="../assets/img/demo2.png" align="top">
+            </div>
+            <div class="four columns role">
+                <img src="../assets/img/demo4.png" align="top">
+              </div>
         </div>
         
 
