@@ -53,7 +53,7 @@
 
 
 
-    <div class="footer mt2">
+    <div class="footer">
         <div class="footertext">
       <router-link to="minARal" exact>  
         <img src="../assets/img/minfooter.png"align="top"> </router-link>  

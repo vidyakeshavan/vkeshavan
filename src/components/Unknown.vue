@@ -232,7 +232,7 @@ attendees that budding technologies are
         </div>
       </div>
 
-<div class="footer mt2">
+<div class="footer">
   <div class="footertext">
     Next Up: Break
 <router-link to="Break" exact>  

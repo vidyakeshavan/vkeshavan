@@ -36,7 +36,7 @@
           </div>
        </div>   
 
-       <div class="row p10 challenge imgpadtop">
+       <div class="row p10 challenge">
             <div class="six columns imgpadbot imgpadtop mt2">
                 <b> THE CHALLENGE </b>
             </div>
@@ -73,13 +73,10 @@
           </div>
        </div> 
 
-       <div class="row mrb2">
-        <div class="twelve columns">
-            <div class='embed-container'><iframe src='https://player.vimeo.com/video/260576993' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-        </div>
-      </div>
 
-       <div class="row p10 imgpadtop mt2">
+
+
+       <div class="row p10 mt2">
         <div class="six columns">
             <b>STORY AND GAME DESIGN </b>
         </div>
@@ -92,37 +89,26 @@
       </div>
 
       <div class="row p10 imgpadbot">
-        <div class="six columns">
+        <div class="twelve columns">
               Our team believed that the best way to engage kids in educational content, 
               such as the Gems & Minerals, was through a game. We chose to feature augmented reality technology 
              as the heart of the experience, making it fresh, exciting, and relevant to young visitors. 
-        </div>
-
-        <div class="six columns role">
-           Drawing from some of our favorites, we were inspired by the content themes found in 
-           '90s computer game, <i> Where in Time is Carmen Sandiego?</i> and the 
-           game functionality of AR based mobile game, <i> Pokemon Go!</i>.
-        </div>
-
-     </div>   
-     
-     <div class="row p10 mb2">
-     <div class="twelve columns role">
-            You can read 
-            more about my exploration into the burgeoning 
-            world of Augmented Reality, 
-            <a href="https://medium.com/parsons-rapid-museum-prototype-vk2018"> here. </a> 
-         </div>
-    </div>
-
-       <div class="row p10">
-          <div class="twelve columns mb2">
-              <img src="../assets/img/storygamedesborder.png" align="top"> 
-          </div>
+             Drawing from some of our favorites, we were inspired by the content themes found in 
+             '90s computer game, <a href="https://www.youtube.com/watch?v=W-J21Og1YN0"><i> Where in Time is Carmen Sandiego?</i></a> and the 
+             game functionality of AR based mobile game <a href="https://pokemongohub.net/ar-plus/"><i>Pokemon Go!</i></a>. You can read 
+             more about my exploration into the growing 
+             world of Augmented Reality, 
+             <a href="https://medium.com/parsons-rapid-museum-prototype-vk2018"> here. </a> </div>
         </div>
 
         <div class="row p10 ">
-          <div class="six columns role mb2">
+                <div class="twelve columns mb2 role">
+                <img src="../assets/img/minaralstory.png" align="top"> 
+                </div>
+            </div>    
+
+        <div class="row p10">
+          <div class="twelve columns role mb2">
             Throughout gameplay, children embark on quests with the story's hero, <b> Dr Smith,</b> esteemed 
             (fictional) minerologist extraordinaire,  
             to build objects from gems and minerals that characters around the museum may need. 
@@ -131,17 +117,24 @@
              clues, puzzles and mini games. Using AR in these quests, players
              will gain a real world context and understanding of minerals’
               purpose in our economy, infrastructure, and more.</div>
-  
-          <div class="six columns role mb2 ">
-               This story 
-               structure also allows 
-               the game to extend beyond the Gems & Minerals exhibit.
-               Depending on skill/age, players can accept quests from characters, building mineral-based objects from:
-               An Egyptian Pharoah, found in the <a href="https://naturalhistory.si.edu/exhibits/bone-hall/index.cfm"> Skin & Bones </a>
-              exhibit:  helping him build his crown for the afterlife. Or,
-              a Cavewoman, found in the <a href="http://humanorigins.si.edu/"> Human Origins  </a>
-               exhibit:  helping her build a spear for her hunts. </div>
         </div>
+
+        <div class="row p10 ">
+                <div class="twelve columns mb2 role">
+                <img src="../assets/img/structuregame.png" align="top"> 
+                </div>
+            </div>    
+
+            <div class="row p10">
+
+              This story 
+              structure also allows 
+              the game to extend beyond the Gems & Minerals exhibit.
+              Depending on skill/age, players can accept quests from characters, building mineral-based objects from:
+              An Egyptian Pharoah, found in the <a href="https://naturalhistory.si.edu/exhibits/bone-hall/index.cfm"> Skin & Bones </a>
+             exhibit:  helping him build his crown for the afterlife. Or,
+             a Cavewoman, found in the <a href="http://humanorigins.si.edu/"> Human Origins  </a>
+              exhibit:  helping her build a spear for her hunts. </div>
 
         <div class="challenge">
 
@@ -159,53 +152,34 @@
         </div>
   
 
-        <div class="row p10 challenge ">
+        <div class="row p10 challenge ">    
+                <div class="six columns mb2">
+                        <img src="../assets/img/minaralvid.gif" align="top">
+                          </div>
             <div class="six columns role mb2">
                 The NMNH relied heavily on our expertise to rapidly 
                 ideate & develop concepts in a short amount of time. Our 
                 ambitions were high, and our production timelines short, 
-                so our prototype took the form of a <i> visual </i> one. 
+                so our prototype took the form of a visual one. 
                 We chose this  type of prototype to capture
                 the scope and general appearance, but not necessarily the 
-                final functionality and aesthetic, of our intended design.</div>
-
-          <div class="six columns mb2">
-                    <img src="../assets/img/styleprototype2.png" align="top">
-                      </div>
-            </div>
-
-        <div class="row p10 imgpadbot challenge">
-            <div class="twelve columns mb2">
-                <img class="device" src="../assets/img/minaralvid.gif" align="top">
-            </div>
-        </div>
-
-        <div class="row p10 imgpadbot challenge">
-            <div class="four columns imgpagtop mb2">
-                We wanted to invoke a <i> youthful feel </i> to our clickable 
-                prototype that represented the game-play and AR experiences.  </div>
-                 
-                <div class="eight columns role imgpagtop mb4">    
-                But in the absence of development time, our efforts were focused in iterating
+                final functionality and aesthetic, of our intended design.
+                <br> <br> We wanted to invoke a <i> youthful feel </i> to our clickable 
+                prototype that represented the game-play and AR experiences.                 But in the absence of development time, our efforts were focused in iterating
                 the storyline into something impactful - one that could establish the brand's tone, 
-                sell itself in a demo reel, and ultimately encourage 
-                Smithsonian to make an investment decision.
-            </div>
+                sell itself in a <b> demo reel</b>, and ultimately encourage 
+                Smithsonian to make an investment decision.</div>
         </div>
-
         </div>
-            
-          <!-- <div class="row">
-              <div class="twelve columns">
-                  <div class="heroregular">
-                        <img src="../assets/img/fulldemoprocess.png" align="top"> 
-                  </div>
+        <div class="row p10 challenge">
+                <div class="twelve columns mb2 imgpadbot">
+                    <div class='embed-container'><iframe src='https://player.vimeo.com/video/260576993' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+                </div>
               </div>
-            </div>
-            </div> -->
+        
             
 
-            <div class="row p10 imgpadtop  mt2">
+            <div class="row p10 mt2">
                     <div class="six columns">
                         <b> FINAL STEPS </b>
                     </div>
@@ -217,7 +191,7 @@
                 </div>
             </div>
 
-            <div class="row p10 mb2 imgpadtop">
+            <div class="row p10 mb2">
                     <div class="twelve columns role">
                             <img src="../assets/img/testingcontracting.png" align="top">
                         </div>
@@ -235,6 +209,8 @@
                    </div>
 
                
+      <a class="back-top page-scroll" href="#page-top"> back to top </a>           
+
       <div class="footer mt2">
           <div class="footertext">
         <router-link to="Unknown" exact>  

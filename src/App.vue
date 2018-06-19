@@ -45,6 +45,10 @@ export default {
   text-decoration: underline;
 }
 
+.back-top {
+  position: fixed;
+}
+
 body {
   font-family: 'Open Sans', sans-serif;
   }
