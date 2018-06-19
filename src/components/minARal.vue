@@ -153,22 +153,22 @@
   
 
         <div class="row p10 challenge ">    
+                <div class="six columns role mb2">
+                        The NMNH relied heavily on our expertise to rapidly 
+                        ideate & develop concepts in a short amount of time. Our 
+                        ambitions were high, and our production timelines short, 
+                        so our prototype took the form of a visual one. 
+                        We chose this  type of prototype to capture
+                        the scope and general appearance, but not necessarily the 
+                        final functionality and aesthetic, of our intended design.
+                        <br> <br> We wanted to invoke a <i> youthful feel </i> to our clickable 
+                        prototype that represented the game-play and AR experiences.                 But in the absence of development time, our efforts were focused in iterating
+                        the storyline into something impactful - one that could establish the brand's tone, 
+                        sell itself in a <b> demo reel</b>, and ultimately encourage 
+                        Smithsonian to make an investment decision.</div>
                 <div class="six columns mb2">
                         <img src="../assets/img/minaralvid.gif" align="top">
                           </div>
-            <div class="six columns role mb2">
-                The NMNH relied heavily on our expertise to rapidly 
-                ideate & develop concepts in a short amount of time. Our 
-                ambitions were high, and our production timelines short, 
-                so our prototype took the form of a visual one. 
-                We chose this  type of prototype to capture
-                the scope and general appearance, but not necessarily the 
-                final functionality and aesthetic, of our intended design.
-                <br> <br> We wanted to invoke a <i> youthful feel </i> to our clickable 
-                prototype that represented the game-play and AR experiences.                 But in the absence of development time, our efforts were focused in iterating
-                the storyline into something impactful - one that could establish the brand's tone, 
-                sell itself in a <b> demo reel</b>, and ultimately encourage 
-                Smithsonian to make an investment decision.</div>
         </div>
         </div>
         <div class="row p10 challenge">

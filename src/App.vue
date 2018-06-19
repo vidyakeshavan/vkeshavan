@@ -510,7 +510,7 @@ p {
 .heroregular {
   width:100%;
   position: relative;
-  z-index: -2;
+  /* z-index: -2; */
   top: 2vw;
   margin-bottom: 6%;
   margin-top: -6%;
