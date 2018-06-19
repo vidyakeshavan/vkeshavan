@@ -54,15 +54,18 @@
       </div>
 
       <div class="row p10 imgpadtop challenge">
-          <div class="twelve columns role mb4 ">
+          <div class="six columns role mb4 ">
            When I began this project in early 2018, I became increasingly aware of 
            the massive, media-fueled concern that our society is totally tech addicted. 
            Industry experts and parents alike made the case that if adults 
            feel this way about themselves, what does it mean for the teens and children who've never known 
-           life without a device? <br> <br>  I began to investigate. What does addiction mean, really? What are the implications?
-           How can teenagers
-           strike a better balance with their devices  - do the even <i>want</i> to?
+           life without a device?
              </div>
+             <div class="six columns role mb4 ">
+              I began to investigate. What does addiction mean, really? What are the implications?
+                How can teenagers
+                strike a better balance with their devices  - do the even <i>want</i> to?
+                  </div>
        </div> 
 
        <div class="row p10 ">
