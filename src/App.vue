@@ -429,9 +429,14 @@ h2 { font-size: 2.2rem; line-height: 1.25; letter-spacing: -.1rem; }
 p {
   margin-top: 0; }
 
+.border {
+  border-top: 0.025px solid lightgrey;
+  
+}
+
 .p10 {
-  padding-left: 30%;
-  padding-right: 30%;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 
 .p10about {

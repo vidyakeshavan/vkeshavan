@@ -89,7 +89,7 @@
       </div>
 
       <div class="row p10 imgpadbot">
-        <div class="twelve columns">
+        <div class="six columns">
               Our team believed that the best way to engage kids in educational content, 
               such as the Gems & Minerals, was through a game. We chose to feature augmented reality technology 
              as the heart of the experience, making it fresh, exciting, and relevant to young visitors. 
@@ -99,6 +99,16 @@
              more about my exploration into the growing 
              world of Augmented Reality, 
              <a href="https://medium.com/parsons-rapid-museum-prototype-vk2018"> here. </a> </div>
+             <div class="six columns role">
+                    Throughout gameplay, children embark on quests with the story's hero, <b> Dr Smith,</b> esteemed 
+            (fictional) minerologist extraordinaire,  
+            to build objects from gems and minerals that characters around the museum may need. 
+             Players will be introduced 
+             to the process of mining for and forging of minerals through
+             clues, puzzles and mini games. Using AR in these quests, players
+             will gain a real world context and understanding of minerals’
+              purpose in our economy, infrastructure, and more.</div>
+             
         </div>
 
         <div class="row p10 ">
@@ -107,52 +117,41 @@
                 </div>
             </div>    
 
-        <div class="row p10">
-          <div class="twelve columns role mb2">
-            Throughout gameplay, children embark on quests with the story's hero, <b> Dr Smith,</b> esteemed 
-            (fictional) minerologist extraordinaire,  
-            to build objects from gems and minerals that characters around the museum may need. 
-             Players will be introduced 
-             to the process of mining for and forging of minerals through
-             clues, puzzles and mini games. Using AR in these quests, players
-             will gain a real world context and understanding of minerals’
-              purpose in our economy, infrastructure, and more.</div>
-        </div>
 
         <div class="row p10 ">
-                <div class="twelve columns mb2 role">
+                <div class="eight columns role">
                 <img src="../assets/img/structuregame.png" align="top"> 
                 </div>
+                <div class="four columns role">
+                        This story 
+                        structure also allows 
+                        the game to extend beyond the Gems & Minerals exhibit.
+                        Depending on skill/age, players can accept quests from characters, building mineral-based objects from:
+                        An Egyptian Pharoah, found in the <a href="https://naturalhistory.si.edu/exhibits/bone-hall/index.cfm"> Skin & Bones </a>
+                       exhibit:  helping him build his crown for the afterlife. Or,
+                       a Cavewoman, found in the <a href="http://humanorigins.si.edu/"> Human Origins  </a>
+                        exhibit:  helping her build a spear for her hunts. </div>
+                        
             </div>    
 
-            <div class="row p10">
 
-              This story 
-              structure also allows 
-              the game to extend beyond the Gems & Minerals exhibit.
-              Depending on skill/age, players can accept quests from characters, building mineral-based objects from:
-              An Egyptian Pharoah, found in the <a href="https://naturalhistory.si.edu/exhibits/bone-hall/index.cfm"> Skin & Bones </a>
-             exhibit:  helping him build his crown for the afterlife. Or,
-             a Cavewoman, found in the <a href="http://humanorigins.si.edu/"> Human Origins  </a>
-              exhibit:  helping her build a spear for her hunts. </div>
-
-        <div class="challenge">
-
-        <div class="row p10 imgpadtop challenge mt2">
+        <div class="row p10 mt2">
+            <div class="border">
             <div class="six columns mt2">
                 <b>THE PROCESS </b>
             </div>
+        </div>
             </div> 
 
 
-        <div class="row p10 challenge">
+        <div class="row p10">
             <div class="six columns csgoal imgpadtop imgpadbot">
              Rapid Prototyping
             </div>
         </div>
   
 
-        <div class="row p10 challenge ">    
+        <div class="row p10 ">    
                 <div class="six columns role mb2">
                         The NMNH relied heavily on our expertise to rapidly 
                         ideate & develop concepts in a short amount of time. Our 
@@ -171,19 +170,22 @@
                           </div>
         </div>
         </div>
-        <div class="row p10 challenge">
-                <div class="twelve columns mb2 imgpadbot">
+        <div class="row p10 mb2 ">
+                <div class="twelve columns imgpadbot">
                     <div class='embed-container'><iframe src='https://player.vimeo.com/video/260576993' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
                 </div>
+                <i>Demo Reel</i>
               </div>
         
             
 
-            <div class="row p10 mt2">
-                    <div class="six columns">
+            <div class="row p10">
+                <div class="border">
+                    <div class="six columns mt2">
                         <b> FINAL STEPS </b>
                     </div>
-                    </div> 
+                </div>
+             </div> 
 
             <div class="row p10">
                 <div class="six columns csgoal imgpadtop imgpadbot">

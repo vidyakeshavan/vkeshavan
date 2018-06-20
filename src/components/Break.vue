@@ -94,8 +94,8 @@
       
 
 
-       <div class="row p10 imgpadtop imgpadbot">
-          <div class="four columns role mr2">
+       <div class="row p10 imgpadtop">
+          <div class="four columns role mr2 mb4">
             <img src="../assets/img/demo1.png" align="top">
           </div>
           <div class="four columns role">
@@ -107,10 +107,12 @@
         </div>
 
 
-          <div class="row p10 ">
+          <div class="row p10">
+              <div class="border">
               <div class="six columns imgpadbot mt2">
                   <b> PROTOTYPING </b>
               </div>
+            </div>
             </div>  
     
            <div class="row p10">
@@ -119,7 +121,7 @@
             </div>
           </div>  
           <div class="row p10">
-              <div class="six columns role ">
+              <div class="six columns role mb2 ">
                When I began this project in early 2018, I became increasingly aware of 
                the massive, media-fueled concern that our society is totally tech addicted. 
                Industry experts and parents alike made the case that if adults 
@@ -171,23 +173,26 @@
             <div class="four columns role">
                 Industry experts and parents alike made the case that if adults 
                 feel this way about themselves, what does it mean for the teens and children who've never known 
-                life without a device?
+                life without a device?                Industry experts and parents alike made the case that if adults 
+                feel this way about themselves.
               </div>  
           <div class="eight columns role">
               <img src="../assets/img/featureset1.png" align="top">
             </div>
           </div>
 
-        <div class="row">
-            <div class="twelve columns heroregular">
+        <div class="row p10 imgpadtop imgpadbot">
+            <div class="twelve columns">
               <img src="../assets/img/medfi.png" align="top">
             </div>
           </div>
 
           <div class="row p10 ">
+              <div class="border">
               <div class="six columns imgpadbot mt2">
                   <b> BRANDING </b>
               </div>
+            </div>
             </div>  
     
            <div class="row p10">
@@ -197,16 +202,23 @@
           </div>  
 
           <div class="row p10 imgpadtop imgpadbot">
-              <div class="twelve columns">
+              <div class="four columns">
+                  Industry experts and parents alike made the case that if adults 
+                  feel this way about themselves, what does it mean for the teens and children who've never known 
+                  life without a device? 
+                </div>
+              <div class="eight columns role mb2">
                 <img src="../assets/img/branding.png" align="top">
               </div>
             </div>
   
 
-          <div class="row p10 ">
+          <div class="row p10">
+              <div class="border">
               <div class="six columns imgpadbot mt2">
                   <b> SYNTHESIS </b>
               </div>
+            </div>
             </div>  
     
            <div class="row p10">

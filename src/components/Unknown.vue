@@ -99,25 +99,27 @@ attendees that budding technologies are
 </div> 
 
 
-   <div class="row p10 imgpadtop challenge">
+   <div class="row p10 imgpadtop">
+     <div class="border">
       <div class="twelve columns mt2">
           <b> COLLATERAL </b>
       </div>
+    </div>
       </div>  
 
-   <div class="row p10 challenge">
+   <div class="row p10">
     <div class="twelve columns csgoal imgpadtop imgpadbot">
     Conference Promotion
     </div>
 </div>  
 
-<div class="row p10 challenge imgpadtop">
+<div class="row p10 imgpadtop">
     <div class="twelve columns imgpadbot mb2">
         <img src="../assets/img/horzpostersq.jpg" align="top"> 
     </div>
   </div>
 
-  <div class="row p10 challenge">
+  <div class="row p10">
       <div class="twelve columns role mb4">
         To build awareness and excitement, 
         we expanded UNKNOWN’s reach through 
@@ -130,13 +132,13 @@ attendees that budding technologies are
   
   </div>
 
-  <div class="row p10 challenge">
+  <div class="row p10">
       <div class="twelve columns imgpadbot mb2">
           <img src="../assets/img/adplatforms.png" align="top"> 
       </div>
     </div>
 
-    <div class="row p10 challenge">
+    <div class="row p10">
         <div class="six columns imgpadbot mb2">
             <img src="../assets/img/vehicle.jpg" align="top"> 
         </div>
@@ -145,7 +147,7 @@ attendees that budding technologies are
         </div>
       </div>
 
-      <div class="row p10 challenge">
+      <div class="row p10">
           <div class="twelve columns">
             Our team chose the experimental venue, Lowline NYC, to further
              push the idea that there's a lot more unknown to us 
@@ -159,7 +161,7 @@ attendees that budding technologies are
           </div>
         </div>
 
-        <div class="row p10 imgpadtop challenge">
+        <div class="row p10 imgpadtop">
           <div class="six columns">
             <img src="../assets/img/wayfinding1.png" align="top">
           </div>
@@ -168,7 +170,7 @@ attendees that budding technologies are
             </div>
         </div>
 
-        <div class="row p10 imgpadtop challenge">
+        <div class="row p10 imgpadtop ">
           <div class="twelve columns">
             <img src="../assets/img/animated_digital_signage.png" align="top">
           </div>
@@ -176,11 +178,11 @@ attendees that budding technologies are
         
         </div>
         
-        <div class="row p10 imgpadtop mb4 challenge">
+        <div class="row p10 imgpadtop mb4">
           <div class="six columns">
             <img src="../assets/img/tshirtman1.png" align="top">
           </div>
-          <div class="six columns mb4">
+          <div class="six columns">
             <img src="../assets/img/tshirtman2.png" align="top">
           </div>
         </div>
@@ -188,9 +190,11 @@ attendees that budding technologies are
 
 
 <div class="row p10">
-    <div class="twelve columns">
+    <div class="border">
+    <div class="twelve columns mt2">
         <b>INTERACTION DESIGN </b>
     </div>
+  </div>
     </div>  
 
     <div class="row p10">
