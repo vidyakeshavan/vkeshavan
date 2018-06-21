@@ -34,9 +34,9 @@
 
               It's as simple as this: If my product design practice can make complicated 
               information and services more accesible to users the way <a href="https://www.youtube.com/watch?v=27HIPU7tUaY&feature=youtu.be&t=4">Anthony Bourdain can use 
-                a three-day-old halibut</a> to explain what a Consolidated Debt Obligation is, then I've more than done my job.
+                three-day-old halibut</a> to explain what a Collateralized Debt Obligation is, then I've more than done my job.
                 <br> <br>
-                
+
               For that reason, I take a human-centered and strategic approach in everything I do with dedicated user research,
               prototyping, system design, testing and iterating.  
 
