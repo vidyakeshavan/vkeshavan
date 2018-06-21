@@ -240,7 +240,7 @@ attendees that budding technologies are
   <div class="footertext">
     Next Up: Break
 <router-link to="Break" exact>  
-  <img src="../assets/img/breakfooter.png"align="top"> </router-link> 
+  HI </router-link> 
 </div>
 </div>
 

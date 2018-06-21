@@ -32,30 +32,22 @@
 
               <!-- <br> <br> -->
 
-              After two wonderful stints at 
-              <a href="https://www.slate.com/"> Slate Magazine </a> and  
-              <a href="https://www.wsj.com/"> The Wall Street Journal, </a>
-              I finally had the  opportunity to shift my energy
-               from the analytical to the creative at Parsons School of Design, where I recently 
-               completed my <a href="https://www.newschool.edu/parsons/mps-communication-design/">
-                masters</a> in Communication Design.
-
-               <br> <br>
-
-              To me, the magic of design lies in its power of accessibility.
-              I treat design as a storytelling vehicle that can repackage 
-              previously inaccessible information to a new audience: making it understandable, 
-              relatable, and if I'm lucky, actionable.  For that reason, I take a  
-               human-centered and strategic approach in everything I do with dedicated user research,
+              It's as simple as this: If my product design practice can make complicated 
+              information and services more accesible to users the way <a href="https://www.youtube.com/watch?v=27HIPU7tUaY&feature=youtu.be&t=4">Anthony Bourdain can use 
+                a three-day-old halibut</a> to explain what a Consolidated Debt Obligation is, then I've more than done my job.
+                <br> <br>
+                
+              For that reason, I take a human-centered and strategic approach in everything I do with dedicated user research,
               prototyping, system design, testing and iterating.  
 
               <br> <br>
 
               I'm also proud to say that I've designed and developed
               this site myself. Although coffee, supermarket sushi (I'm not
-              proud of it either), and long dramatic sighs had a
-              significant hand in its creation. I can tell you all about it
-              over some coffee. And perhaps sushi. 
+              proud of it either) near my <a href="https://www.newschool.edu/parsons/mps-communication-design/">graduate school campus</a>, and long dramatic sighs had a
+              significant hand in its creation. I can tell you all about that and 
+              my former marketing work at <a href="https://www.slate.com/"> Slate Magazine </a> and  
+              <a href="https://www.wsj.com/"> The Wall Street Journal, </a>  over some coffee. And perhaps sushi. 
           </div>
 
         </div>
