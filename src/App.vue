@@ -112,11 +112,11 @@ img.ipad {
 }
 
 .navbar {
-  width: 100%;
+  width: 92%;
   padding-left: 20px;
-  position: relative;
-  border-left: 0.025px solid #000;
-  margin: 0 0 50px 0;
+  position: fixed;
+  border-left: 0.025px solid #000; */
+  margin: 0 0 50px 0; 
 }
 
 .navlinks {
@@ -326,8 +326,9 @@ a {
 
 .container {
   width: 100%;
-  margin: 0 auto;
-  padding: 0 20px;
+  /* margin: 0 auto; */
+  /* margin-top: 10%; */
+  /* padding: 0 20px; */
 }
 .column,
 .columns {
@@ -338,18 +339,32 @@ a {
 @media (min-width: 400px) {
   .container {
     width: 100%;
-    padding: 0; }
+    padding: 0;
+    margin-top: 25%; }
+    .aboutpage {
+    width: 100%;
+    margin-top: 30%; }
+    #app {
+    width: 100%;
+    margin-top: 30%; }
 }
 
 @media (min-width: 550px) {
   .container {
-    width: 100%; }
+    width: 100%;
+    margin-top: 10%; }
+    .aboutpage {
+    width: 100%;
+    margin-top: 10%; }
+    #app {
+    width: 100%;
+    margin-top: 10%; }
   .column,
   .columns {
     margin-left: 1%; }
   .column:first-child,
   .columns:first-child {
-    margin-left: 0; }
+    margin-left: 0; } 
 
   .one.column,
   .one.columns                    { width: 4.66666666667%; }

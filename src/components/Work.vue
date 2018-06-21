@@ -113,9 +113,9 @@ text-decoration: none;
 font-size: 1.2em;
 }
 
-
 #app {
   min-height: 90vh;
+  /* margin-top: 10%; */
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -177,16 +177,16 @@ ul {
   position: relative;
   padding-left: 0.8em;
   font-size: 1.2em;
-  transition: -webkit-transform 0.8s 0.8s;
-  transition: transform .8s 0.8s;
-  transition: transform .8s 0.8s, -webkit-transform .8s 0.8s;
+  transition: -webkit-transform .8s .8s;
+  transition: transform .8s .8s;
+  transition: transform .8s .8s, -webkit-transform .8s .8s;
   margin-bottom: 10px;
   font-family: "Open Sans", sans-serif;  
 }
 .items li:hover {
-  /* -webkit-transform: scale(1.3);
-          transform: scale(1.3); */
-  /* margin: 0.3em 0;   */
+  /* -webkit-transform: scale(1.5);
+          transform: scale(1.5); */
+  /* margin: 0.5em 0;   */
   /* text-shadow: 0 0 1.5em pink; */
 }
 .items li.active:after {

@@ -36,27 +36,29 @@
           </div>
        </div>   
 
-       <div class="row p10 challenge">
-            <div class="six columns imgpadbot imgpadtop mt2">
+       <div class="row p10">
+           <div class="border">
+            <div class="six columns imgpadbot mt2">
                 <b> THE CHALLENGE </b>
+            </div>
             </div>
     </div>  
 
-       <div class="row p10 challenge imgpadbot">
+       <div class="row p10 imgpadbot">
           <div class="eight columns csgoal">
           The Smithsonian For a  New Generation 
           </div>
       </div>  
 
-      <div class="row p10 challenge">
+      <div class="row p10">
           <div class="twelve columns">
               <img src="../assets/img/gemz.jpg" align="top"> 
           </div>
         </div>
 
 
-      <div class="row p10 imgpadtop challenge imgpadbot">
-          <div class="six columns role mb4 challenge">
+      <div class="row p10 imgpadtop imgpadbot">
+          <div class="six columns role mb4">
               NMNH’s Business Development team expressed that an
                important goal for them is to promote STEM as an exciting 
                and viable career path for children. However, while the
