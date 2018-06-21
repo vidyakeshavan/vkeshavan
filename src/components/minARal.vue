@@ -78,10 +78,12 @@
 
 
 
-       <div class="row p10 mt2">
-        <div class="six columns">
-            <b>STORY AND GAME DESIGN </b>
-        </div>
+       <div class="row p10">
+           <div class="border">
+                <div class="six columns mt2">
+                        <b>STORY AND GAME DESIGN </b>
+                    </div>
+           </div>
         </div>  
 
        <div class="row p10">
@@ -162,7 +164,7 @@
                         We chose this  type of prototype to capture
                         the scope and general appearance, but not necessarily the 
                         final functionality and aesthetic, of our intended design.
-                        <br> <br> We wanted to invoke a <i> youthful feel </i> to our clickable 
+                        <br> <br> We wanted to invoke a  youthful feel to our clickable 
                         prototype that represented the game-play and AR experiences.                 But in the absence of development time, our efforts were focused in iterating
                         the storyline into something impactful - one that could establish the brand's tone, 
                         sell itself in a <b> demo reel</b>, and ultimately encourage 
@@ -177,6 +179,28 @@
                     <div class='embed-container'><iframe src='https://player.vimeo.com/video/260576993' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
                 </div>
                 <i>Demo Reel</i>
+                <br> <br> 
+                <div class="row mb2 ">
+                        <div class="twelve columns">
+                            In the demo reel, we wanted to pay special attention to the
+                            function of hovering near AR markers (in this case, a QR code) and collecting
+                            objects through the tablet. Throughout the experience, the brand is reinforced
+                            with strategically placed posters and calls to social media action.   </div>
+                </div>
+
+                <div class="row mb2 ">
+                        <div class="four columns">
+                            <img src="../assets/img/collection.png" align="top">
+                        </div>
+                        <div class="four columns">
+                                <img src="../assets/img/QRcode.png" align="top">
+                            </div>
+                            <div class="four columns">
+                                    <img src="../assets/img/socialmediaaction.png" align="top">
+                                </div>
+                </div>
+
+
               </div>
         
             
@@ -207,7 +231,7 @@
                       we were asked to draft a Statement of Work contract that lays out our intended plans 
                       for design, development, timing, and budget if given funding. 
                       If given the investment opportunity, our team would contract across a 1-year span, 
-                      producing MinARal across its lifecycle: from the initial research phases, 
+                      producing MinARal across its lifecycle: from the initial research phases, design & development in AR Kit
                       to long-term exhibit maintenence. 
                       </div>
                    </div>
