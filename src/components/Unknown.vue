@@ -39,18 +39,20 @@
        </div>
 
 
-       <div class="row p10 challenge">
+       <div class="row p10">
+         <div class="border">
           <div class="twelve columns imgpadbot mt2">
               <b> THE CHALLENGE </b>
           </div>
+        </div>
   </div>  
-       <div class="row p10 challenge">
+       <div class="row p10">
         <div class="twelve columns csgoal imgpadbot">
        A Conference You Would Actually Go To
         </div>
     </div> 
 
-    <div class="row p10 imgpadtop challenge">
+    <div class="row p10 imgpadtop">
       <div class="six columns role mb4 ">
        We were challenged to conceptualize and design a 
        conference brand would shed light on the 
@@ -68,9 +70,11 @@
    </div> 
 
    <div class="row p10 imgpadtop">
+     <div class="border">
     <div class="twelve columns imgpadbot imgpadtop mt2">
         <b> BRANDING </b>
     </div>
+  </div>
 </div>  
  <div class="row p10">
   <div class="twelve columns csgoal imgpadbot">
@@ -238,9 +242,12 @@ attendees that budding technologies are
 
 <div class="footer">
   <div class="footertext">
-    Next Up: Break
-<router-link to="Break" exact>  
-  HI </router-link> 
+    Next Up 
+  </div>
+  <div class="footerheadline">
+      <router-link to="Break" exact>  
+          Break </router-link> 
+          </div>
 </div>
 </div>
 

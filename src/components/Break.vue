@@ -36,19 +36,21 @@
           </div>
        </div>
 
-       <div class="row p10 challenge ">
+       <div class="row p10">
+         <div class="border">
           <div class="six columns imgpadbot mt2">
               <b> THE INSPIRATION </b>
           </div>
+        </div>
   </div>  
 
-     <div class="row p10 challenge">
+     <div class="row p10">
         <div class="eight columns imgpadbot csgoal">
         Are We Tech Addicts? 
         </div>
     </div>  
 
-    <div class="row p10 challenge">
+    <div class="row p10">
         <div class="six columns role ">
          When I began this project in early 2018, I became increasingly aware of 
          the massive, media-fueled concern that our society is totally tech addicted. 
@@ -63,16 +65,18 @@
                 </div>
      </div> 
 
-    <div class="row p10 challenge imgpadtop">
+    <div class="row p10 imgpadtop">
         <div class="twelve columns mb4">
             <img src="../assets/img/breakinspiration1.png" align="top"> </div>
       </div>
 
 
        <div class="row p10 ">
+          <div class="border">
           <div class="six columns imgpadbot mt2">
               <b> RESEARCH </b>
           </div>
+        </div>
         </div>  
 
        <div class="row p10">
@@ -234,15 +238,15 @@
           </div>
 
 
-
-    <div class="footer">
-        <div class="footertext">
-      <router-link to="minARal" exact>  
-        <img src="../assets/img/minfooter.png"align="top"> </router-link>  
-        <!-- <div class="footersubhead">Want more? </div>
-        <div class="footerheadline">Want more? </div> -->
-      </div>
-    </div>
+          <div class="footer">
+              <div class="footertext">
+                Next Up 
+              </div>
+              <div class="footerheadline">
+                  <router-link to="minARal" exact>  
+                      minARal </router-link> 
+                      </div>
+            </div>
 
         </div> 
           

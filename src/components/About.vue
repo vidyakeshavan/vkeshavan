@@ -32,8 +32,8 @@
 
               <!-- <br> <br> -->
 
-              It's as simple as this: If my product design practice can make complicated 
-              information and services more accesible to users the way <a href="https://www.youtube.com/watch?v=27HIPU7tUaY&feature=youtu.be&t=4">Anthony Bourdain can use 
+              It's as simple as this: If my product design practice can as effectively make complicated 
+              information and services more accessible to users the way <a href="https://www.youtube.com/watch?v=27HIPU7tUaY&feature=youtu.be&t=4">Anthony Bourdain can use 
                 three-day-old halibut</a> to explain what a Collateralized Debt Obligation is, then I've more than done my job.
                 <br> <br>
 
@@ -44,9 +44,9 @@
 
               I'm also proud to say that I've designed and developed
               this site myself. Although coffee, supermarket sushi (I'm not
-              proud of it either) near my <a href="https://www.newschool.edu/parsons/mps-communication-design/">graduate school campus</a>, and long dramatic sighs had a
-              significant hand in its creation. I can tell you all about that and 
-              my former marketing work at <a href="https://www.slate.com/"> Slate Magazine </a> and  
+              proud of it either), and long dramatic sighs had a
+              significant hand in its creation. I can tell you all about that, <a href="https://www.newschool.edu/parsons/mps-communication-design/">my graduate work at Parsons,</a>
+              and my former life in marketing at <a href="https://www.slate.com/"> Slate Magazine </a> and  
               <a href="https://www.wsj.com/"> The Wall Street Journal, </a>  over some coffee. And perhaps sushi. 
           </div>
 

@@ -41,6 +41,10 @@ export default {
 
 <style>
 
+.router-link {
+  text-decoration: none;
+}
+
 .router-link-active {
   text-decoration: underline;
 }
@@ -209,32 +213,35 @@ img {
 
 .footer {
   width: 100%;
-  /* background-color: #F9F2F2; */
   filter: opacity(90%);
-  color: #f4f5f9;
+  background: whitesmoke;
+  text-decoration: none;
 }
 
 .footertext {
   /* padding-bottom: 2%; */
-  padding-top: 8%;
-  padding-left: 1%;
+  margin-left: 10%;
+  color: black;
+  padding-top: 2%;
+  text-decoration: none;
 }
 
 .footersubhead {
-  font-family: 'lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #000000;
   font-size: 1.1em;
-  text-decoration: none;
-  margin-top: 1.1%;
+  margin-left: 10%;
+  /* margin-top: 1.1%; */
 }
 
 .footerheadline {
   font-family: 'acme', sans-serif;
   color: #000000;
-  font-size: 2em;
-  left: -.75%;
-  /* margin-top: 4%; */
+  font-size: 2.2em;
+  margin-left: 10%;
+  /* margin-bottom: 4%; */
   text-decoration: none;
+  padding-bottom: 2%;
 }
 
 .fa {
@@ -310,6 +317,10 @@ figcaption {
 
 a {
   color: black;
+}
+
+.routerlinkclass {
+  text-decoration: none;
 }
 
 .font1 {
@@ -450,8 +461,8 @@ p {
 }
 
 .p10 {
-  padding-left: 15%;
-  padding-right: 15%;
+  padding-left: 18%;
+  padding-right: 18%;
 }
 
 .p10about {

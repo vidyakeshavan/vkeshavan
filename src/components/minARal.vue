@@ -240,12 +240,14 @@
       <a class="back-top page-scroll" href="#page-top"> back to top </a>           
 
       <div class="footer">
-          <div class="footertext">
-        <router-link to="Unknown" exact>  
-          <img src="../assets/img/unknownfooter.png"align="top"> </router-link>  
-        </div>
-    </div>
-
+            <div class="footertext">
+              Next Up 
+            </div>
+            <div class="footerheadline">
+                <router-link to="Unknown" exact>  
+                    Unknown </router-link> 
+                    </div>
+          </div>
       </div>
     </div>
 </template>
