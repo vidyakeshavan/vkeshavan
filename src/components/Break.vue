@@ -51,25 +51,22 @@
     </div>  
 
     <div class="row p10">
-        <div class="six columns role ">
+        <div class="eight columns mb4">
+            <img src="../assets/img/breakinspiration1.png" align="top"> </div>
+        <div class="four columns role mb2 ">
          When I began this project in early 2018, I became increasingly aware of 
          the massive, media-fueled concern that our society is totally tech addicted. 
          Industry experts and parents alike made the case that if adults 
          feel this way about themselves, what does it mean for the teens and children who've never known 
          life without a device?
-           </div>
-           <div class="six columns role ">
+
+            <br> <br> 
+
             I began to investigate. What does addiction mean, really? What are the implications?
               How can teenagers
               strike a better balance with their devices  - do the even <i>want</i> to?
-                </div>
+           </div>
      </div> 
-
-    <div class="row p10 imgpadtop">
-        <div class="twelve columns mb4">
-            <img src="../assets/img/breakinspiration1.png" align="top"> </div>
-      </div>
-
 
        <div class="row p10 ">
           <div class="border">
@@ -105,7 +102,7 @@
           <div class="four columns role">
               <img src="../assets/img/demo2.png" align="top">
             </div>
-            <div class="four columns role">
+            <div class="four columns role mb2">
                 <img src="../assets/img/demo4.png" align="top">
               </div>
         </div>
@@ -126,11 +123,8 @@
           </div>  
           <div class="row p10">
               <div class="six columns role mb2 ">
-               When I began this project in early 2018, I became increasingly aware of 
-               the massive, media-fueled concern that our society is totally tech addicted. 
-               Industry experts and parents alike made the case that if adults 
-               feel this way about themselves, what does it mean for the teens and children who've never known 
-               life without a device?
+                  there are no public APIs for tracking app use on an iOS device
+
                  </div>
                  <div class="six columns role ">
                     When I began this project in early 2018, I became increasingly aware of 
@@ -237,6 +231,40 @@
             </div>
           </div>
 
+          <div class="row p10">
+              <div class="border">
+              <div class="six columns imgpadbot mt2">
+                  <b> FULL CIRCLE </b>
+              </div>
+            </div>
+            </div>  
+    
+           <div class="row p10">
+            <div class="eight columns imgpadbot csgoal">
+            The Big Wigs Take Initiative
+            </div>
+          </div>  
+
+          <div class="row p10 imgpadtop imgpadbot">
+              <div class="eight columns role mb2">
+                <img src="../assets/img/bigwig2.png" align="top">
+              </div>
+              <div class="four columns role ">
+                  In the very same time span that I spent trying to 
+                  find a small and effective way to solve this problem, Apple themselves 
+                  came up with their own scalable and powerful solution. 
+                  As I suspected, Apple stakeholders may have understood the weight of the 
+                  problem and their role in creating it. 
+         
+                     <br> <br> 
+         
+                     <a href="https://www.apple.com/ios/ios-12-preview/?afid=p238%7CsyJvRNrKi-dc_mtid_20925d2q39172_pcrid_273823845588&cid=wwa-us-kwgo-iphone-slid--"> iOS 12</a> will attempt to undo all
+                     annoying phone habits we've formed from its original design.  
+              
+                    </div>
+            </div>
+          
+
 
           <div class="footer">
               <div class="footertext">
@@ -253,7 +281,6 @@
       </div>
 
 
-      
           
   </div>
  </div> 

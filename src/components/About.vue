@@ -32,7 +32,7 @@
 
               <!-- <br> <br> -->
 
-              It's as simple as this: If my product design practice can make complicated 
+              It's as simple as this: If my product and experience design practice can make complicated 
               information and services more accessible to users as effectively as the way <a href="https://www.youtube.com/watch?v=27HIPU7tUaY&feature=youtu.be&t=4">Anthony Bourdain can use 
                 three-day-old halibut</a> to explain what a Collateralized Debt Obligation is, then I've more than done my job.
                 <br> <br>
