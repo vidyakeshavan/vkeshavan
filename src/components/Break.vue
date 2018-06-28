@@ -28,8 +28,8 @@
           </div>
 
           <div class="eight columns role">
-            break. is a mobile application I have been
-            conceptualizing throughout my final semester at
+            break. is a mobile application I 
+            conceptualized throughout my final semester at
             Parsons. This was conceived to help users monitor 
             their device use and encourage them break their 
             phone-related time management issues.
@@ -83,7 +83,7 @@
       </div>  
 
       <div class="row p10">
-          <div class="eight columns role ">
+          <div class="twelve columns role ">
            When I began this project in early 2018, I became increasingly aware of 
            the massive, media-fueled concern that our society is totally tech addicted. 
            Industry experts and parents alike made the case that if adults 
@@ -93,7 +93,23 @@
 
        </div> 
       
-
+       <div class="row p10 imgpadtop">
+          <div class="six columns role mr1 mb4">
+            <img src="../assets/img/moment.png" align="top">
+            <i>Moment iOS App</i>
+          </div>
+          <div class="six columns role mb4">
+              <img src="../assets/img/flux2.png" align="top">
+              <i>f.lux Desktop App</i>
+            </div>
+        </div>
+<!-- 
+        <div class="row p10 imgpadtop">
+            <div class="four columns role mr2 mb4">
+              <img src="../assets/img/flux2.jpg" align="top">
+              <i>f.lux Desktop App</i>
+            </div>
+          </div> -->
 
        <div class="row p10 imgpadtop">
           <div class="four columns role mr2 mb4">
@@ -225,11 +241,17 @@
             </div>
           </div>  
 
-        <div class="row p10 imgpadtop imgpadbot">
-            <div class="twelve columns role mr2">
-              <img src="../assets/img/animationsbreakfeatures.gif" align="top">
+          <div class="row p10 imgpadtop imgpadbot">
+              <div class="twelve columns role mr2">
+                <img src="../assets/img/animationsbreaktypes4.gif" align="top">
+              </div>
             </div>
-          </div>
+
+            <div class="row p10 imgpadtop imgpadbot">
+                <div class="twelve columns role mr2">
+                  <img src="../assets/img/animationsbreakfeatures2.gif" align="top">
+                </div>
+              </div>
 
           <div class="row p10">
               <div class="border">

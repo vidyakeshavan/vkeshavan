@@ -266,6 +266,10 @@ img {
   margin-right: 1%;
 }
 
+.mr1 {
+  margin-right: .9%;
+}
+
 .mb2 {
   margin-bottom: 5%;
 } 

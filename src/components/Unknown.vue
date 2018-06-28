@@ -90,9 +90,15 @@
 
 <div class="row p10 imgpadtop">
 <div class="twelve columns role mb4 ">
+    <!-- <i> “The oldest and strongest 
+    emotion of mankind is fear, and the oldest and 
+    strongest kind of fear is fear of the <b>unknown </b>” - H.P. Lovecraft</i>
+
+    <br> <br> -->
+  
   The tone  of the conference is to demystify and
-  shed light on <i> unknown </i> tech future ahead, so we wanted our brand 
-  to reflect that exciting uncertainty.  The conference
+  shed light on unknown tech future ahead, so we wanted our brand 
+  to reflect that uncertainty can instead be exciting.  The conference
  should be reveal and uncover, not unlike the way light
  guides you to the through the end of a tunnel. We wanted to reassure 
 attendees that budding technologies are 
