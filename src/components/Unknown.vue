@@ -246,6 +246,11 @@ attendees that budding technologies are
         </div>
       </div>
 
+                
+      <div id="app">
+          <VueElevator word="Scroll to Top" duration="4000"></VueElevator>
+        </div>
+
 <div class="footer">
   <div class="footertext">
     Next Up 

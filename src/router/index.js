@@ -7,7 +7,8 @@ import Break from '@/components/Break';
 import Numeracy from '@/components/Numeracy';
 import Unknown from '@/components/Unknown';
 import Palliativecare from '@/components/Palliativecare';
-
+import { VueElevator } from 'vue-elevator'
+Vue.component('VueElevator', VueElevator);
 
 Vue.use(Router);
 

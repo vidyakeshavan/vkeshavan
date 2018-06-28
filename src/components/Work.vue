@@ -114,7 +114,7 @@ font-size: 1.2em;
 }
 
 #app {
-  min-height: 90vh;
+  min-height: 80vh;
   /* margin-top: 10%; */
   display: flex;
   flex-wrap: wrap;
@@ -130,6 +130,7 @@ font-size: 1.2em;
 #app .item_text {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;  
+  text-align: left;
   /* align-items: ; */
 }
 
@@ -163,6 +164,7 @@ ul {
 .items {
   list-style: none;
   counter-reset: num;
+  text-align: left;
 }
 .items:before {
   font-family: "Open Sans", sans-serif;
@@ -174,7 +176,7 @@ ul {
 }
 .items li {
   cursor: pointer;
-  position: relative;
+  position: relative;-webkit
   padding-left: 0.8em;
   font-size: 1.2em;
   transition: -webkit-transform .8s .8s;

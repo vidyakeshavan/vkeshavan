@@ -233,11 +233,14 @@
                       If given the investment opportunity, our team would contract across a 1-year span, 
                       producing MinARal across its lifecycle: from the initial research phases, design & development in AR Kit
                       to long-term exhibit maintenence. 
-                      </div>
+                      </div>x
                    </div>
 
                
-      <a class="back-top page-scroll" href="#page-top"> back to top </a>           
+          
+                   <div id="app">
+                        <VueElevator word="Scroll to Top" duration="4000"></VueElevator>
+                      </div>
 
       <div class="footer">
             <div class="footertext">

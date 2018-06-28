@@ -524,6 +524,15 @@ p {
   margin-top: -6%;
 }
 
+#app {
+  text-align: center;
+  margin-bottom: 1%;
+  text-color: black;
+}
+
+
+
+
 .herounknown {
   width: 120%;
   position: relative;

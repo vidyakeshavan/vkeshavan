@@ -32,7 +32,7 @@
             conceptualized throughout my final semester at
             Parsons. This was conceived to help users monitor 
             their device use and encourage them break their 
-            phone-related time management issues.
+            phone-related time management issues. 
           </div>
        </div>
 
@@ -62,7 +62,8 @@
 
             <br> <br> 
 
-            I began to investigate. What does addiction mean, really? What are the implications?
+            I began to investigate. What does addiction mean, really? What's causing 
+            our society to feel this way - is it social media, or something much bigger than that?
               How can teenagers
               strike a better balance with their devices  - do the even <i>want</i> to?
            </div>
@@ -84,11 +85,14 @@
 
       <div class="row p10">
           <div class="twelve columns role ">
-           When I began this project in early 2018, I became increasingly aware of 
-           the massive, media-fueled concern that our society is totally tech addicted. 
-           Industry experts and parents alike made the case that if adults 
-           feel this way about themselves, what does it mean for the teens and children who've never known 
-           life without a device?
+          Wanting to hear from the source itself, 
+          I organized a pool of 25 users made up of teenagers, 
+          their parents, and their physicians. I asked the teens questions
+          like, "Does your Instagram or Snapchat ever 
+          stress you out? How do you cope with that stress?" I asked their parents questions like, 
+          "How would you describe your child's relationship with their device - and yours?" and 
+          health professionals whether their teen patients are "are usually forthcoming about stress 
+          and where they think it might come from?". 
              </div>
 
        </div> 
@@ -106,6 +110,15 @@
               </div>
         </div>
 
+        <div class="row p10">
+            <div class="twelve columns role ">
+           Balance, Effiency, Timed Saved, Agency, and 
+           Convenience were some of the overwhelming themes I found when interviewing. 
+           However, it became more clear 
+               </div>
+  
+         </div> 
+
         <div class="row p10 imgpadtop">
             <div class="six columns role mr1 mb4">
               <img src="../assets/img/moment.png" align="top">
@@ -116,6 +129,7 @@
                 <i>f.lux Desktop App</i>
               </div>
           </div>
+
 
 
           <div class="row p10">
@@ -262,7 +276,7 @@
           </div>  
 
           <div class="row p10 imgpadtop imgpadbot">
-              <div class="eight columns role mb2">
+              <div class="eight columns role">
                 <img src="../assets/img/bigwig2.png" align="top">
               </div>
               <div class="four columns role ">
@@ -281,7 +295,9 @@
                     </div>
             </div>
           
-
+            <div id="app">
+                <VueElevator word="Scroll to Top" duration="4000"></VueElevator>
+              </div>
 
           <div class="footer">
               <div class="footertext">
