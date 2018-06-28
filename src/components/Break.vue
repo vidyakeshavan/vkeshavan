@@ -92,36 +92,30 @@
              </div>
 
        </div> 
-      
-       <div class="row p10 imgpadtop">
-          <div class="six columns role mr1 mb4">
-            <img src="../assets/img/moment.png" align="top">
-            <i>Moment iOS App</i>
-          </div>
-          <div class="six columns role mb4">
-              <img src="../assets/img/flux2.png" align="top">
-              <i>f.lux Desktop App</i>
-            </div>
-        </div>
-<!-- 
-        <div class="row p10 imgpadtop">
-            <div class="four columns role mr2 mb4">
-              <img src="../assets/img/flux2.jpg" align="top">
-              <i>f.lux Desktop App</i>
-            </div>
-          </div> -->
+
 
        <div class="row p10 imgpadtop">
           <div class="four columns role mr2 mb4">
             <img src="../assets/img/demo1.png" align="top">
           </div>
-          <div class="four columns role">
+          <div class="four columns role mr1">
               <img src="../assets/img/demo2.png" align="top">
             </div>
             <div class="four columns role mb2">
                 <img src="../assets/img/demo4.png" align="top">
               </div>
         </div>
+
+        <div class="row p10 imgpadtop">
+            <div class="six columns role mr1 mb4">
+              <img src="../assets/img/moment.png" align="top">
+              <i>Moment iOS App</i>
+            </div>
+            <div class="six columns role mb4">
+                <img src="../assets/img/flux2.png" align="top">
+                <i>f.lux Desktop App</i>
+              </div>
+          </div>
 
 
           <div class="row p10">
@@ -280,6 +274,7 @@
          
                      <br> <br> 
          
+                     Announced on June 4, 2018, 
                      <a href="https://www.apple.com/ios/ios-12-preview/?afid=p238%7CsyJvRNrKi-dc_mtid_20925d2q39172_pcrid_273823845588&cid=wwa-us-kwgo-iphone-slid--"> iOS 12</a> will attempt to undo all
                      annoying phone habits we've formed from its original design.  
               

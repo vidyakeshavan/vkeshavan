@@ -183,7 +183,7 @@
                 <div class="row mb2 ">
                         <div class="twelve columns">
                             In the demo reel, we wanted to pay special attention to the
-                            function of hovering near AR markers (in this case, a QR code) and collecting
+                            function of hovering near <a href="https://anymotion.com/en/wissensgrundlagen/augmented-reality-marker">AR markers</a> and collecting
                             objects through the tablet. Throughout the experience, the brand is reinforced
                             with strategically placed posters and calls to social media action.   </div>
                 </div>

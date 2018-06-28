@@ -53,7 +53,12 @@
     </div> 
 
     <div class="row p10 imgpadtop">
-      <div class="six columns role mb4 ">
+          <i> “The oldest and strongest 
+    emotion of mankind is fear, and the oldest and 
+    strongest kind of fear is fear of the <b>unknown </b>” - H.P. Lovecraft</i>
+
+    <br> <br>
+      <div class="six columns role mb4 "> 
        We were challenged to conceptualize and design a 
        conference brand would shed light on the 
        ethical and moral uncertainties we face in the 
@@ -90,11 +95,6 @@
 
 <div class="row p10 imgpadtop">
 <div class="twelve columns role mb4 ">
-    <!-- <i> “The oldest and strongest 
-    emotion of mankind is fear, and the oldest and 
-    strongest kind of fear is fear of the <b>unknown </b>” - H.P. Lovecraft</i>
-
-    <br> <br> -->
   
   The tone  of the conference is to demystify and
   shed light on unknown tech future ahead, so we wanted our brand 
