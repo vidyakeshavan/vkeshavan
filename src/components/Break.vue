@@ -99,25 +99,40 @@
 
 
        <div class="row p10 imgpadtop">
-          <div class="four columns role mr2 mb4">
-            <img src="../assets/img/demo1.png" align="top">
+          <div class="four columns role mr1">
+            <img src="../assets/img/audience1.png" align="top">
           </div>
           <div class="four columns role mr1">
-              <img src="../assets/img/demo2.png" align="top">
+              <img src="../assets/img/audience2.png" align="top">
             </div>
-            <div class="four columns role mb2">
-                <img src="../assets/img/demo4.png" align="top">
+            <div class="four columns role">
+                <img src="../assets/img/audience3.1.png" align="top">
               </div>
         </div>
 
-        <div class="row p10">
+        <div class="row p10 imgpadtop">
             <div class="twelve columns role ">
-           Balance, Effiency, Timed Saved, Agency, and 
-           Convenience were some of the overwhelming themes I found when interviewing. 
-           However, it became more clear 
+          Teenagers <i> were aware </i> of their excessive phone use, but
+           also did not feel a pressing need to change their habits. Because phones allow young people a 
+           form of agency they can't get at home with their parents' watchful eye, limiting phone use wasn't 
+           in the cards for them.
                </div>
-  
          </div> 
+
+         <div class="row p10 imgpadtop">
+            <div class="eight columns role">   
+                Instead, I found myself better understanding
+            a need for change from the adults themselves. When asked what a healthy
+            relationship with personal technology should look  like, common themes that came up in conversation were: <b> 
+               Balance, Effiency, Timed Saved, and Convenience. </b> I found an that an 
+               overwhelming amount of adults felt codependency with personal technology and 
+               instead wanted to make their phones a "sometimes thing". I began to shift my 
+               focus onto a broader audience for which a digital product that limited excessive phone use could truly be in-demand. 
+             </div>
+             <div class="four columns role mr2 imgpadtop">
+              <img src="../assets/img/audience4.png" align="top">
+            </div>
+          </div>
 
         <div class="row p10 imgpadtop">
             <div class="six columns role mr1 mb4">
@@ -145,28 +160,36 @@
             Bringing the Concept to Life
             </div>
           </div>  
-          <div class="row p10">
-              <div class="six columns role mb2 ">
-                  there are no public APIs for tracking app use on an iOS device
 
-                 </div>
-                 <div class="six columns role ">
-                    When I began this project in early 2018, I became increasingly aware of 
-                    the massive, media-fueled concern that our society is totally tech addicted. 
-                    Industry experts and parents alike made the case that if adults 
-                    feel this way about themselves, what does it mean for the teens and children who've never known 
-                    life without a device?
-                      </div>
-           </div> 
   
           <div class="row p10 imgpadtop imgpadbot">
             <div class="six columns">
-                <img src="../assets/img/paperprototype.png" align="top">
+                <img src="../assets/img/sketching3.png" align="top">
               </div>
-              <div class="six columns">
-                  <img src="../assets/img/prototypingwfriends.png" align="top">
-                </div>
+              <div class="six columns role mb2 ">
+                  there are no public APIs for tracking app use on an iOS device
+                  When I began this project in early 2018, I became increasingly aware of 
+                  the massive, media-fueled concern that our society is totally tech addicted. 
+                  Industry experts and parents alike made the case that if adults 
+                  feel this way about themselves, what does it mean for the teens and children who've never known 
+                  life without a device?
+
+                 </div>
             </div>
+
+            <div class="row p10">
+                <div class="six columns role mb2 ">
+                    there are no public APIs for tracking app use on an iOS device
+  
+                   </div>
+                   <div class="six columns role ">
+                      When I began this project in early 2018, I became increasingly aware of 
+                      the massive, media-fueled concern that our society is totally tech addicted. 
+                      Industry experts and parents alike made the case that if adults 
+                      feel this way about themselves, what does it mean for the teens and children who've never known 
+                      life without a device?
+                        </div>
+             </div> 
 
             <div class="row p10">
                 <div class="six columns role ">

@@ -12,7 +12,7 @@
               <router-link to="/" class="workhover" exact>Work</router-link> &nbsp;&nbsp;&nbsp;
               <router-link to="/about" class="abouthover" exact>About</router-link>
             </div>
-      </div> 
+      </div>
     </div>
 
     <router-view/>
@@ -113,6 +113,10 @@ iframe {
 
 img.ipad {
   width:40%;
+}
+
+.navbarfull {
+  background-color: white;
 }
 
 .navbar {
@@ -465,9 +469,13 @@ p {
   
 }
 
+.demoback {
+  background-color: pink;
+}
+
 .p10 {
-  padding-left: 18%;
-  padding-right: 18%;
+  padding-left: 23%;
+  padding-right: 23%;
 }
 
 .p10about {
@@ -534,9 +542,7 @@ p {
   margin-right: 4%;
 }
 
-#Top {
-  text-align: center;
-}
+
 
 
 
