@@ -238,13 +238,14 @@
 
                
           
-                   <div id="app">
-                        <VueElevator word="Scroll to Top" duration="4000"></VueElevator>
-                      </div>
+            
 
       <div class="footer">
             <div class="footertext">
               Next Up 
+              <div id="app">
+                    <VueElevator word="Top" duration="4000"></VueElevator>
+                  </div>
             </div>
             <div class="footerheadline">
                 <router-link to="Unknown" exact>  
