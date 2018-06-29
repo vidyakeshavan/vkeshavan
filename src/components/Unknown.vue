@@ -247,13 +247,16 @@ attendees that budding technologies are
       </div>
 
                 
-      <div id="app">
+      <!-- <div id="app">
           <VueElevator word="Scroll to Top" duration="4000"></VueElevator>
-        </div>
+        </div> -->
 
 <div class="footer">
   <div class="footertext">
     Next Up 
+    <div id="app">
+        <VueElevator word="Top" duration="4000"></VueElevator>
+      </div>
   </div>
   <div class="footerheadline">
       <router-link to="Break" exact>  

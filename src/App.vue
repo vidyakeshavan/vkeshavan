@@ -216,6 +216,7 @@ img {
   filter: opacity(90%);
   background: whitesmoke;
   text-decoration: none;
+  /* position: fixed; */
 }
 
 .footertext {
@@ -359,7 +360,7 @@ a {
     .aboutpage {
     width: 100%;
     margin-top: 30%; }
-    #app {
+    #apps {
     width: 100%;
     margin-top: 30%; }
 }
@@ -371,7 +372,7 @@ a {
     .aboutpage {
     width: 100%;
     margin-top: 10%; }
-    #app {
+    #apps {
     width: 100%;
     margin-top: 10%; }
   .column,
@@ -525,11 +526,17 @@ p {
 }
 
 #app {
-  text-align: center;
-  margin-bottom: 1%;
+  min-height: 10vh;
+  float: right;
+  font-size: 18px;
+  /* margin-bottom: 1%; */
   text-color: black;
+  margin-right: 4%;
 }
 
+#Top {
+  text-align: center;
+}
 
 
 

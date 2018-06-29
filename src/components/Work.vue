@@ -1,7 +1,7 @@
 <template>
   <div class="HelloWorld">
     <!-- this is what i copied from codepen -->
-   <div id="app" :class="'item_'+(active+1)">
+   <div id="apps" :class="'item_'+(active+1)">
      <!--transition-group.items(name='slider', mode='out-in', tag='ul')-->
      <ul class="items">
        <li v-for="item, index in items" :class="{ active: index === active }"
@@ -99,35 +99,35 @@ text-decoration: none;
 font-size: 1.2em;
 }
 
-#app.item_4 a  {
+#apps.item_4 a  {
 color: black;
 font-family: 'acme', sans-serif;
 text-decoration: none;
 font-size: 1.2em;
 }
 
-#app.item_5 a  {
+#apps.item_5 a  {
 color: black;
 font-family: 'acme', sans-serif;
 text-decoration: none;
 font-size: 1.2em;
 }
 
-#app {
-  min-height: 80vh;
-  /* margin-top: 10%; */
+#apps {
+  min-height: 90vh;
+  margin-top: 10%;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: top;
   color: #fff;
 }
-#app >* {
+#apps >* {
   padding: 1.8em;
   max-width: 400px;
 }
 
-#app .item_text {
+#apps .item_text {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;  
   text-align: left;
@@ -137,17 +137,17 @@ font-size: 1.2em;
 item_4 {
   color:#000;
 } 
-#app.item_1 {
+#apps.item_1 {
   border-left: 4px solid #000;
   background: #000 url("  ../assets/img/breakmock.png") center/cover no-repeat;  
 }
-#app.item_2 {
+#apps.item_2 {
   background: #000 url("../assets/img/smithsonianexp.png") center/cover no-repeat;
 }
-#app.item_3 {
+#apps.item_3 {
   background: #000 url(" ../assets/img/tshirtbw.png") center/cover no-repeat;
 }
-#app.item_4 {
+#apps.item_4 {
   background: #fff url("../assets/img/palcare.jpg") center/cover no-repeat;
   color:#000;
 }
