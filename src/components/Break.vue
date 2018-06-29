@@ -257,13 +257,23 @@
 
           <div class="row p10 imgpadtop imgpadbot">
               <div class="twelve columns role mr2">
-                <img src="../assets/img/animationsbreaktypes4.gif" align="top">
+                <img src="../assets/img/onboardanimation.gif" align="top">
               </div>
             </div>
 
-            <div class="row p10 imgpadtop imgpadbot">
+            <div class="row p10">
+                <div class="twelve columns role ">
+                 When I began this project in early 2018, I became increasingly aware of 
+                 the massive, media-fueled concern that our society is totally tech addicted. 
+                 Industry experts and parents alike made the case that if adults 
+                 feel this way about themselves, what does it mean for the teens and children who've never known 
+                 life without a device?
+                   </div>
+             </div> 
+
+             <div class="row p10 imgpadtop imgpadbot">
                 <div class="twelve columns role mr2">
-                  <img src="../assets/img/animationsbreakfeatures2.gif" align="top">
+                  <img src="../assets/img/onboardanimation.gif" align="top">
                 </div>
               </div>
 

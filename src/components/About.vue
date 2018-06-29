@@ -35,12 +35,12 @@
               information and services more accessible to users as effectively as the way <a href="https://www.youtube.com/watch?v=27HIPU7tUaY&feature=youtu.be&t=4">Anthony Bourdain can use 
                 three-day-old halibut</a> to explain what a Collateralized Debt Obligation is, then I've more than done my job.
                 <br> <br>
-
-              For that reason, I take a human-centered and strategic approach in everything I do with dedicated user research,
-              prototyping, system design, testing and iterating.  
+                In other words, 
+              
 
               <br> <br>
-
+              For that reason, I take a human-centered and strategic approach in everything I do with dedicated user research,
+              prototyping, system design, testing and iterating.  
               <!-- I'm also proud to say that I've designed and developed
               this site myself. Although coffee, supermarket sushi (I'm not
               proud of it either), and long dramatic sighs had a
