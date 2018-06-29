@@ -115,12 +115,14 @@ img.ipad {
   width:40%;
 }
 
+
+
 .navbarfull {
   background-color: white;
 }
 
 .navbar {
-  width: 92%;
+  width: 88%;
   padding-left: 20px;
   position: fixed;
   border-left: 0.025px solid #000; */
@@ -227,7 +229,7 @@ img {
   /* padding-bottom: 2%; */
   margin-left: 10%;
   color: black;
-  padding-top: 2%;
+  padding-top: 4%;
   text-decoration: none;
 }
 
@@ -246,7 +248,13 @@ img {
   margin-left: 10%;
   /* margin-bottom: 4%; */
   text-decoration: none;
-  padding-bottom: 2%;
+  padding-bottom: 4%;
+}
+
+.copyright {
+  text-align: center;
+  font-size: 12px;
+  /* background-color: ; */
 }
 
 .fa {

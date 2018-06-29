@@ -18,7 +18,6 @@
                     <a href="https://www.dropbox.com/s/9xyh3o9gop02p1c/Vidya%20Keshavan%20Resume_June%202018%20.pdf?dl=0" download="VidyaKeshavanResume.pdf" class="fa fa-file"></a>
                       <a href="https://www.linkedin.com/in/vidyakeshavan" class="fa fa-linkedin"></a>
                       <a href="https://medium.com/@vidyakeshavan" class="fa fa-medium"></a>
-                      <a href="https://www.instagram.com/vidskesh/" class="fa fa-instagram"></a>
                   </div>
             </div>
           <div class="six columns role abouttext">
@@ -42,21 +41,24 @@
 
               <br> <br>
 
-              I'm also proud to say that I've designed and developed
+              <!-- I'm also proud to say that I've designed and developed
               this site myself. Although coffee, supermarket sushi (I'm not
               proud of it either), and long dramatic sighs had a
               significant hand in its creation. I can tell you all about that, <a href="https://www.newschool.edu/parsons/mps-communication-design/">my graduate work at Parsons,</a>
               and my former life in marketing at <a href="https://www.slate.com/"> Slate Magazine </a> and  
-              <a href="https://www.wsj.com/"> The Wall Street Journal, </a>  over some coffee. And perhaps sushi. 
+              <a href="https://www.wsj.com/"> The Wall Street Journal, </a>  over some coffee. And perhaps sushi.  -->
           </div>
 
         </div>
         <br>
 
+        <div class="copyright">
+            © Vidya Keshavan 2018
+        </div>
+    </div>
 
     </div>
-  
-    </div>
+
 
   </div>
 </template>

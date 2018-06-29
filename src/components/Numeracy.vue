@@ -29,7 +29,7 @@
           </div>
 
           <div class="seven columns">
-            Our team is building a website pilot prototype in 
+            Our team is building a tablet application prototype in 
             partnership with the 
             <a href="http://www.montefiore.org/family-social-medicine-professional-training-programs-palliative-care"> 
               Palliative Care Team</a> at Montefiore Medical Center. 
@@ -95,7 +95,9 @@
           time spent on their smartphones. </i> 
           </div> --> 
         </div> 
-          
+        <div class="copyright">
+            © Vidya Keshavan 2018
+        </div>
       </div>
 
 

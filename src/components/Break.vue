@@ -129,9 +129,9 @@
             relationship with personal technology should look  like, common themes that came up in conversation were: <b> 
                Balance, Effiency, Timed Saved, and Convenience. </b> I found an that an 
                overwhelming amount of adults felt codependency with personal technology and 
-               instead wanted to make their phones a "sometimes thing". I began to shift my 
+               instead wanted to...take a break from it. I began to shift my 
                focus onto a broader audience for which a digital product that limited 
-               excessive phone use could truly be in-demand. If successful for adults, 
+                phone use could truly be in-demand. If successful for adults, 
                teenagers who were willing to make habit changes could adopt the product themselves. 
              </div>
           </div>
@@ -170,15 +170,6 @@
                  </div>
             </div>
 
-            <div class="row p10">
-                <div class="twelve columns role ">
-                 When I began this project in early 2018, I became increasingly aware of 
-                 the massive, media-fueled concern that our society is totally tech addicted. 
-                 Industry experts and parents alike made the case that if adults 
-                 feel this way about themselves, what does it mean for the teens and children who've never known 
-                 life without a device?
-                   </div>
-             </div> 
 
             <div class="row p10 imgpadtop imgpadbot">
                 <div class="twelve columns role mr2">
@@ -186,17 +177,31 @@
                 </div>
               </div>
 
+              <div class="row p10">
+                  <div class="twelve columns role ">
+                   When I began this project in early 2018, I became increasingly aware of 
+                   the massive, media-fueled concern that our society is totally tech addicted. 
+                   Industry experts and parents alike made the case that if adults 
+                   feel this way about themselves, what does it mean for the teens and children who've never known 
+                   life without a device?
+                     </div>
+               </div> 
+
         <div class="row p10 imgpadtop imgpadbot">
-            <div class="four columns role">
-                Industry experts and parents alike made the case that if adults 
-                feel this way about themselves, what does it mean for the teens and children who've never known 
-                life without a device?                Industry experts and parents alike made the case that if adults 
-                feel this way about themselves.
-              </div>  
-          <div class="eight columns role">
+          <div class="twelve columns role">
               <img src="../assets/img/featureset1.png" align="top">
             </div>
           </div>
+
+          <div class="row p10">
+              <div class="twelve columns role ">
+               When I began this project in early 2018, I became increasingly aware of 
+               the massive, media-fueled concern that our society is totally tech addicted. 
+               Industry experts and parents alike made the case that if adults 
+               feel this way about themselves, what does it mean for the teens and children who've never known 
+               life without a device?
+                 </div>
+           </div> 
 
         <div class="row p10 imgpadtop imgpadbot">
             <div class="twelve columns">
@@ -217,6 +222,12 @@
             How Might This Look in the Real World?
             </div>
           </div>  
+
+          <div class="row p10 imgpadtop imgpadbot">
+              <div class="twelve columns role mb2">
+                <img src="../assets/img/elementcollage.png" align="top">
+              </div>
+            </div>
 
           <div class="row p10 imgpadtop imgpadbot">
               <div class="four columns">
@@ -303,6 +314,10 @@
                   <router-link to="minARal" exact>  
                       minARal </router-link> 
                       </div>
+            </div>
+
+            <div class="copyright">
+                © Vidya Keshavan 2018
             </div>
 
         </div> 

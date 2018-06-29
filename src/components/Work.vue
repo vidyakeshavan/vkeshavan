@@ -16,6 +16,9 @@
         <!-- <router-link :to="items[active].rlink"> </router-link> -->
      </div>
    </div>
+   <div class="copyright">
+      © Vidya Keshavan 2018
+  </div>
   </div>
 </template>
 
@@ -46,7 +49,7 @@ let items = [
     subTitle: "Title TBD, Website for Montefiore Medical Center",
     text: "Coming Soon: Web design for ESL patients in need of Advanced Directives & end-of-life care. ",
     img: "",
-    rlink: "",
+    rlink: "Numeracy",
   },
   //   title: "Palliative Care Pilot",
   //   subTitle: "Rapidly Prototyped AR for The Smithsonian",

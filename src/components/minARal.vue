@@ -233,7 +233,7 @@
                       If given the investment opportunity, our team would contract across a 1-year span, 
                       producing MinARal across its lifecycle: from the initial research phases, design & development in AR Kit
                       to long-term exhibit maintenence. 
-                      </div>x
+                      </div>
                    </div>
 
                
@@ -252,6 +252,9 @@
                     Unknown </router-link> 
                     </div>
           </div>
+          <div class="copyright">
+                © Vidya Keshavan 2018
+            </div>
       </div>
     </div>
 </template>
