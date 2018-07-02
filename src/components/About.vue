@@ -41,12 +41,12 @@
               <br> <br>
               For that reason, I take a human-centered and strategic approach in everything I do with dedicated user research,
               prototyping, system design, testing and iterating.  
-              <!-- I'm also proud to say that I've designed and developed
+              I'm also proud to say that I've designed and developed
               this site myself. Although coffee, supermarket sushi (I'm not
               proud of it either), and long dramatic sighs had a
               significant hand in its creation. I can tell you all about that, <a href="https://www.newschool.edu/parsons/mps-communication-design/">my graduate work at Parsons,</a>
               and my former life in marketing at <a href="https://www.slate.com/"> Slate Magazine </a> and  
-              <a href="https://www.wsj.com/"> The Wall Street Journal, </a>  over some coffee. And perhaps sushi.  -->
+              <a href="https://www.wsj.com/"> The Wall Street Journal, </a>  over some coffee. And perhaps sushi. 
           </div>
 
         </div>
