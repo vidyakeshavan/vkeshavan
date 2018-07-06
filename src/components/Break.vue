@@ -58,14 +58,14 @@
          the massive, media-fueled concern that our society is totally tech addicted. 
          Industry experts and parents alike made the case that if adults 
          feel this way about themselves, what does it mean for the teens and children who've never known 
-         life without a device?
+         life without a device? 
 
             <br> <br> 
 
             I began to investigate. What does addiction mean, really? What's causing 
             our society to feel this way - is it social media, or something much bigger than that?
               How can teenagers
-              strike a better balance with their devices  - do the even <i>want</i> to?
+              strike a better balance with their devices  - and do the even <i>want</i> to?
            </div>
      </div> 
 
@@ -127,11 +127,11 @@
                 Instead, I found myself better understanding
             a need for change from the adults themselves. When asked what a healthy
             relationship with personal technology should look  like, common themes that came up in conversation were: <b> 
-               Balance, Effiency, Timed Saved, and Convenience. </b> I found an that an 
-               overwhelming amount of adults felt codependency with personal technology and 
-               instead wanted to...take a break from it. I began to shift my 
-               focus onto a broader audience for which a digital product that limited 
-                phone use could truly be in-demand. If successful for adults, 
+               Balance, Effiency, Promote Wellbeing, Timed Saved, and Convenience. </b> I found an that an 
+               overwhelming amount of adults felt a codependency with personal technology and 
+               instead wanted...to take a break from it. I began to shift my 
+               focus onto a broader audience for which a <b> digital product that limited 
+                  phone use </b> could truly be in-demand. If successful for adults, 
                teenagers who were willing to make habit changes could adopt the product themselves. 
              </div>
           </div>
@@ -160,7 +160,13 @@
                 <img src="../assets/img/sketching4.png" align="top">
               </div>
               <div class="four columns role mb2 ">
-                  there are no public APIs for tracking app use on an iOS device
+                 Of course, this is not the first time an effort to 
+                 improve phone & time management has been made. Web based app
+                flux automatically dims your LED-lit screen to a less 
+                 abrasive shade of orange, helping your adjust for sleep. Mobile 
+                 based app Moment measure the amount of time spent per day on each
+                app you open.  
+                there are no public APIs for tracking app use on an iOS device
                   When I began this project in early 2018, I became increasingly aware of 
                   the massive, media-fueled concern that our society is totally tech addicted. 
                   Industry experts and parents alike made the case that if adults 
@@ -203,11 +209,17 @@
                  </div>
            </div> 
 
-        <div class="row p10 imgpadtop imgpadbot">
-            <div class="twelve columns">
-              <img src="../assets/img/medfi.png" align="top">
+           <div class="row p10 imgpadtop imgpadbot">
+              <div class="twelve columns">
+                <img src="../assets/img/medfi.png" align="top">
+              </div>
             </div>
-          </div>
+
+            <div class="row p10 imgpadtop imgpadbot">
+                <div class="twelve columns">
+                  <img src="../assets/img/sitemap.png" align="top">
+                </div>
+              </div>
 
           <div class="row p10 ">
               <div class="border">
