@@ -172,7 +172,7 @@ ul {
 .items:before {
   font-family: "Open Sans", sans-serif;
   color: ;
-  content: "check it out, don't be shy";
+  content: "projects";
   display: block;
   margin-bottom: 1em;
   letter-spacing: 0.1em;

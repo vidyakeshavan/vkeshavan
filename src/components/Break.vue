@@ -209,11 +209,11 @@
                  </div>
            </div> 
 
-           <div class="row p10 imgpadtop imgpadbot">
+           <!-- <div class="row p10 imgpadtop imgpadbot">
               <div class="twelve columns">
                 <img src="../assets/img/medfi.png" align="top">
               </div>
-            </div>
+            </div> -->
 
             <div class="row p10 imgpadtop imgpadbot">
                 <div class="twelve columns">
@@ -285,7 +285,7 @@
 
              <div class="row p10 imgpadtop imgpadbot">
                 <div class="twelve columns role mr2">
-                  <img src="../assets/img/onboardanimation.gif" align="top">
+                  <img src="../assets/img/idristry1.gif" align="top">
                 </div>
               </div>
 

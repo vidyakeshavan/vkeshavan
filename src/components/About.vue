@@ -31,22 +31,23 @@
 
               <!-- <br> <br> -->
 
-              It's as simple as this: If my product and experience design practice can make complicated 
+              <!-- It's as simple as this: If my design practice can make complicated 
               information and services more accessible to users as effectively as the way <a href="https://www.youtube.com/watch?v=27HIPU7tUaY&feature=youtu.be&t=4">Anthony Bourdain can use 
                 three-day-old halibut</a> to explain what a Collateralized Debt Obligation is, then I've more than done my job.
-                <br> <br>
-                In other words, 
-              
+                <br> <br> -->
+                 I focus on user experience and digital product design, though I began my
+                career planning digital marketing initiatives for <a href="www.slate.com">Slate Magazine</a> and <a href="www.wsj.com">The Wall Street Journal.</a>
+                 There, I learned that the medium is unquestionably the message, and wanted to explore how information 
+                 was being consumed through its design.  With a masters in <a href="https://www.newschool.edu/parsons/mps-communication-design/">
+                    Product & Communication Design from Parsons</a> under my belt, I take a human-centered approach to 
+                  every project with dedicated research, prototyping, information architecture, and
+                  content strategy.
 
               <br> <br>
-              For that reason, I take a human-centered and strategic approach in everything I do with dedicated user research,
-              prototyping, system design, testing and iterating.  
               I'm also proud to say that I've designed and developed
               this site myself. Although coffee, supermarket sushi (I'm not
               proud of it either), and long dramatic sighs had a
-              significant hand in its creation. I can tell you all about that, <a href="https://www.newschool.edu/parsons/mps-communication-design/">my graduate work at Parsons,</a>
-              and my former life in marketing at <a href="https://www.slate.com/"> Slate Magazine </a> and  
-              <a href="https://www.wsj.com/"> The Wall Street Journal, </a>  over some coffee. And perhaps sushi. 
+              significant hand in its creation. I can tell you all about that over some coffee. And perhaps sushi. 
           </div>
 
         </div>
