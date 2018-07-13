@@ -26,6 +26,14 @@
 
 let items = [
   {
+    title: "Palliative Care Website",
+    subTitle: "Title TBD, Website for Montefiore Medical Center",
+    text: "Coming Soon: Web design for ESL patients in need of Advanced Directives & end-of-life care. ",
+    img: "",
+    rlink: "Numeracy",
+  },
+
+  {
     title: "break",
     subTitle: "Mobile Product Design",
     text: "break is an application that empowers users to break their phone-related wellness and time management issues.",
@@ -44,13 +52,7 @@ let items = [
     text: "UNKNOWN is a conference that explores the unknown implications technology will have on our future.",
     img: "",
     rlink: "Unknown",   
-  },{
-    title: "Palliative Care Website",
-    subTitle: "Title TBD, Website for Montefiore Medical Center",
-    text: "Coming Soon: Web design for ESL patients in need of Advanced Directives & end-of-life care. ",
-    img: "",
-    rlink: "Numeracy",
-  },
+  }
   //   title: "Palliative Care Pilot",
   //   subTitle: "Rapidly Prototyped AR for The Smithsonian",
   //   text: "MinARal is an augmented reality children's game conceptualized in partnership with the NMNH.",
@@ -102,7 +104,7 @@ text-decoration: none;
 font-size: 1.2em;
 }
 
-#apps.item_4 a  {
+#apps.item_1 a  {
 color: black;
 font-family: 'acme', sans-serif;
 text-decoration: none;
@@ -141,19 +143,21 @@ item_4 {
   color:#000;
 } 
 #apps.item_1 {
-  border-left: 4px solid #000;
-  background: #000 url("  ../assets/img/breakmock.png") center/cover no-repeat;  
-}
-#apps.item_2 {
-  background: #000 url("../assets/img/smithsonianexp.png") center/cover no-repeat;
-}
-#apps.item_3 {
-  background: #000 url(" ../assets/img/tshirtbw.png") center/cover no-repeat;
-}
-#apps.item_4 {
   background: #fff url("../assets/img/palcare.jpg") center/cover no-repeat;
   color:#000;
 }
+#apps.item_2 {
+  border-left: 4px solid #000;
+  background: #000 url("  ../assets/img/breakmock.png") center/cover no-repeat;  
+}
+#apps.item_3 {
+  background: #000 url("../assets/img/smithsonianexp.png") center/cover no-repeat;
+}
+#apps.item_4 {
+  background: #000 url(" ../assets/img/tshirtbw.png") center/cover no-repeat;
+}
+
+
 /* #app.item_5 {
   background: #000 url("../assets/img/timedwellmock.png") center/cover no-repeat;
   color:#000;

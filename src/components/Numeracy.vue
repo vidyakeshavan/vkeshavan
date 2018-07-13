@@ -33,7 +33,7 @@
             partnership with the 
             <a href="http://www.montefiore.org/family-social-medicine-professional-training-programs-palliative-care"> 
               Palliative Care Team</a> at Montefiore Medical Center. 
-            The website aims to deepen comprehension of end-of-life care and decision making
+            The app aims to deepen comprehension of end-of-life care and decision making
             for English as a Second Language patients, and improve their quality of life by promoting 
             earlier intervention.  
           </div>
