@@ -27,10 +27,10 @@
 let items = [
   {
     title: "Palliative Care Website",
-    subTitle: "Title TBD, Website for Montefiore Medical Center",
-    text: "Coming Soon: Web design for ESL patients in need of Advanced Directives & end-of-life care. ",
+    subTitle: "Title TBD, Tablet App for Montefiore Medical Center",
+    text: "Coming Soon: App design for ESL patients in need of Advanced Directives & end-of-life care. ",
     img: "",
-    rlink: "Numeracy",
+    rlink: "Palcare",
   },
 
   {

@@ -4,7 +4,7 @@ import Work from '@/components/Work';
 import minARal from '@/components/minARal';
 import About from '@/components/About';
 import Break from '@/components/Break';
-import Numeracy from '@/components/Numeracy';
+import Palcare from '@/components/Palcare';
 import Unknown from '@/components/Unknown';
 import Palliativecare from '@/components/Palliativecare';
 import { VueElevator } from 'vue-elevator'
@@ -35,9 +35,9 @@ export default new Router({
       component: Break,
     },
     {
-      path: '/numeracy',
-      name: 'Numeracy',
-      component: Numeracy,
+      path: '/palcare',
+      name: 'Palcare',
+      component: Palcare,
     },
     {
       path: '/unknown',

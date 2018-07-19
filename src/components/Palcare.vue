@@ -6,11 +6,11 @@
         <!-- columns should be the immediate child of a .row -->
 
         <div class="row p4one">
-          <div class="twelve columns headlinepal"> <b>Palliative Care Website</b></div>
+          <div class="twelve columns headlinepal"> <b>Palliative Care Tablet App</b></div>
         </div>
 
         <div class="row p4one">
-          <div class="twelve columns subheadpal"> Title TBD Website for Montefiore Medical Center </div>
+          <div class="twelve columns subheadpal"> Title TBD App for Montefiore Medical Center </div>
         </div>
 
         <div class="row">
