@@ -147,8 +147,7 @@ item_4 {
   color:#000;
 }
 #apps.item_2 {
-  border-left: 4px solid #000;
-  background: #000 url("  ../assets/img/breakmock.png") center/cover no-repeat;  
+    background: #000 url("  ../assets/img/breakmock.png") center/cover no-repeat;  
 }
 #apps.item_3 {
   background: #000 url("../assets/img/smithsonianexp.png") center/cover no-repeat;

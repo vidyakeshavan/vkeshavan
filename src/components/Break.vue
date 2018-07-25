@@ -16,7 +16,7 @@
         <div class="row">
           <div class="twelve columns">
             <div class="hero">
-              <img src="../assets/img/breakcolor.png" align="top"> 
+              <img src="../assets/img/breakherojuly.png" align="top"> 
             </div>
           </div>
         </div>
@@ -329,8 +329,8 @@
               <div class="footertext">
                 Next Up 
                 <div id="app">
-                    <VueElevator word="Top" duration="4000"></VueElevator>
-                  </div>
+                  <VueElevator word="Top" duration="4000" mainAudio="mainAudio" endAudio="endAudio"></VueElevator>
+                </div>
               </div>
               <div class="footerheadline">
                   <router-link to="minARal" exact>  

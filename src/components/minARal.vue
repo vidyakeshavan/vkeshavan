@@ -244,7 +244,7 @@
             <div class="footertext">
               Next Up 
               <div id="app">
-                    <VueElevator word="Top" duration="4000"></VueElevator>
+                    <VueElevator word="Top" duration="4000" mainAudio="mainAudio" endAudio="endAudio"></VueElevator>
                   </div>
             </div>
             <div class="footerheadline">
