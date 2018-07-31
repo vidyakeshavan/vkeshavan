@@ -42,7 +42,7 @@ let items = [
   },{
     title: "minARal",
     subTitle: "Experience Design for The Smithsonian",
-    text: "MinARal is an augmented reality children's game rapidly prototyped for the National Museum of Natural History.",
+    text: "MinARal is an augmented reality children's game concept rapidly prototyped for the National Museum of Natural History.",
     img: "",
     rlink: "minARal",
   },
@@ -120,7 +120,7 @@ font-size: 1.2em;
 
 #apps {
   min-height: 90vh;
-  margin-top: 10%;
+    margin-top: 10%;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -150,7 +150,7 @@ item_4 {
     background: #000 url("  ../assets/img/breakcolor.png") center/cover no-repeat;  
 }
 #apps.item_3 {
-  background: #000 url("../assets/img/smithexp.png") center/cover no-repeat;
+  background: #000 url("../assets/img/collection.png") center/cover no-repeat;
 }
 #apps.item_4 {
   background: #000 url(" ../assets/img/tshirtman2.png") center/cover no-repeat;

@@ -23,8 +23,8 @@
 
         <div class="row p10">
           <div class="four columns mb2 mr2 role">
-           <b> Role: </b> Product Design, User Research, Product Management <br> 
-           <b> Status: </b> Ongoing, Summer '18 <br>
+           <b> Role: </b> Freelance Product Design, User Research, Product Management <br> 
+           <b> Status: </b> Ongoing, Summer/Fall '18 <br>
            <b> Team: </b> Vidya Keshavan, Patricia Robinson
           </div>
 
