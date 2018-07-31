@@ -183,7 +183,7 @@
 
           <div class="row p10 imgpadtop imgpadbot">
               <div class="twelve columns role mr2">
-             Based on this basic principle and feature set, I designed the medium fidelity 
+             Based on these principle features, I designed the <b> medium fidelity </b> 
              version of the concept with three distinct components: Onboarding, Insights, and Feedback. 
               </div>
             </div>
@@ -215,15 +215,25 @@
             What Users Really Thought
             </div>
           </div> 
+
+          <div class="row p10 imgpadtop imgpadbot">
+              <div class="twelve columns role mr2">
+             Users tested the interaction and core function of the medium fidelity prototype. Their suggestions 
+             inspired the below changes from the initial to more finalized versions of the Onboarding, Insights, and Feedback components 
+             of the app.  
+              </div>
+            </div>
           
           <div class="row p10 imgpadtop imgpadbot">
               <div class="twelve columns role mb2">
+                <b> Onboarding </b>  <br> <br>
                 <img src="../assets/img/testingob.png" align="top">
               </div>
             </div>
 
             <div class="row p10 imgpadtop imgpadbot">
                 <div class="twelve columns role mb2">
+                    <b> Insights </b> <br> <br>
                   <img src="../assets/img/testinginsights.png" align="top">
                 </div>
               </div>
@@ -231,6 +241,7 @@
 
             <div class="row p10 imgpadtop imgpadbot">
                 <div class="twelve columns role mb2">
+                    <b> Feedback </b> <br> <br>
                   <img src="../assets/img/testingfeedback.png" align="top">
                 </div>
               </div>
@@ -250,10 +261,26 @@
           </div>  
 
           <div class="row p10 imgpadtop imgpadbot">
+              <div class="twelve columns role mr2">
+             The testing also helped inform the app's architecture, features, and heart of product. In below map, 
+             break's customized feedback loop is illustrated below. 
+              </div>
+            </div>
+
+          <div class="row p10 imgpadtop imgpadbot">
               <div class="twelve columns">
                 <img src="../assets/img/sitemap.png" align="top">
               </div>
             </div>
+
+            <div class="row p10 imgpadtop imgpadbot">
+                <div class="twelve columns role mr2">
+                    The users also enjoyed the app's brand identity, noting that they'd be engaged in the app and
+                    return for more due to its humorous copy, and aesthetic minimalism.
+                </div>
+              </div>
+
+      
 
           <div class="row p10 imgpadtop imgpadbot">
               <div class="twelve columns role mb2">
