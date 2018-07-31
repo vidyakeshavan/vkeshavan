@@ -482,7 +482,7 @@ p {
 }
 
 .p10 {
-  padding-left: 25;
+  padding-left: 25%;
   padding-right: 25%;
 }
 
