@@ -482,8 +482,8 @@ p {
 }
 
 .p10 {
-  padding-left: 23%;
-  padding-right: 23%;
+  padding-left: 25;
+  padding-right: 25%;
 }
 
 .p10about {

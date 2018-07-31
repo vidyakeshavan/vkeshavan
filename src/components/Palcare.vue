@@ -16,7 +16,7 @@
         <div class="row">
           <div class="twelve columns">
             <div class="hero">
-              <img src="../assets/img/palcare2.jpg" align="top"> 
+              <img src="../assets/img/rosa.png" align="top"> 
             </div>
           </div>
         </div>
@@ -38,15 +38,15 @@
             earlier intervention.  <br> <br> We don’t want to reinvent the design wheel: doing so would undermine the goal of achieving patient comfort. 
             Instead we aim to humanize the experience of personal 
             healthcare comprehension and action by applying UI 
-            patterns generally found in successful digital communication
-             and education platforms such as <a href="https://i.pinimg.com/originals/41/99/0b/41990bbb673a46b427859d116753feb2.png">Slack</a>,
+            patterns generally found in successful digital communication and education platforms.
+             <!-- and education platforms. such as <a href="https://i.pinimg.com/originals/41/99/0b/41990bbb673a46b427859d116753feb2.png">Slack</a>,
             <a href="https://vignette.wikia.nocookie.net/duolingo/images/c/c5/Mobile_Skills.gif/revision/latest?cb=20140811184510">Duolingo</a>,
             <a href="https://cdn.vox-cdn.com/thumbor/rIxxBEQYNLSTGiUmx1YDygRnaNY=/0x0:1763x1776/1200x0/filters:focal(0x0:1763x1776)/cdn.vox-cdn.com/uploads/chorus_asset/file/6148611/ImageJoiner-2016-03-05_at_11.06.55_AM.0.png">Digit</a>, 
-            and so on. 
+            and so on.  -->
           </div>
        </div>
       
-       <div class="row p10 imgpadbot mt2">
+       <div class="row p10 imgpadtop">
         <div class="twelve columns csgoal">
          Full case study coming soon.
         </div>
@@ -102,9 +102,9 @@
           time spent on their smartphones. </i> 
           </div> --> 
         </div> 
-        <div class="copyright">
+        <!-- <div class="copyright">
             © Vidya Keshavan 2018
-        </div>
+        </div> -->
       </div>
 
 

@@ -26,7 +26,7 @@
 
 let items = [
   {
-    title: "Palliative Care Website",
+    title: "Palliative Care App",
     subTitle: "Title TBD, Tablet App for Montefiore Medical Center",
     text: "Coming Soon: App design for ESL patients in need of Advanced Directives & end-of-life care. ",
     img: "",
@@ -129,7 +129,7 @@ font-size: 1.2em;
 }
 #apps >* {
   padding: 1.8em;
-  max-width: 400px;
+  max-width: 450px;
 }
 
 #apps .item_text {
@@ -143,17 +143,17 @@ item_4 {
   color:#000;
 } 
 #apps.item_1 {
-  background: #fff url("../assets/img/palcare.jpg") center/cover no-repeat;
+  background: #fff url("../assets/img/rosa6.png") center/cover no-repeat;
   color:#000;
 }
 #apps.item_2 {
-    background: #000 url("  ../assets/img/breakmock.png") center/cover no-repeat;  
+    background: #000 url("  ../assets/img/breakcolor.png") center/cover no-repeat;  
 }
 #apps.item_3 {
-  background: #000 url("../assets/img/smithsonianexp.png") center/cover no-repeat;
+  background: #000 url("../assets/img/smithexp.png") center/cover no-repeat;
 }
 #apps.item_4 {
-  background: #000 url(" ../assets/img/tshirtbw.png") center/cover no-repeat;
+  background: #000 url(" ../assets/img/tshirtman2.png") center/cover no-repeat;
 }
 
 
