@@ -37,11 +37,12 @@
                 <br> <br> -->
                  I focus on user experience and digital product design, though I began my
                 career planning digital marketing initiatives for <a href="https://www.slate.com">Slate Magazine</a> and <a href="https://www.wsj.com">The Wall Street Journal.</a>
-                 There, I learned that the medium is unquestionably the message, and wanted to explore how a platform's information 
-                 was being consumed and acted on through its design.  With a masters in <a href="https://www.newschool.edu/parsons/mps-communication-design/">
-                    Product & Communication Design from Parsons</a> under my belt, I take a human-centered approach to 
-                  every project with dedicated research, prototyping, information architecture, and
-                  content strategy.
+                 There, I discovered how powerful well designed information can be if it can inspire action and change. 
+                 
+                 
+                  With a masters in <a href="https://www.newschool.edu/parsons/mps-communication-design/">
+                    Product & Communication Design from Parsons</a> under my belt, I'm committed to transforming and simplifying
+                    complicated information and services into something more human-centered and accessible.
 
               <br> <br>
               I'm also proud to say that I've designed and developed
