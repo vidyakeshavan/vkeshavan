@@ -263,9 +263,9 @@ attendees that budding technologies are
           Break </router-link> 
           </div>
 </div>
-<div class="copyright">
+<!-- <div class="copyright">
     © Vidya Keshavan 2018
-</div>
+</div> -->
 </div>
 
 <!-- <div class="row p10">

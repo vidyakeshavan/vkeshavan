@@ -118,7 +118,7 @@
                Balance, Effiency, Promote Wellbeing, Timed Saved, and Convenience. </b> I found most adults
               felt codependent to their phones and craved taking a break from it. 
              </div>
-             <div class="four columns role">
+             <div class="four columns role mb4">
                 <img src="../assets/img/audience4.png" align="top">
               </div>
           </div>
@@ -140,10 +140,18 @@
 
           <div class="row p10 imgpadtop">
               <div class="twelve columns role mr2">
-          <i> break</i> was developed with four rounds of prototyping and testing from paper, 
-                    to low-fidelity, medium-fidelity, and high-fidelity. I focused solutions and features that could
+          <i> break</i> was developed with four rounds of prototyping and testing from <a href="https://medium.com/major-studio-2-parsons-vk-2018/paper-prototypes-5cbaadd0b1fa">paper, to low-fidelity,</a>
+                    <a href="https://medium.com/major-studio-2-parsons-vk-2018/prototyping-in-medium-fi-where-all-the-action-happens-f05fbc0d074b">medium-fidelty,</a> and high-fidelity. I focused on solutions and features that could
                     improve wellbeing by limiting the amount of time spent on devices. Within the first two rounds 
-                    of prototpying and testing, I discovered that users want accountability 
+                    of prototpying and testing, I discovered that users thought their phone use was troublesome in the following scenarios:
+                    <br> <br>
+                    1. Right when they woke up and right before they fell asleep <br>
+                    2. At Work or School <br>
+                    3. Creating emotional stress from overwhelming social media or communication apps <br>
+                    4. When they could have been chatting with friends or family face to face, rather than glued to their device <br>
+                    5. When they were procrastinating or putting off doing something important <br>
+                    <br>
+                    I also found that several testers wanted accountability 
                     for their phone activity, but do the least amount of work to get to that goal. <br> <br> 
               </div>
             </div>
@@ -168,11 +176,11 @@
                 every day to help the app calculate time spent on each application. 
                  Instead, I chose to use the "phone unlock" as a metric that measured 
                 time spent on a device. It is a simple and vague, yet powerful enough 
-                of measurement to inspire change. After an unlock, your phone would send you a reminder
+                of a measurement to inspire change. After an unlock, your phone would send you a reminder
                 depending on your progress toward your time goal. <br> <br> Below is the basic  <b> user's journey: </b> 
             
                 </div>
-              </div>
+              </div>  
 
 
         <div class="row p10 imgpadtop imgpadbot">
@@ -183,8 +191,14 @@
 
           <div class="row p10 imgpadtop imgpadbot">
               <div class="twelve columns role mr2">
+              <b> How it Works </b> <br> <br>
              Based on these principle features, I designed the <b> medium fidelity </b> 
              version of the concept with three distinct components: Onboarding, Insights, and Feedback. 
+             When onboarding, the user will indicate why they want to cut down on phone use, how much
+             they'd like to cut down by, and what time of day they typically spend on the device. 
+             Over time, the phone measures the how often you unlock your phone and the time spent on the device once you do. 
+            It then sends you reminders 
+             with targeted copy at the time of day you wish to step away from your phone. 
               </div>
             </div>
 
@@ -228,6 +242,11 @@
               <div class="twelve columns role mb2">
                 <b> Onboarding </b>  <br> <br>
                 <img src="../assets/img/testingob.png" align="top">
+                <br> <br>
+                The biggest content change from the previous prototype is the ability to
+                categorize the type of break one takes (ie. a focus on stress relief vs. productivity).
+                The reminders sent based on the category chosen will directly relate to the topic (ie. reminders about
+                healthy sleep if a "Nighttime" break is chosen during onboarding.)
               </div>
             </div>
 
@@ -256,59 +275,59 @@
     
            <div class="row p10">
             <div class="eight columns imgpadbot csgoal">
-             System Design
+             System & Interaction Design
             </div>
           </div>  
 
-          <div class="row p10 imgpadtop imgpadbot">
+          <div class="row p10 imgpadtop">
               <div class="twelve columns role mr2">
-             The testing also helped inform the app's architecture, features, and heart of product. In below map, 
-             break's customized feedback loop is illustrated below. 
+             The testing helped inform the app's architecture, features, and heart of product. In below map, 
+             break's customized feedback loop is illustrated below. The users also enjoyed the app's brand identity, noting that they'd be engaged in the app and
+             return for more due to its humorous copy, and aesthetic minimalism.
               </div>
             </div>
 
           <div class="row p10 imgpadtop imgpadbot">
-              <div class="twelve columns">
+              <div class="six columns">
                 <img src="../assets/img/sitemap.png" align="top">
               </div>
-            </div>
-
-            <div class="row p10 imgpadtop imgpadbot">
-                <div class="twelve columns role mr2">
-                    The users also enjoyed the app's brand identity, noting that they'd be engaged in the app and
-                    return for more due to its humorous copy, and aesthetic minimalism.
+              <div class="six columns role mb2">
+                  <img src="../assets/img/elementcollage.png" align="top">
                 </div>
-              </div>
-
-      
-
-          <div class="row p10 imgpadtop imgpadbot">
-              <div class="twelve columns role mb2">
-                <img src="../assets/img/elementcollage.png" align="top">
-              </div>
             </div>
+
 
           <div class="row p10 imgpadtop imgpadbot">
               <div class="twelve columns role mr2">
+                  <b> Onboarding Interaction Design</b> <br> <br>
                 <img src="../assets/img/onboardanimation.gif" align="top">
               </div>
             </div>
 
             <div class="row p10">
-                <div class="twelve columns role ">
-                 When I began this project in early 2018, I became increasingly aware of 
-                 the massive, media-fueled concern that our society is totally tech addicted. 
-                 Industry experts and parents alike made the case that if adults 
-                 feel this way about themselves, what does it mean for the teens and children who've never known 
-                 life without a device?
+                <div class="twelve columns role mb2">
+                 The extensive onboarding flow gives the user context and the 
+                 opportunity to customize their path to minimal phone use. 
                    </div>
              </div> 
 
              <div class="row p10 imgpadtop imgpadbot">
                 <div class="twelve columns role mr2">
+                    <b> The Light Sleeper: A Use Case </b> <br> <br>
                   <img src="../assets/img/idristry1.gif" align="top">
                 </div>
               </div>
+
+              <div class="row p10">
+                  <div class="twelve columns role mb2 ">
+                   A user that has trouble falling asleep because they are hooked
+                   to their phone in bed is an excellent candidate for <i> break.</i> The 
+                   application will measure the user's activity and progress toward a goal of 1.5 hours of usage around bed time. 
+                   Targeted reminders with copy on good sleep hygiene will appear if the user exceeds their 
+                   timed goal around bed time. Over a few weeks, the reminders will become less frequent as the user learns to 
+                   pull away from their phone before they sleep. 
+                     </div>
+               </div> 
 
           <div class="row p10">
               <div class="border">

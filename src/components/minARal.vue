@@ -12,26 +12,24 @@
           </div>
 
           <div class="row">
-            <div class="twelve columns">
-              <div class="hero">
-                <img src="../assets/img/smithexp.png" align="top"> 
-              </div>
+            <div class="twelve columns mb2">
+                    <div class='embed-container'><iframe src='https://player.vimeo.com/video/260576993' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
             </div>
           </div>
 
       <div class="row p10 mb2">
           <div class="four columns role mb2">
-           <b> Role: </b> Content Lead, User Experience, Rapid Prototyping <br> 
+           <b> Role: </b> Content Lead, User Experience, Video Direction <br> 
            <b> Status: </b> Completed, Student Project Spring '18 <br>
            <b> Team: </b> Vidya Keshavan, Stella Zhong, Carla Mollins
           </div>
 
           <div class="eight columns mb2">
-              MinARal is a single-player, augmented reality based scavenger hunt
-              game for mobile devices that educates young users on the real-world
+              MinARal is a single-player, augmented reality based
+              game concept that educates young users on the real-world
               use and purpose of gems and minerals. Proposed to The Smithsonian
-                National Museum of Natural History, our student team wanted to
-                use adventure via augmented reality and whimsy with our story to
+                National Museum of Natural History, our student team created a demo reel
+                promoting a prototype concept that would 
                 get children excited about the science of mineralogy.
           </div>
        </div>   
@@ -142,7 +140,7 @@
         <div class="row p10 mt2">
             <div class="border">
             <div class="six columns mt2">
-                <b>THE PROCESS </b>
+                <b>THE DEMO </b>
             </div>
         </div>
             </div> 
@@ -150,7 +148,7 @@
 
         <div class="row p10">
             <div class="six columns csgoal imgpadtop imgpadbot">
-             Rapid Prototyping
+             Bringing the Concept to Life
             </div>
         </div>
   
@@ -164,23 +162,25 @@
                         We chose this  type of prototype to capture
                         the scope and general appearance, but not necessarily the 
                         final functionality and aesthetic, of our intended design.
-                        <br> <br> We wanted to invoke a  youthful feel to our clickable 
+                        <br> <br> </div>
+                <div class="six columns role mb2">
+                        We wanted to invoke a  youthful feel to our clickable 
                         prototype that represented the game-play and AR experiences.                 But in the absence of development time, our efforts were focused in iterating
                         the storyline into something impactful - one that could establish the brand's tone, 
                         sell itself in a <b> demo reel</b>, and ultimately encourage 
-                        Smithsonian to make an investment decision.</div>
-                <div class="six columns mb2">
-                        <img src="../assets/img/minaralvid.gif" align="top">
-                          </div>
+                        Smithsonian to make an investment decision. </div>
         </div>
-        </div>
+  
+
+
         <div class="row p10 mb2 ">
-                <div class="twelve columns imgpadbot">
-                    <div class='embed-container'><iframe src='https://player.vimeo.com/video/260576993' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-                </div>
-                <i>Demo Reel</i>
-                <br> <br> 
-                <div class="row mb2 ">
+                <div class="sitwelvex columns mb2">
+                        <img src="../assets/img/minaralvid.gif" align="top">
+                        <i> Prototype of Game</i>
+                          </div>
+                        </div>
+
+                <div class="row mb2 p10">
                         <div class="twelve columns">
                             In the demo reel, we wanted to pay special attention to the
                             function of hovering near <a href="https://anymotion.com/en/wissensgrundlagen/augmented-reality-marker">AR markers</a> and collecting
@@ -188,7 +188,7 @@
                             with strategically placed posters and calls to social media action.   </div>
                 </div>
 
-                <div class="row mb2 ">
+                <div class="row mb2 p10">
                         <div class="four columns">
                             <img src="../assets/img/collection.png" align="top">
                         </div>
@@ -252,9 +252,9 @@
                     Unknown </router-link> 
                     </div>
           </div>
-          <div class="copyright">
+          <!-- <div class="copyright">
                 © Vidya Keshavan 2018
-            </div>
+            </div> -->
       </div>
     </div>
 </template>
