@@ -36,7 +36,7 @@
                 three-day-old halibut</a> to explain what a Collateralized Debt Obligation is, then I've more than done my job.
                 <br> <br> -->
                  I focus on user experience and digital product design, though I began my
-                career planning digital marketing initiatives for <a href="www.slate.com">Slate Magazine</a> and <a href="www.wsj.com">The Wall Street Journal.</a>
+                career planning digital marketing initiatives for <a href="https://www.slate.com">Slate Magazine</a> and <a href="https://www.wsj.com">The Wall Street Journal.</a>
                  There, I learned that the medium is unquestionably the message, and wanted to explore how a platform's information 
                  was being consumed and acted on through its design.  With a masters in <a href="https://www.newschool.edu/parsons/mps-communication-design/">
                     Product & Communication Design from Parsons</a> under my belt, I take a human-centered approach to 
@@ -53,9 +53,9 @@
         </div>
         <br>
 
-        <div class="copyright">
+        <!-- <div class="copyright">
             © Vidya Keshavan 2018
-        </div>
+        </div> -->
     </div>
 
     </div>
