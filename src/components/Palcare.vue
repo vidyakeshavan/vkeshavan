@@ -46,7 +46,7 @@
           </div>
        </div>
       
-       <div class="row p10 imgpadtop">
+       <div class="row p10 mt5">
         <div class="twelve columns csgoal">
          Full case study coming soon.
         </div>

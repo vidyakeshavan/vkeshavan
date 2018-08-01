@@ -291,6 +291,10 @@ img {
   margin-top: 10%;
 }
 
+.mt5 {
+  margin-top: 5%;
+}
+
 .mb4 {
   margin-bottom: 10%;
 }

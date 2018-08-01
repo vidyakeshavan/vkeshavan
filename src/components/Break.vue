@@ -63,9 +63,11 @@
 
             <br> <br> 
 
-            I began to investigate. What's causing 
-            our society to feel this way - is it social media, or something much bigger than that?
-              How can teenagers strike a better balance with their devices  - and do the even <i>want</i> to?
+            <a href="https://medium.com/major-studio-2-parsons-vk-2018/research-deep-dive-smartphone-overuse-in-teens-7907c36a25d7">I began to investigate.</a>
+            What's causing our society to feel this way - is it 
+            social media, or something much bigger than that?
+              How can teenagers strike a better balance with their 
+              devices  - and do the even <i>want</i> to?
            </div>
      </div> 
 
@@ -86,7 +88,7 @@
 
       <div class="row p10">
           <div class="twelve columns role ">
-          Wanting to hear from the source itself, 
+          Wanting to hear <a href="https://medium.com/major-studio-2-parsons-vk-2018/user-interviews-and-synthesis-8eeee18400eb">from the source itself,</a>
           I organized a pool of 25 users made up of teenagers, 
           their parents, and their physicians and asked them all to 
           describe their (or their child's/patient's) relationship with devices.          Teenagers <i> were aware </i> of their excessive phone use, but
