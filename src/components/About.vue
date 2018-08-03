@@ -42,7 +42,7 @@
                  
                   With a masters in <a href="https://www.newschool.edu/parsons/mps-communication-design/">
                     Product & Communication Design from Parsons</a> under my belt, I'm committed to transforming and simplifying
-                    complicated information and services into something more human-centered and accessible.
+                    complicated information and services into something a little more accessible.
 
               <br> <br>
               I'm also proud to say that I've designed and developed
