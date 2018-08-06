@@ -6,11 +6,11 @@
         <!-- columns should be the immediate child of a .row -->
 
         <div class="row p4one">
-          <div class="twelve columns headlinepal"> <b>Palliative Care Tablet App</b></div>
+          <div class="twelve columns headlinepal"> <b>myPal Tablet App</b></div>
         </div>
 
         <div class="row p4one">
-          <div class="twelve columns subheadpal"> Title TBD App for Montefiore Medical Center </div>
+          <div class="twelve columns subheadpal"> App for Montefiore Medical Center </div>
         </div>
 
         <div class="row">
@@ -29,7 +29,7 @@
           </div>
 
           <div class="seven columns">
-            Our team is building a tablet application prototype in 
+            Our team is building a tablet application prototype, myPal, in 
             partnership with the 
             <a href="http://www.montefiore.org/family-social-medicine-professional-training-programs-palliative-care"> 
               Palliative Care Team</a> at Montefiore Medical Center. 

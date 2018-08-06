@@ -26,8 +26,8 @@
 
 let items = [
   {
-    title: "Palliative Care App",
-    subTitle: "Title TBD, Tablet App for Montefiore Medical Center",
+    title: "myPal App",
+    subTitle: "myPal, Tablet App for Montefiore Medical Center",
     text: "Coming Soon: App design prototype for ESL patients in need of Advanced Directives & end-of-life care. ",
     img: "",
     rlink: "Palcare",
