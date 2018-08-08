@@ -12,7 +12,7 @@
       <div class="row p10about">
 
           <div class="seven columns mr2 mb2">
-              <img src="../assets/img/postit.jpg">
+              <img src="../assets/img/vacationvid.jpg">
                   <div class="buttons">     
                       <a href="mailto:vidyakeshavan91@gmail.com" class="fa fa-envelope"></a>  
                     <a href="https://www.dropbox.com/s/9xyh3o9gop02p1c/Vidya%20Keshavan%20Resume_June%202018%20.pdf?dl=0" download="VidyaKeshavanResume.pdf" class="fa fa-file"></a>
