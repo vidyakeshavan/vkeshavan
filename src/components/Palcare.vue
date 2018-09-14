@@ -6,39 +6,39 @@
         <!-- columns should be the immediate child of a .row -->
 
         <div class="row p4one">
-          <div class="twelve columns headlinepal"> <b>myPal Tablet App</b></div>
+          <div class="twelve columns headlinepal"> <b>myPal</b></div>
         </div>
 
         <div class="row p4one">
-          <div class="twelve columns subheadpal"> App for Montefiore Medical Center </div>
+          <div class="twelve columns subheadpal"> Interactive Palliative Care Website</div>
         </div>
 
         <div class="row">
           <div class="twelve columns">
             <div class="hero">
-              <img src="../assets/img/rosa.png" align="top"> 
+              <img src="../assets/img/mypalmock2.png" align="top"> 
             </div>
           </div>
         </div>
 
         <div class="row p10">
           <div class="four columns mb2 mr2 role">
-           <b> Role: </b> Freelance Product Design, User Research, Product Management <br> 
-           <b> Status: </b> Ongoing, Summer/Fall '18 <br>
+           <b> Role: </b>  User Research, Product Design, Content, Product Management <br> 
+           <b> Status: </b> Ongoing <br>
            <b> Team: </b> Vidya Keshavan, Patricia Robinson
           </div>
 
           <div class="seven columns">
-            Our team is building a tablet application prototype, myPal, in 
+            Our team is building a website prototype, myPal, in 
             partnership with the 
             <a href="http://www.montefiore.org/family-social-medicine-professional-training-programs-palliative-care"> 
               Palliative Care Team</a> at Montefiore Medical Center. 
-            The app aims to deepen comprehension of end-of-life care and decision making
-            for underserved, English as a Second Language patients, and improve their quality of life by promoting 
-            earlier intervention.  <br> <br> We don’t want to reinvent the design wheel: doing so would undermine the goal of achieving patient comfort. 
+            The site aims to deepen comprehension of end-of-life care and decision making
+            for underserved, English as a Second Language patients, and improve their quality of life by promoting earlier intervention through relatable patient stories. 
+             <!-- <br> <br> We don’t want to reinvent the design wheel: doing so would undermine the goal of achieving patient comfort. 
             Instead we aim to humanize the experience of personal 
             healthcare comprehension and action by applying UI 
-            patterns generally found in successful digital communication and education platforms.
+            patterns generally found in successful digital communication and education platforms. -->
              <!-- and education platforms. such as <a href="https://i.pinimg.com/originals/41/99/0b/41990bbb673a46b427859d116753feb2.png">Slack</a>,
             <a href="https://vignette.wikia.nocookie.net/duolingo/images/c/c5/Mobile_Skills.gif/revision/latest?cb=20140811184510">Duolingo</a>,
             <a href="https://cdn.vox-cdn.com/thumbor/rIxxBEQYNLSTGiUmx1YDygRnaNY=/0x0:1763x1776/1200x0/filters:focal(0x0:1763x1776)/cdn.vox-cdn.com/uploads/chorus_asset/file/6148611/ImageJoiner-2016-03-05_at_11.06.55_AM.0.png">Digit</a>, 

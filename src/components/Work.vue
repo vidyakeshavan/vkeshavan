@@ -26,9 +26,9 @@
 
 let items = [
   {
-    title: "myPal App",
-    subTitle: "myPal, Tablet App for Montefiore Medical Center",
-    text: "Coming Soon: App design prototype for ESL patients in need of Advanced Directives & end-of-life care. ",
+    title: "myPal Website",
+    subTitle: "myPal, Website for Montefiore Medical Center",
+    text: "Coming Soon: Web design prototype for ESL patients in need of Advanced Directives & end-of-life care. ",
     img: "",
     rlink: "Palcare",
   },
@@ -143,7 +143,7 @@ item_4 {
   color:#000;
 } 
 #apps.item_1 {
-  background: #fff url("../assets/img/rosa6.png") center/cover no-repeat;
+  background: #fff url("../assets/img/mypalmock.png") center/cover no-repeat;
   color:#000;
 }
 #apps.item_2 {
