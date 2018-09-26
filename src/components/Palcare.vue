@@ -52,6 +52,8 @@
         </div>
     </div>
 
+    <back-to-top text="Back to top"></back-to-top>
+
 
        <!-- <div class="row p10">
           <div class="six columns csgoal">

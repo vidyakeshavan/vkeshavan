@@ -7,8 +7,12 @@ import Break from '@/components/Break';
 import Palcare from '@/components/Palcare';
 import Unknown from '@/components/Unknown';
 import Palliativecare from '@/components/Palliativecare';
-import { VueElevator } from 'vue-elevator'
-Vue.component('VueElevator', VueElevator);
+// import { VueElevator } from 'vue-elevator'
+// Vue.component('VueElevator', VueElevator);
+
+import vue from 'vue'
+import BackToTop from 'vue-backtotop';
+Vue.use(BackToTop);
 
 Vue.use(Router);
 

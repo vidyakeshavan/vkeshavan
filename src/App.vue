@@ -259,17 +259,17 @@ img {
 
 .fa {
     /* font-size: 1.6em; */
-    width: 30px;
+    /* width: 30px; */
     /* text-align: center; */
-    text-decoration:none ;
+    /* text-decoration:none ;
     margin-bottom: 1.1%; 
-    color: #7D7F87;
+    color: #7D7F87; */
 }
 
-.fa:hover {
+/* .fa:hover {
   transform: scale(1.8);
   color: #B4BDE7;
-}
+} */
 
 .profilepic {
   filter: grayscale(100%);
@@ -474,12 +474,18 @@ h2 { font-size: 2.2rem; line-height: 1.25; letter-spacing: -.1rem; }
 }
 
 p {
+
   margin-top: 0; }
 
-.border {
-  border-top: 0.025px solid lightgrey;
-  
+.btn-to-top .fa-chevron-up {
+    color: grey; 
+    font-size: 16px;     
+  }
+
+.buttontop {
+  color: blue;
 }
+
 
 .demoback {
   background-color: pink;

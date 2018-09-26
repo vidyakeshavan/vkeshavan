@@ -13,12 +13,12 @@
 
           <div class="seven columns mr2 mb2">
               <img src="../assets/img/vacationvid.jpg">
-                  <div class="buttons">     
+                  <!-- <div class="buttons">     
                       <a href="mailto:vidyakeshavan91@gmail.com" class="fa fa-envelope"></a>  
                     <a href="https://www.dropbox.com/s/9xyh3o9gop02p1c/Vidya%20Keshavan%20Resume_June%202018%20.pdf?dl=0" download="VidyaKeshavanResume.pdf" class="fa fa-file"></a>
                       <a href="https://www.linkedin.com/in/vidyakeshavan" class="fa fa-linkedin"></a>
                       <a href="https://medium.com/@vidyakeshavan" class="fa fa-medium"></a>
-                  </div>
+                  </div> -->
             </div>
           <div class="five columns role abouttext">
              <!-- If the fedora-on-vacation look immediately

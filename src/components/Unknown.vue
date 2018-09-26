@@ -251,6 +251,12 @@ attendees that budding technologies are
           <VueElevator word="Scroll to Top" duration="4000"></VueElevator>
         </div> -->
 
+
+        <back-to-top bottom="50px" right="50px">
+          <button type="button" class="btn btn-info btn-to-top"><i class="fa fa-chevron-up"></i></button>
+        </back-to-top>
+
+
 <div class="footer">
   <div class="footertext">
     Next Up 
