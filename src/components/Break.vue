@@ -87,7 +87,7 @@
 
 
       <div class="row p10">
-          <div class="twelve columns role ">
+          <div class="twelve columns imgpadtop role ">
           Wanting to hear <a href="https://medium.com/major-studio-2-parsons-vk-2018/user-interviews-and-synthesis-8eeee18400eb">from the source itself,</a>
           I organized a pool of 25 users made up of teenagers, 
           their parents, and their physicians and asked them all to 
@@ -186,7 +186,7 @@
 
 
         <div class="row p10 imgpadtop imgpadbot">
-          <div class="twelve columns role">
+          <div class="eight columns role">
               <img src="../assets/img/featureset1.png" align="top">
             </div>
           </div>
@@ -227,12 +227,12 @@
             </div>  
     
            <div class="row p10">
-            <div class="eight columns imgpadbot csgoal">
+            <div class="eight columns csgoal">
             What Users Really Thought
             </div>
           </div> 
 
-          <div class="row p10 imgpadtop imgpadbot">
+          <div class="row p10 imgpadtop">
               <div class="twelve columns role mr2">
              Users tested the interaction and core function of the medium fidelity prototype. Their suggestions 
              inspired the below changes from the initial to more finalized versions of the Onboarding, Insights, and Feedback components 

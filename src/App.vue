@@ -4,10 +4,12 @@
     <link href="http://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Londrina+Outline|Londrina+Shadow|Londrina+Solid" rel="stylesheet">
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <div class="p4">
-      <div class="navbar">
-            <h1>Vidya<br /> Keshavan</h1 >
+    <div class="p4 headbar">
+      <div class="navbar navbarclass">
+        <router-link to="/" class="workhover" exact> <h1>Vidya<br /> Keshavan </h1>  </router-link>
             <div class="navlinks">
               <router-link to="/" class="workhover" exact>Work</router-link> &nbsp;&nbsp;&nbsp;
               <router-link to="/about" class="abouthover" exact>About</router-link>
@@ -55,6 +57,7 @@ export default {
 
 body {
   font-family: 'Open Sans', sans-serif;
+  background: white;
   }
 
 .p4 {
@@ -92,13 +95,16 @@ body {
 } */
 
 h1 {
-  font-family: "acme", sans-serif;
+  font-family: 'Londrina Shadow', cursive;
 }
 
 h2{
   font-family: 'Open Sans', sans-serif;
 }
 
+.border {
+  border-top: lightgray solid .02px;
+}
 
 iframe {
   margin-top: 2%;
@@ -115,19 +121,31 @@ img.ipad {
   width:40%;
 }
 
+.hi {
+  background-color: blue;
+}
 
+.p4.headbar {
+  /* background-color: white; */
+}
 
 .navbarfull {
-  background-color: white;
+  /* background-color: white; */
 }
 
 .navbar {
   width: 88%;
-  padding-left: 20px;
+  /* padding-left: 20px; */
   position: fixed;
-  border-left: 0.025px solid #000; */
-  margin: 0 0 50px 0; 
+  /* background-color: white; */
+  /* border-bottom: 0.02px solid #000; */ */
+  margin: 0 0 0 0; 
 }
+
+
+/* .headbar {
+  background-color: white;
+} */
 
 .navlinks {
   font-size: 30px;
@@ -174,11 +192,11 @@ img.ipad {
 }
 
 .workhover:hover {
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 
 .abouthover:hover {
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 
 .content {
@@ -242,7 +260,7 @@ img {
 }
 
 .footerheadline {
-  font-family: 'acme', sans-serif;
+  font-family: 'Londrina Outline', cursive;
   color: #000000;
   font-size: 2.2em;
   margin-left: 10%;
@@ -338,6 +356,16 @@ figcaption {
 
 a {
   color: black;
+  text-decoration: none;  
+}
+
+a:hover {
+  color:#91A8D0;
+  text-decoration: none;
+}
+
+.navbarclass {
+  text-decoration: none;
 }
 
 .routerlinkclass {
@@ -346,7 +374,7 @@ a {
 
 .font1 {
   font-size: 50px;
-  font-family: 'acme', sans-serif;
+  font-family: 'Londrina Solid', cursive;
   margin-bottom:1%;
   line-height: 1.1em;
 }
@@ -372,7 +400,7 @@ a {
   .container {
     width: 100%;
     padding: 0;
-    margin-top: 25%; }
+    margin-top: 35%; }
     .aboutpage {
     width: 100%;
     margin-top: 30%; }
@@ -384,13 +412,13 @@ a {
 @media (min-width: 550px) {
   .container {
     width: 100%;
-    margin-top: 10%; }
+    margin-top: 5%; }
     .aboutpage {
     width: 100%;
-    margin-top: 10%; }
+    margin-top: 5%; }
     #apps {
     width: 100%;
-    margin-top: 10%; }
+    margin-top: 5%; }
   .column,
   .columns {
     margin-left: 1%; }
@@ -463,7 +491,7 @@ h1, h2 {
   margin-top: 0;
   margin-bottom: 2rem;
   font-weight: 300; }
-h1 { font-size: 2.9rem; line-height: 1.2;  letter-spacing: -.1rem;}
+h1 { font-size: 4.9rem; line-height: 1.2;  letter-spacing: -.1rem;}
 h2 { font-size: 2.2rem; line-height: 1.25; letter-spacing: -.1rem; }
 
 
@@ -511,34 +539,34 @@ p {
 }
 
 .headline {
-  font-family: 'acme', sans-serif;
-  font-size: 12vw;
+  font-family:'Londrina Solid', cursive;
+  font-size: 70px;  
   margin-bottom: 0;
-  line-height: .3em;
-  letter-spacing: -.01em;
+  line-height: .5em;
+  letter-spacing: -.0009em;
 }
 
 
 .headlinepal {
-  font-family: 'acme', sans-serif;
-  font-size: 7vw;
+  font-family: 'Londrina Solid', cursive;
+  font-size: 70px;
   margin-bottom: 0;
   line-height: .3em;
-  letter-spacing: -.01em;
+  letter-spacing: -.009em;
 }
 
 .subhead {
   font-family: 'Open Sans',sans-serif;
-  font-size: 3.75vw;
+  font-size: 30px;
   margin-bottom: -3%;
   line-height: .5em;
 } 
 
 .subheadpal {
   font-family: 'Open Sans',sans-serif;
-  font-size: 2.75vw;
+  font-size: 25px;
   margin-bottom: -3%;
-  line-height: .85em;
+  line-height: .9em;
 } 
 
 .hero {
@@ -632,8 +660,8 @@ p {
   font-size: 40px;
     /* margin-top: 8%; */
     letter-spacing: -.01em;
-    line-height: .9em;
-    font-family: 'acme', sans-serif;
+    line-height: 1em;
+    font-family: 'Londrina Solid', cursive;
 }
 
 

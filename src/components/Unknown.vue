@@ -88,7 +88,7 @@
 </div>  
 
 <div class="row p10">
-  <div class="twelve columns">
+  <div class="twelve columns imgpadtop ">
       <img src="../assets/img/visid.png" align="top"> 
   </div>
 </div>

@@ -26,7 +26,7 @@
 
 let items = [
   {
-    title: "myPal Website",
+    title: "myPal",
     subTitle: "myPal, Website for Montefiore Medical Center",
     text: "Coming Soon: Web design prototype for ESL patients in need of Advanced Directives & end-of-life care. ",
     img: "",
@@ -99,28 +99,29 @@ const StyledLink = styled(RouterLink) {
 
 .items a {
 color: white;
-font-family: 'acme', sans-serif;
+font-family: 'Londrina Solid', cursive;
 text-decoration: none;
 font-size: 1.2em;
+letter-spacing: .05em;
 }
 
 #apps.item_1 a  {
 color: black;
-font-family: 'acme', sans-serif;
+font-family: 'Londrina Solid', cursive;
 text-decoration: none;
 font-size: 1.2em;
 }
 
 #apps.item_5 a  {
 color: black;
-font-family: 'acme', sans-serif;
+font-family: 'Londrina Solid', cursive;
 text-decoration: none;
 font-size: 1.2em;
 }
 
 #apps {
   min-height: 90vh;
-    margin-top: 10%;
+    /* margin-top: 5%; */
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -129,7 +130,7 @@ font-size: 1.2em;
 }
 #apps >* {
   padding: 1.8em;
-  max-width: 450px;
+  max-width: 400px;
 }
 
 #apps .item_text {
@@ -184,7 +185,7 @@ ul {
   cursor: pointer;
   position: relative;-webkit
   padding-left: 0.8em;
-  font-size: 1.2em;
+  font-size: 1.4em;
   transition: -webkit-transform .8s .8s;
   transition: transform .8s .8s;
   transition: transform .8s .8s, -webkit-transform .8s .8s;

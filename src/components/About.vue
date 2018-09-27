@@ -35,20 +35,20 @@
               information and services more accessible to users as effectively as the way <a href="https://www.youtube.com/watch?v=27HIPU7tUaY&feature=youtu.be&t=4">Anthony Bourdain can use 
                 three-day-old halibut</a> to explain what a Collateralized Debt Obligation is, then I've more than done my job.
                 <br> <br> -->
-                 I focus on user experience and digital product design, though I began my
-                career planning digital marketing initiatives for <a href="https://www.slate.com">Slate Magazine</a> and <a href="https://www.wsj.com">The Wall Street Journal.</a>
+                 I focus on <a href="https://www.dropbox.com/s/8gva26t2lgoag5u/Vidya%20Keshavan%20Resume_Sept%202018%20.pdf?dl=0">user experience and digital product design,</a> though I began my
+                career planning digital marketing initiatives for Slate Magazine and The Wall Street Journal.
                  There, I discovered how powerful well designed information can be if it can tell a story that inspires action and change. 
                  
                  
                   With a masters in <a href="https://www.newschool.edu/parsons/mps-communication-design/">
                     Product & Communication Design from Parsons</a> under my belt, I'm committed to transforming and simplifying
-                    complicated information and services into a something a little more accessible. 
+                    complicated information into services that are just a little more accessible. 
 
               <br> <br>
               I'm also proud to say that I've designed and developed
               this site myself. Although coffee, supermarket sushi (I'm not
               proud of it either), and long dramatic sighs had a
-              significant hand in its creation. I can tell you all about that over some coffee. And perhaps sushi. 
+              significant hand in its creation. <a href="mailto:vidyakeshavan91@gmail.com">I can tell you all about that</a> over some coffee. And perhaps sushi. 
           </div>
 
         </div>
