@@ -396,7 +396,7 @@ a:hover {
   display: inline-block;
   box-sizing: border-box; }
 
-  @media (min-width: 200px) {
+  @media (min-width: 0px) and (max-width:720px) {
   .container {
     width: 100%;
     padding: 0;

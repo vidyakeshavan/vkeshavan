@@ -140,7 +140,7 @@
             </div>
           </div>  
 
-          <div class="row p10 imgpadtop">
+          <div class="row p10">
               <div class="twelve columns role mr2">
           <i> break</i> was developed with four rounds of prototyping and testing from <a href="https://medium.com/major-studio-2-parsons-vk-2018/paper-prototypes-5cbaadd0b1fa">paper, to low-fidelity,</a>
                     <a href="https://medium.com/major-studio-2-parsons-vk-2018/prototyping-in-medium-fi-where-all-the-action-happens-f05fbc0d074b">medium-fidelty,</a> and high-fidelity. I focused on solutions and features that could
