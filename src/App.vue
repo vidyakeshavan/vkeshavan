@@ -396,6 +396,19 @@ a:hover {
   display: inline-block;
   box-sizing: border-box; }
 
+  @media (min-width: 200px) {
+  .container {
+    width: 100%;
+    padding: 0;
+    margin-top: 35%; }
+    .aboutpage {
+    width: 100%;
+    margin-top: 30%; }
+    #apps {
+    width: 100%;
+    margin-top: 30%; }
+}
+
 @media (min-width: 400px) {
   .container {
     width: 100%;
