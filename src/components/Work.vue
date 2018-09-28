@@ -130,7 +130,7 @@ font-size: 1.2em;
 }
 #apps >* {
   padding: 1.8em;
-  max-width: 350px;
+  max-width: 300px;
 }
 
 #apps .item_text {
@@ -144,11 +144,11 @@ item_4 {
   color:#000;
 } 
 #apps.item_1 {
-  background: #000 url("../assets/img/webmock_mypal2.png") center/cover no-repeat;
+  background: #000 url("../assets/img/webmock_mypal3.png") center/cover no-repeat;
   /* color:#000; */
 }
 #apps.item_2 {
-    background: #000 url("  ../assets/img/breakcolor.png") center/cover no-repeat;  
+    background: #000 url("  ../assets/img/breakcolor2.png") center/cover no-repeat;  
 }
 #apps.item_3 {
   background: #000 url("../assets/img/collection.png") center/cover no-repeat;
