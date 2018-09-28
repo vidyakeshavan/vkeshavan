@@ -105,12 +105,12 @@ font-size: 1.2em;
 letter-spacing: .05em;
 }
 
-#apps.item_1 a  {
+/* #apps.item_1 a  {
 color: black;
 font-family: 'Londrina Solid', cursive;
 text-decoration: none;
 font-size: 1.2em;
-}
+} */
 
 #apps.item_5 a  {
 color: black;
@@ -130,7 +130,7 @@ font-size: 1.2em;
 }
 #apps >* {
   padding: 1.8em;
-  max-width: 400px;
+  max-width: 350px;
 }
 
 #apps .item_text {
@@ -144,8 +144,8 @@ item_4 {
   color:#000;
 } 
 #apps.item_1 {
-  background: #fff url("../assets/img/mypalmock.png") center/cover no-repeat;
-  color:#000;
+  background: #000 url("../assets/img/webmock_mypal2.png") center/cover no-repeat;
+  /* color:#000; */
 }
 #apps.item_2 {
     background: #000 url("  ../assets/img/breakcolor.png") center/cover no-repeat;  
