@@ -400,13 +400,16 @@ a:hover {
   .container {
     width: 100%;
     padding: 0;
-    margin-top: 35%; }
+    margin-top: 50%; }
     .aboutpage {
     width: 100%;
     margin-top: 30%; }
     #apps {
     width: 100%;
     margin-top: 30%; }
+    .mobile-hide {
+      display:none !important;
+    }
 }
 
 @media (min-width: 400px) {

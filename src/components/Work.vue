@@ -8,13 +8,15 @@
         :key="index" @click="jump(index)" @mouseover="jump(index)"><router-link :to="items[active].rlink"> {{ item.title }} </router-link> </li>
           
      </ul>
+     <div class="mobile-hide">
      <div class="item_text">
        <h2> {{ items[active].subTitle }}</h2>
        <p>
           {{ items[active].text }}
        </p>
-        <!-- <router-link :to="items[active].rlink"> </router-link> -->
+        <router-link :to="items[active].rlink"> </router-link>
      </div>
+    </div>
    </div>
    <div class="copyright">
       © Vidya Keshavan 2018
@@ -125,18 +127,19 @@ font-size: 1.2em;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  align-items: top;
+  /* align-items: top; */
   color: #fff;
 }
 #apps >* {
   padding: 1.8em;
-  max-width: 300px;
+  max-width: 350px;
 }
 
 #apps .item_text {
   font-family: "Open Sans", sans-serif;
   font-size: 18px;  
   text-align: left;
+  margin-left: 20%;
   /* align-items: ; */
 }
 
